@@ -1,0 +1,7 @@
+rule_id,rule_name,points_per_unit_spend,min_spend_threshold,bonus_points
+1,Standard Earning,1.0,0,0.0
+2,Weekend Bonus,1.5,0,50.0
+3,Big Spender,2.0,100,100.0
+4,Holiday Double,2.0,0,0.0
+5,First Purchase,3.0,0,200.0
+6,,1.0,50,

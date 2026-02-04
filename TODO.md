@@ -12,13 +12,13 @@ Build a regression model to predict how much a customer will spend in the next 3
 ## Sprint 1: System Design (1 hour)
 
 ### 5.1.1 Problem Understanding
-- [ ] Restate the problem in your own words
-- [ ] Define "short-term spend" (target variable = total spend in next 30 days)
+- [x] Restate the problem in your own words
+- [x] Define "short-term spend" (target variable = total spend in next 30 days)
 
 ### 5.1.2 Dataset Scouting & Choice
-- [ ] Identify 1-2 candidate retail/e-commerce datasets
-- [ ] Verify dataset has: customer_id, timestamps, transaction values, multiple purchases per customer
-- [ ] Choose final dataset with justification
+- [x] Identify 1-2 candidate retail/e-commerce datasets
+- [x] Verify dataset has: customer_id, timestamps, transaction values, multiple purchases per customer
+- [x] Choose final dataset with justification
 
 ### 5.1.3 High-Level Architecture
 - [ ] Define tech stack (Python, libraries: pandas, scikit-learn, etc.)

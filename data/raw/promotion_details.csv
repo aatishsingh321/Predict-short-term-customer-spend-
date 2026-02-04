@@ -1,0 +1,31 @@
+promotion_id,promotion_name,start_date,end_date,discount_percentage,applicable_category
+PR001,Holiday Special,2023-10-12,2023-10-27,0.15,Grocery
+PR002,Back to School,2024-04-08,2024-04-23,0.16,ALL
+PR003,Spring Savings,2023-09-07,2023-09-17,0.1,Automotive
+PR004,Flash Sale,2023-12-02,2023-12-15,0.4,Sports
+PR005,Fall Festival,2023-04-15,2023-05-05,0.05,Automotive
+PR006,Holiday Special,2024-11-29,2024-12-28,1.2953355297807598,ALL
+PR007,Back to School,2024-09-08,2024-09-11,0.47,Grocery
+PR008,Spring Savings,2024-10-15,2024-11-01,0.18,
+PR009,Summer Sale,2023-02-28,2023-03-29,0.47,ALL
+PR010,Cyber Monday,2023-07-26,2023-08-02,0.37,Automotive
+PR011,Back to School,2024-06-02,2024-06-06,1.5138509918556189,Grocery
+PR012,New Year Sale,2023-06-23,2023-07-12,0.05,Books
+PR013,Spring Savings,2024-07-18,2024-07-22,0.27,Books
+PR014,Weekend Deal,2023-03-31,2023-04-05,0.23,Toys
+PR015,Weekend Deal,2024-05-01,2024-05-09,0.45,Books
+PR016,Holiday Special,2024-10-06,2024-10-17,0.2,Jewelry
+PR017,,2024-09-13,2024-09-27,0.48,Jewelry
+PR018,Black Friday,2023-07-23,2023-08-09,0.45,Apparel
+PR019,Fall Festival,2023-11-05,2023-11-22,0.4,Toys
+PR020,Spring Savings,2024-11-07,2024-11-28,0.19,Books
+PR021,Flash Sale,2024-10-14,2024-10-19,0.16,ALL
+PR022,Summer Sale,2024-04-12,2024-04-15,0.34,
+PR023,Flash Sale,2024-01-24,2024-02-06,1.246174849177205,Automotive
+PR024,New Year Sale,2024-10-25,2024-10-30,0.12,Automotive
+PR025,Spring Savings,2023-09-05,2023-09-29,0.34,Books
+PR026,Winter Clearance,2023-06-20,2023-06-25,0.31,Toys
+PR027,New Year Sale,2024-10-04,2024-11-02,1.9060772283201186,Jewelry
+PR028,Spring Savings,2024-11-23,2024-11-30,0.09,Grocery
+PR029,Summer Sale,2023-10-07,2023-10-25,0.45,Beauty
+PR030,Weekend Deal,2023-03-19,2023-04-05,1.814675010652087,Electronics
