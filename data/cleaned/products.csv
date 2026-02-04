@@ -1,0 +1,197 @@
+product_id,product_name,product_category,unit_price,current_stock_level
+P0001,Wireless Headphones V1,Electronics,188.28,477.0
+P0002,Wireless Headphones V2,Electronics,119.93,435.0
+P0003,Wireless Headphones V3,Electronics,35.29,227.0
+P0004,Smart Watch V1,Electronics,191.46,0.0
+P0005,Bluetooth Speaker V1,Electronics,177.56,271.0
+P0006,Product_P0006,Electronics,154.72,0.0
+P0007,Phone Case V1,Electronics,28.11,45.0
+P0008,Phone Case V2,Unknown,26.21,380.0
+P0009,USB Cable V1,Electronics,45.77,291.0
+P0010,Power Bank V1,Electronics,115.31,209.0
+P0011,Power Bank V2,Electronics,128.87,62.0
+P0012,Power Bank V3,Electronics,187.65,278.0
+P0013,Tablet Stand V1,Electronics,128.87,213.0
+P0014,Webcam V1,Electronics,16.79,447.0
+P0015,Webcam V2,Electronics,176.82,190.0
+P0016,Webcam V3,Electronics,176.35,475.0
+P0017,Mouse V1,Electronics,36.34,363.0
+P0018,Keyboard V1,Electronics,151.35,84.0
+P0019,Keyboard V2,Electronics,128.87,166.0
+P0020,Keyboard V3,Electronics,32.28,452.0
+P0021,T-Shirt V1,Apparel,40.64,459.0
+P0022,Jeans V1,Apparel,32.28,73.0
+P0023,Product_P0023,Apparel,18.99,209.0
+P0024,Jeans V3,Apparel,112.85,37.0
+P0025,Jacket V1,Apparel,131.36,485.0
+P0026,Jacket V2,Apparel,115.59,50.0
+P0027,Jacket V3,Apparel,140.04,333.0
+P0028,Sneakers V1,Apparel,100.66,298.0
+P0029,Sneakers V2,Apparel,129.24,0.0
+P0030,Hat V1,Apparel,21.99,164.0
+P0031,Hat V2,Apparel,73.52,179.0
+P0032,Hat V3,Apparel,11.98,415.0
+P0033,Scarf V1,Apparel,20.37,151.0
+P0034,Gloves V1,Apparel,95.35,346.0
+P0035,Gloves V2,Apparel,47.04,150.0
+P0036,Gloves V3,Apparel,141.97,0.0
+P0037,Socks V1,Apparel,101.21,227.0
+P0038,Belt V1,Apparel,55.26,352.0
+P0039,Dress V1,Apparel,146.24,496.0
+P0040,Product_P0040,Apparel,73.95,438.0
+P0041,Plant Pot V1,Home & Garden,36.58,328.0
+P0042,Candle V1,Home & Garden,52.72,431.0
+P0043,Pillow V1,Home & Garden,41.1,350.0
+P0044,Pillow V2,Home & Garden,35.82,230.0
+P0045,Blanket V1,Home & Garden,49.2,146.0
+P0046,Blanket V2,Home & Garden,97.9,342.0
+P0047,Vase V1,Home & Garden,17.99,134.0
+P0048,Vase V2,Home & Garden,83.35,2.0
+P0049,Vase V3,Home & Garden,40.02,327.0
+P0050,Picture Frame V1,Home & Garden,8.54,475.0
+P0051,Picture Frame V2,Home & Garden,40.2,300.0
+P0052,Lamp V1,Home & Garden,98.94,51.0
+P0053,Rug V1,Home & Garden,39.03,460.0
+P0054,Rug V2,Home & Garden,48.51,300.0
+P0055,Rug V3,Home & Garden,62.52,186.0
+P0056,Curtains V1,Home & Garden,13.67,142.0
+P0057,Clock V1,Home & Garden,53.2,331.0
+P0058,Clock V2,Home & Garden,22.14,364.0
+P0059,Clock V3,Home & Garden,61.64,264.0
+P0060,Yoga Mat V1,Sports,11.94,198.0
+P0061,Yoga Mat V2,Sports,74.32,119.0
+P0062,Yoga Mat V3,Sports,70.68,83.0
+P0063,Dumbbells V1,Sports,76.49,402.0
+P0064,Dumbbells V2,Sports,30.35,328.0
+P0065,Dumbbells V3,Sports,76.96,391.0
+P0066,Water Bottle V1,Sports,32.09,61.0
+P0067,Water Bottle V2,Sports,35.12,243.0
+P0068,Resistance Bands V1,Sports,68.8,219.0
+P0069,Jump Rope V1,Sports,39.98,265.0
+P0070,Tennis Balls V1,Sports,17.96,108.0
+P0071,Tennis Balls V2,Sports,37.87,383.0
+P0072,Basketball V1,Sports,9.37,269.0
+P0073,Basketball V2,Sports,18.34,320.0
+P0074,Basketball V3,Sports,33.71,88.0
+P0075,Helmet V1,Sports,29.13,58.0
+P0076,Gloves V1,Sports,76.87,146.0
+P0077,Gloves V2,Sports,57.66,68.0
+P0078,Knee Pads V1,Sports,24.99,8.0
+P0079,Knee Pads V2,Sports,48.44,427.0
+P0080,Knee Pads V3,Sports,47.6,234.0
+P0081,Lipstick V1,Beauty,44.43,388.0
+P0082,Lipstick V2,Beauty,11.83,268.0
+P0083,Lipstick V3,Beauty,14.42,10.0
+P0084,Mascara V1,Beauty,18.47,199.0
+P0085,Mascara V2,Beauty,30.66,250.0
+P0086,Face Cream V1,Beauty,26.63,182.0
+P0087,Face Cream V2,Beauty,15.71,381.0
+P0088,Face Cream V3,Beauty,7.14,255.0
+P0089,Shampoo V1,Beauty,23.22,240.0
+P0090,Shampoo V2,Beauty,13.13,26.0
+P0091,Shampoo V3,Beauty,31.31,147.0
+P0092,Perfume V1,Beauty,42.96,16.0
+P0093,Nail Polish V1,Beauty,46.1,164.0
+P0094,Nail Polish V2,Beauty,35.27,365.0
+P0095,Sunscreen V1,Beauty,26.63,273.0
+P0096,Hair Dryer V1,Beauty,15.6,258.0
+P0097,Hair Dryer V2,Beauty,31.26,76.0
+P0098,Hair Dryer V3,Beauty,22.1,335.0
+P0099,Brush Set V1,Beauty,33.9,245.0
+P0100,Face Mask V1,Beauty,27.85,452.0
+P0101,Action Figure V1,Toys,48.49,55.0
+P0102,Board Game V1,Toys,55.37,0.0
+P0103,Puzzle V1,Toys,16.05,412.0
+P0104,Puzzle V2,Toys,24.21,0.0
+P0105,Puzzle V3,Toys,34.5,193.0
+P0106,Lego Set V1,Toys,42.14,150.0
+P0107,Doll V1,Toys,64.87,406.0
+P0108,RC Car V1,Toys,43.75,345.0
+P0109,RC Car V2,Toys,37.65,19.0
+P0110,Product_P0110,Toys,10.55,495.0
+P0111,Stuffed Animal V1,Toys,16.42,345.0
+P0112,Stuffed Animal V2,Toys,34.32,112.0
+P0113,Building Blocks V1,Toys,51.07,283.0
+P0114,Card Game V1,Toys,54.38,162.0
+P0115,Toy Train V1,Toys,32.53,179.0
+P0116,Novel V1,Books,21.79,366.0
+P0117,Cookbook V1,Books,17.64,49.0
+P0118,Cookbook V2,Books,22.09,371.0
+P0119,Cookbook V3,Books,20.57,349.0
+P0120,Biography V1,Books,29.08,179.0
+P0121,Self-Help V1,Books,19.36,260.0
+P0122,Self-Help V2,Books,30.09,261.0
+P0123,Self-Help V3,Books,33.93,113.0
+P0124,Science Fiction V1,Books,22.39,53.0
+P0125,Science Fiction V2,Books,26.78,88.0
+P0126,Mystery V1,Books,28.34,0.0
+P0127,Mystery V2,Books,21.3,387.0
+P0128,History V1,Books,34.32,413.0
+P0129,History V2,Books,30.05,496.0
+P0130,Art Book V1,Books,12.34,196.0
+P0131,Art Book V2,Books,36.16,229.0
+P0132,Art Book V3,Books,34.4,423.0
+P0133,Travel Guide V1,Books,39.86,315.0
+P0134,Travel Guide V2,Books,23.26,369.0
+P0135,Dictionary V1,Books,28.53,106.0
+P0136,Coffee V1,Grocery,9.69,305.0
+P0137,Tea V1,Grocery,9.51,83.0
+P0138,Tea V2,Grocery,4.63,153.0
+P0139,Tea V3,Grocery,20.55,336.0
+P0140,Chocolate V1,Grocery,16.97,263.0
+P0141,Chocolate V2,Grocery,18.31,236.0
+P0142,Chocolate V3,Grocery,20.7,259.0
+P0143,Pasta V1,Grocery,3.22,384.0
+P0144,Olive Oil V1,Grocery,12.05,138.0
+P0145,Honey V1,Grocery,18.68,196.0
+P0146,Cereal V1,Grocery,5.94,408.0
+P0147,Product_P0147,Grocery,9.7,231.0
+P0148,Cereal V3,Grocery,13.82,42.0
+P0149,Snacks V1,Grocery,13.33,446.0
+P0150,Snacks V2,Grocery,20.03,87.0
+P0151,Spices V1,Grocery,23.7,428.0
+P0152,Jam V1,Grocery,27.68,246.0
+P0153,Jam V2,Grocery,24.77,181.0
+P0154,Car Freshener V1,Automotive,81.27,84.0
+P0155,Phone Mount V1,Automotive,96.87,116.0
+P0156,Phone Mount V2,Automotive,11.03,206.0
+P0157,Seat Cover V1,Automotive,50.62,477.0
+P0158,Seat Cover V2,Automotive,90.08,116.0
+P0159,Floor Mat V1,Automotive,64.02,333.0
+P0160,Sunshade V1,Automotive,30.36,278.0
+P0161,Sunshade V2,Automotive,36.9,224.0
+P0162,Tire Gauge V1,Automotive,84.03,261.0
+P0163,Jump Starter V1,Automotive,62.44,330.0
+P0164,Jump Starter V2,Automotive,90.06,246.0
+P0165,Tool Kit V1,Automotive,64.45,28.0
+P0166,Tool Kit V2,Automotive,85.33,10.0
+P0167,Tool Kit V3,Automotive,33.28,100.0
+P0168,Wax V1,Automotive,82.08,106.0
+P0169,Wax V2,Automotive,43.68,359.0
+P0170,Cleaner V1,Automotive,71.27,92.0
+P0171,Cleaner V2,Automotive,25.3,455.0
+P0172,Cleaner V3,Automotive,36.46,190.0
+P0173,Necklace V1,Unknown,108.59,384.0
+P0174,Necklace V2,Jewelry,153.67,0.0
+P0175,Necklace V3,Jewelry,32.8,245.0
+P0176,Bracelet V1,Jewelry,161.3,19.0
+P0177,Bracelet V2,Jewelry,214.65,48.0
+P0178,Earrings V1,Unknown,216.96,459.0
+P0179,Earrings V2,Jewelry,147.89,213.0
+P0180,Earrings V3,Jewelry,194.11,430.0
+P0181,Ring V1,Jewelry,185.41,493.0
+P0182,Ring V2,Jewelry,166.95,216.0
+P0183,Watch V1,Jewelry,281.62,254.0
+P0184,Watch V2,Jewelry,53.24,311.0
+P0185,Watch V3,Jewelry,112.95,0.0
+P0186,Anklet V1,Jewelry,222.04,50.0
+P0187,Anklet V2,Jewelry,289.88,349.0
+P0188,Brooch V1,Jewelry,213.9,257.0
+P0189,Brooch V2,Jewelry,116.68,175.0
+P0190,Brooch V3,Jewelry,23.58,69.0
+P0191,Cufflinks V1,Jewelry,227.88,484.0
+P0192,Pendant V1,Jewelry,217.3,344.0
+P0193,Pendant V2,Jewelry,21.58,149.0
+P0194,Pendant V3,Jewelry,136.46,266.0
+P0195,Chain V1,Jewelry,288.49,415.0
+P0196,Chain V2,Jewelry,292.06,100.0

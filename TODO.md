@@ -37,9 +37,9 @@ Build a regression model to predict how much a customer will spend in the next 3
 ## Sprint 2: Data Selection, EDA and Model Training (4 hours)
 
 ### 5.2.1 Data Loading & Cleaning
-- [ ] Load transactions data
-- [ ] Handle missing values
-- [ ] Clean data types (dates, amounts)
+- [x] Load transactions data
+- [x] Handle missing values
+- [x] Clean data types (dates, amounts)
 
 ### 5.2.2 Feature Engineering (Customer-Level)
 - [ ] Create RFM features (Recency, Frequency, Monetary)

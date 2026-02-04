@@ -1,0 +1,16 @@
+store_id,store_name,store_city,store_region,opening_date
+S001,New York Store,New York,Northeast,2018-01-26
+S002,Los Angeles Store,Los Angeles,West,2018-04-15
+S003,Chicago Store,Chicago,Midwest,2019-03-09
+S004,Houston Store,Houston,Southwest,2019-09-09
+S005,Phoenix Store,Phoenix,West,2019-07-13
+S006,Philadelphia Store,Philadelphia,Northeast,2020-06-09
+S007,San Antonio Store,San Antonio,Southwest,2018-12-15
+S008,San Diego Store,San Diego,West,2018-04-15
+S009,Dallas Store,Dallas,Southwest,2019-09-11
+S010,Austin Store,Austin,Southwest,2018-05-08
+S011,Seattle Store,Seattle,West,2020-04-29
+S012,Boston Store,Boston,Northeast,2018-07-16
+S013,Denver Store,Denver,South,2018-10-24
+S014,Atlanta Store,Atlanta,South,2019-01-25
+S015,Miami Store,Miami,South,2019-01-15

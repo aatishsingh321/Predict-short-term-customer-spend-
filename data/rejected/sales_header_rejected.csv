@@ -1,0 +1,2164 @@
+transaction_id,customer_id,store_id,transaction_date,total_amount,customer_phone,rejection_reason
+T000035,,S004,2025-09-16 08:49:00,,,Missing customer_id - cannot attribute transaction
+T000060,,S004,2024-08-04 17:07:00,294.93,,Missing customer_id - cannot attribute transaction
+T000075,,S002,2024-03-07 09:50:00,270.15,,Missing customer_id - cannot attribute transaction
+T000079,,S002,2025-02-07 14:03:00,325.03,,Missing customer_id - cannot attribute transaction
+T000088,,S012,2024-09-08 10:22:00,143.93,,Missing customer_id - cannot attribute transaction
+T000099,,S007,2024-08-13 18:08:00,305.28,,Missing customer_id - cannot attribute transaction
+T000103,,S011,2023-01-24 12:09:00,243.74,,Missing customer_id - cannot attribute transaction
+T000113,,S011,2023-02-10 21:26:00,301.85,,Missing customer_id - cannot attribute transaction
+T000127,,S011,17-02-2025 17:46,477.7,,Missing customer_id - cannot attribute transaction
+T000178,,S013,2023-10-07 18:09:00,490.47,,Missing customer_id - cannot attribute transaction
+T000191,,S002,2024-07-09 19:03:00,263.15,,Missing customer_id - cannot attribute transaction
+T000232,,S003,2023-01-02 15:10:00,459.32,,Missing customer_id - cannot attribute transaction
+T000317,,S003,2024-09-09 12:03:00,248.5,,Missing customer_id - cannot attribute transaction
+T000367,,S013,2024-06-13 21:15:00,373.05,,Missing customer_id - cannot attribute transaction
+T000378,,S001,2023-09-21 08:16:00,219.67,,Missing customer_id - cannot attribute transaction
+T000425,,S002,2024/08/28,12.25,,Missing customer_id - cannot attribute transaction
+T000431,,S004,2025-04-11 19:35:00,281.95,,Missing customer_id - cannot attribute transaction
+T000465,,S001,2024-11-09 21:19:00,194.58,,Missing customer_id - cannot attribute transaction
+T000494,,S013,2023-01-10 08:57:00,174.3,,Missing customer_id - cannot attribute transaction
+T000546,,S011,2023-01-16 20:07:00,,,Missing customer_id - cannot attribute transaction
+T000548,,S003,2024-03-24 19:35:00,405.19,,Missing customer_id - cannot attribute transaction
+T000561,,S004,2024-05-24 16:48:00,492.83,,Missing customer_id - cannot attribute transaction
+T000744,,S013,2024-01-06 14:10:00,113.79,,Missing customer_id - cannot attribute transaction
+T000757,,S003,2025-07-19 16:13:00,455.28,,Missing customer_id - cannot attribute transaction
+T000788,,S003,2023-12-31 09:49:00,312.52,,Missing customer_id - cannot attribute transaction
+T000794,,S004,2023-07-23 12:12:00,29.88,,Missing customer_id - cannot attribute transaction
+T000798,,S015,02-02-2025 12:11,315.55,,Missing customer_id - cannot attribute transaction
+T000853,,S008,2024-09-12 13:27:00,69.41,,Missing customer_id - cannot attribute transaction
+T000861,,S008,2025-06-13 08:38:00,49.67,,Missing customer_id - cannot attribute transaction
+T000906,,S005,2025-04-01 13:12:00,305.9,,Missing customer_id - cannot attribute transaction
+T000909,,S010,2023-08-07 20:05:00,368.67,,Missing customer_id - cannot attribute transaction
+T000995,,S012,2024-09-24 12:40:00,21.9,,Missing customer_id - cannot attribute transaction
+T001023,,S011,2025-07-25 12:49:00,421.68,,Missing customer_id - cannot attribute transaction
+T001024,,S002,2024-08-13 13:23:00,141.79,,Missing customer_id - cannot attribute transaction
+T001037,,S003,2024-07-07 21:40:00,407.47,,Missing customer_id - cannot attribute transaction
+T001039,,S008,2024-08-05 13:25:00,235.32,,Missing customer_id - cannot attribute transaction
+T001050,,S014,2025-01-04 13:16:00,51.49,,Missing customer_id - cannot attribute transaction
+T001058,,S005,2025-03-08 21:21:00,446.9,,Missing customer_id - cannot attribute transaction
+T001064,,S006,2023-05-07 20:56:00,446.68,,Missing customer_id - cannot attribute transaction
+T001066,,S007,2024-06-23 11:58:00,495.38,,Missing customer_id - cannot attribute transaction
+T001102,,S004,2023-01-05 15:28:00,135.24,,Missing customer_id - cannot attribute transaction
+T001118,,S012,2025-08-28 09:19:00,453.76,,Missing customer_id - cannot attribute transaction
+T001131,,S013,2024-07-29 18:11:00,150.25,,Missing customer_id - cannot attribute transaction
+T001147,,S008,2024-03-31 09:08:00,131.16,,Missing customer_id - cannot attribute transaction
+T001155,,S004,2023-03-19 15:06:00,32.71,,Missing customer_id - cannot attribute transaction
+T001163,,S012,2023-03-15 20:08:00,470.07,,Missing customer_id - cannot attribute transaction
+T001177,,S009,2023-06-11 13:34:00,386.69,,Missing customer_id - cannot attribute transaction
+T001195,,S004,2025/03/14,32.4,,Missing customer_id - cannot attribute transaction
+T001250,,S014,2025-07-13 19:12:00,178.2,,Missing customer_id - cannot attribute transaction
+T001275,,S003,2025-04-02 11:18:00,111.79,,Missing customer_id - cannot attribute transaction
+T001295,,S011,2024-02-10 17:37:00,269.39,,Missing customer_id - cannot attribute transaction
+T001320,,S006,2024-04-26 12:40:00,18.04,,Missing customer_id - cannot attribute transaction
+T001418,,S014,2023-09-12 15:50:00,200.33,,Missing customer_id - cannot attribute transaction
+T001427,,S006,2025-01-21 13:40:00,484.29,,Missing customer_id - cannot attribute transaction
+T001431,,S001,2023-10-05 17:55:00,215.72,,Missing customer_id - cannot attribute transaction
+T001494,,S012,2023-01-05 15:30:00,187.67,,Missing customer_id - cannot attribute transaction
+T001497,,S007,2024-06-20 10:22:00,293.86,,Missing customer_id - cannot attribute transaction
+T001533,,S006,2024-01-18 12:46:00,28.61,,Missing customer_id - cannot attribute transaction
+T001554,,S003,2024-03-02 13:27:00,197.14,,Missing customer_id - cannot attribute transaction
+T001556,,S004,2025-07-13 12:23:00,410.26,,Missing customer_id - cannot attribute transaction
+T001564,,S012,2023-05-30 20:24:00,286.22,,Missing customer_id - cannot attribute transaction
+T001584,,S005,2023-02-25 20:01:00,319.96,,Missing customer_id - cannot attribute transaction
+T001589,,S007,2024-12-14 11:22:00,54.16,,Missing customer_id - cannot attribute transaction
+T001617,,S010,2024-05-19 11:45:00,437.2,,Missing customer_id - cannot attribute transaction
+T001625,,S014,2024-04-19 15:52:00,364.29,,Missing customer_id - cannot attribute transaction
+T001701,,S002,2023-08-06 17:20:00,61.76,,Missing customer_id - cannot attribute transaction
+T001704,,S004,2023-03-16 13:51:00,484.49,,Missing customer_id - cannot attribute transaction
+T001735,,S001,2023-09-08 20:22:00,50.09,,Missing customer_id - cannot attribute transaction
+T001747,,S003,2024-11-05 08:23:00,215.13,,Missing customer_id - cannot attribute transaction
+T001814,,S014,2024-09-16 19:48:00,329.68,,Missing customer_id - cannot attribute transaction
+T001846,,S012,2024-03-27 21:25:00,350.78,,Missing customer_id - cannot attribute transaction
+T001854,,S011,2024-10-26 09:42:00,138.98,,Missing customer_id - cannot attribute transaction
+T001860,,S001,2024-05-19 15:15:00,466.74,,Missing customer_id - cannot attribute transaction
+T001863,,S011,2023-04-10 19:12:00,26.15,,Missing customer_id - cannot attribute transaction
+T001897,,S013,2025-04-01 16:06:00,193.91,,Missing customer_id - cannot attribute transaction
+T001900,,S011,2024-11-22 12:56:00,361.45,,Missing customer_id - cannot attribute transaction
+T001912,,S001,2025-05-09 20:32:00,275.43,,Missing customer_id - cannot attribute transaction
+T001961,,S007,2024-06-14 08:09:00,318.93,,Missing customer_id - cannot attribute transaction
+T001967,,S003,2025-06-30 11:52:00,106.31,,Missing customer_id - cannot attribute transaction
+T001979,,S014,2025-01-13 12:58:00,263.99,,Missing customer_id - cannot attribute transaction
+T001981,,S010,2023-06-29 19:24:00,162.01,,Missing customer_id - cannot attribute transaction
+T001984,,S001,2023-10-15 08:42:00,158.74,,Missing customer_id - cannot attribute transaction
+T002033,,S013,2024-07-05 14:47:00,305.49,,Missing customer_id - cannot attribute transaction
+T002046,,S014,2025-01-07 20:35:00,493.37,,Missing customer_id - cannot attribute transaction
+T002054,,S007,2023-08-12 08:45:00,321.36,,Missing customer_id - cannot attribute transaction
+T002114,,S011,2024-10-25 10:59:00,63.51,,Missing customer_id - cannot attribute transaction
+T002123,,S007,2024-05-14 10:27:00,308.67,,Missing customer_id - cannot attribute transaction
+T002124,,S014,2024-09-26 17:39:00,40.86,,Missing customer_id - cannot attribute transaction
+T002125,,S008,2023-02-27 21:01:00,434.97,,Missing customer_id - cannot attribute transaction
+T002134,,S010,2025-03-09 16:11:00,398.46,,Missing customer_id - cannot attribute transaction
+T002317,,S003,2023-10-24 21:34:00,214.15,,Missing customer_id - cannot attribute transaction
+T002350,,S014,2025/08/10,468.45,,Missing customer_id - cannot attribute transaction
+T002416,,S003,2025-02-15 09:50:00,488.8,,Missing customer_id - cannot attribute transaction
+T002454,,S012,2024-09-07 14:12:00,295.94,,Missing customer_id - cannot attribute transaction
+T002486,,S015,2023-04-21 09:06:00,292.5,,Missing customer_id - cannot attribute transaction
+T002494,,S006,2025-09-08 12:46:00,124.95,,Missing customer_id - cannot attribute transaction
+T002497,,S006,2023-05-01 21:12:00,81.62,,Missing customer_id - cannot attribute transaction
+T002501,,S011,2024-08-15 12:09:00,384.42,,Missing customer_id - cannot attribute transaction
+T002505,,S007,2024-04-15 18:43:00,149.71,,Missing customer_id - cannot attribute transaction
+T002516,,S003,2024-06-19 12:53:00,116.65,,Missing customer_id - cannot attribute transaction
+T002528,,S001,2023-05-05 11:04:00,295.3,,Missing customer_id - cannot attribute transaction
+T002533,,S007,2023-09-07 16:21:00,490.33,,Missing customer_id - cannot attribute transaction
+T002560,,S007,2024-08-03 08:06:00,283.47,,Missing customer_id - cannot attribute transaction
+T002578,,S009,2025-03-15 17:57:00,264.54,,Missing customer_id - cannot attribute transaction
+T002579,,S013,2023-07-03 10:55:00,272.94,,Missing customer_id - cannot attribute transaction
+T002583,,S013,2024-02-20 09:19:00,410.19,,Missing customer_id - cannot attribute transaction
+T002609,,S008,2023-07-21 18:54:00,453.28,,Missing customer_id - cannot attribute transaction
+T002643,,S013,2024-09-26 10:47:00,246.59,,Missing customer_id - cannot attribute transaction
+T002648,,S006,2024-02-21 20:17:00,,,Missing customer_id - cannot attribute transaction
+T002736,,S002,2024-10-10 15:31:00,160.97,,Missing customer_id - cannot attribute transaction
+T002746,,S005,2025-01-26 18:19:00,106.75,,Missing customer_id - cannot attribute transaction
+T002760,,S010,2024-09-03 18:50:00,101.56,,Missing customer_id - cannot attribute transaction
+T002764,,S013,2024-12-24 10:43:00,381.54,,Missing customer_id - cannot attribute transaction
+T002798,,S012,2024-11-19 18:19:00,426.63,,Missing customer_id - cannot attribute transaction
+T002800,,S012,2025-02-15 17:45:00,95.7,,Missing customer_id - cannot attribute transaction
+T002835,,S007,2024-05-31 09:01:00,115.75,,Missing customer_id - cannot attribute transaction
+T002865,,S015,2023-08-21 09:11:00,95.24,,Missing customer_id - cannot attribute transaction
+T002896,,S008,2023-10-21 13:03:00,404.32,,Missing customer_id - cannot attribute transaction
+T002903,,S001,2024-12-02 08:15:00,370.91,,Missing customer_id - cannot attribute transaction
+T002986,,S005,2024-02-24 19:38:00,304.84,,Missing customer_id - cannot attribute transaction
+T003004,,S012,2023-02-23 09:02:00,305.09,,Missing customer_id - cannot attribute transaction
+T003020,,S007,2025-06-21 19:11:00,141.67,,Missing customer_id - cannot attribute transaction
+T003072,,S007,2024-05-06 16:10:00,65.73,,Missing customer_id - cannot attribute transaction
+T003090,,S003,2023-09-30 13:45:00,404.98,,Missing customer_id - cannot attribute transaction
+T003104,,S005,2025-09-15 16:54:00,192.53,,Missing customer_id - cannot attribute transaction
+T003109,,S002,2025-08-11 18:31:00,229.4,,Missing customer_id - cannot attribute transaction
+T003110,,S009,2025-05-02 18:28:00,475.52,,Missing customer_id - cannot attribute transaction
+T003112,,S001,2023-04-27 08:24:00,,,Missing customer_id - cannot attribute transaction
+T003127,,S006,2024-09-11 13:24:00,301.33,,Missing customer_id - cannot attribute transaction
+T003139,,S006,2023-01-01 18:03:00,280.78,,Missing customer_id - cannot attribute transaction
+T003143,,S004,2024-06-12 14:21:00,107.03,,Missing customer_id - cannot attribute transaction
+T003163,,S008,2023-04-26 20:18:00,179.17,,Missing customer_id - cannot attribute transaction
+T003231,,S012,2024-07-28 11:30:00,372.57,,Missing customer_id - cannot attribute transaction
+T003254,,S009,2024-07-18 19:40:00,350.23,,Missing customer_id - cannot attribute transaction
+T003270,,S014,2023-08-01 21:48:00,242.33,,Missing customer_id - cannot attribute transaction
+T003272,,S013,2025-04-26 10:41:00,65.74,,Missing customer_id - cannot attribute transaction
+T003288,,S009,2024-04-26 19:46:00,62.97,,Missing customer_id - cannot attribute transaction
+T003326,,S010,,207.53,,Missing customer_id - cannot attribute transaction
+T003352,,S012,2023-03-02 13:24:00,472.48,,Missing customer_id - cannot attribute transaction
+T003362,,S011,2023-10-22 16:16:00,432.76,,Missing customer_id - cannot attribute transaction
+T003437,,S010,2024-03-07 11:19:00,302.91,,Missing customer_id - cannot attribute transaction
+T003450,,S006,2024-08-18 19:56:00,56.51,,Missing customer_id - cannot attribute transaction
+T003516,,S008,22-02-2025 10:58,281.48,,Missing customer_id - cannot attribute transaction
+T003521,,S013,2023-02-13 15:12:00,260.94,,Missing customer_id - cannot attribute transaction
+T003534,,S012,2024-02-11 09:01:00,229.55,,Missing customer_id - cannot attribute transaction
+T003535,,S010,2023-09-16 09:17:00,128.81,,Missing customer_id - cannot attribute transaction
+T003542,,S007,2023-12-24 20:51:00,493.56,,Missing customer_id - cannot attribute transaction
+T003592,,S009,2023-06-02 08:07:00,182.46,,Missing customer_id - cannot attribute transaction
+T003599,,S007,09-03-2024 11:27,318.67,,Missing customer_id - cannot attribute transaction
+T003636,,S013,2023-04-13 20:44:00,41.76,,Missing customer_id - cannot attribute transaction
+T003644,,S003,2024-06-28 18:35:00,245.18,,Missing customer_id - cannot attribute transaction
+T003658,,S012,2024-05-13 15:48:00,220.72,,Missing customer_id - cannot attribute transaction
+T003675,,S010,2023-01-06 17:58:00,60.43,,Missing customer_id - cannot attribute transaction
+T003676,,S007,2023-10-09 18:12:00,469.96,,Missing customer_id - cannot attribute transaction
+T003758,,S015,2025-04-05 17:05:00,453.65,,Missing customer_id - cannot attribute transaction
+T003808,,S007,2024-10-10 19:24:00,160.93,,Missing customer_id - cannot attribute transaction
+T003834,,S005,2024-07-24 13:02:00,198.93,,Missing customer_id - cannot attribute transaction
+T003838,,S004,2024-12-20 13:36:00,260.83,,Missing customer_id - cannot attribute transaction
+T003845,,S013,2023-02-08 19:49:00,101.96,,Missing customer_id - cannot attribute transaction
+T003853,,S015,2023-06-20 12:31:00,91.64,,Missing customer_id - cannot attribute transaction
+T003890,,S012,2025-05-20 09:49:00,132.63,,Missing customer_id - cannot attribute transaction
+T003894,,S001,2024-03-31 11:49:00,250.89,,Missing customer_id - cannot attribute transaction
+T003914,,S009,,359.99,,Missing customer_id - cannot attribute transaction
+T003919,,S010,2023-03-17 19:26:00,196.57,,Missing customer_id - cannot attribute transaction
+T003921,,S012,2025-06-04 11:18:00,277.62,,Missing customer_id - cannot attribute transaction
+T003926,,S013,2023-12-03 18:40:00,43.19,,Missing customer_id - cannot attribute transaction
+T003947,,S015,2023-11-20 10:25:00,204.29,,Missing customer_id - cannot attribute transaction
+T003973,,S002,2025-06-11 08:54:00,389.54,,Missing customer_id - cannot attribute transaction
+T003974,,S001,2024-04-04 13:50:00,232.88,,Missing customer_id - cannot attribute transaction
+T003983,,S012,2023-03-26 19:19:00,356.85,,Missing customer_id - cannot attribute transaction
+T004003,,S009,2024-08-10 09:54:00,264.92,,Missing customer_id - cannot attribute transaction
+T004015,,S003,2024-02-22 13:57:00,418.4,,Missing customer_id - cannot attribute transaction
+T004025,,S003,2025-08-12 21:59:00,378.19,,Missing customer_id - cannot attribute transaction
+T004029,,S009,2024-09-15 21:40:00,55.71,,Missing customer_id - cannot attribute transaction
+T004039,,S008,2025-02-04 10:43:00,408.16,,Missing customer_id - cannot attribute transaction
+T004072,,S005,2025-02-23 08:32:00,122.34,,Missing customer_id - cannot attribute transaction
+T004094,,S002,2024-12-14 09:24:00,91.85,,Missing customer_id - cannot attribute transaction
+T004100,,S009,2023-02-05 20:05:00,368.83,,Missing customer_id - cannot attribute transaction
+T004120,,S015,2025-07-30 08:13:00,158.88,,Missing customer_id - cannot attribute transaction
+T004121,,S013,2024-06-11 21:15:00,404.06,,Missing customer_id - cannot attribute transaction
+T004154,,S003,2025-01-25 18:21:00,315.56,,Missing customer_id - cannot attribute transaction
+T004192,,S004,2023-10-10 14:23:00,148.2,,Missing customer_id - cannot attribute transaction
+T004218,,S009,2023-01-30 08:43:00,305.8,,Missing customer_id - cannot attribute transaction
+T004231,,S007,2025-03-08 14:22:00,36.59,,Missing customer_id - cannot attribute transaction
+T004248,,S006,2024-10-14 15:37:00,262.85,,Missing customer_id - cannot attribute transaction
+T004260,,S008,2025-03-11 20:51:00,465.19,,Missing customer_id - cannot attribute transaction
+T004262,,S006,2023-04-26 20:48:00,238.29,,Missing customer_id - cannot attribute transaction
+T004272,,S002,2025-06-19 15:38:00,225.89,,Missing customer_id - cannot attribute transaction
+T004296,,S010,2023-11-23 13:09:00,402.51,,Missing customer_id - cannot attribute transaction
+T004345,,S008,2023-02-07 16:38:00,410.5,,Missing customer_id - cannot attribute transaction
+T004382,,S004,2023-02-04 12:24:00,368.13,,Missing customer_id - cannot attribute transaction
+T004410,,S007,2025-04-15 18:02:00,200.61,,Missing customer_id - cannot attribute transaction
+T004424,,S007,2025-04-28 19:35:00,237.85,,Missing customer_id - cannot attribute transaction
+T004430,,S011,2024-11-25 14:09:00,223.02,,Missing customer_id - cannot attribute transaction
+T004436,,S014,2024/04/13,319.68,,Missing customer_id - cannot attribute transaction
+T004439,,S001,2025-06-24 15:53:00,295.64,,Missing customer_id - cannot attribute transaction
+T004447,,S004,2025-03-22 19:50:00,286.22,,Missing customer_id - cannot attribute transaction
+T004451,,S003,2023-08-30 09:21:00,293.24,,Missing customer_id - cannot attribute transaction
+T004465,,S006,2024-02-02 08:30:00,356.86,,Missing customer_id - cannot attribute transaction
+T004534,,S007,2023-04-24 19:16:00,18.0,,Missing customer_id - cannot attribute transaction
+T004535,,S003,2024-02-13 20:11:00,471.75,,Missing customer_id - cannot attribute transaction
+T004552,,S005,2025-08-22 09:54:00,271.64,,Missing customer_id - cannot attribute transaction
+T004563,,S008,2025-03-11 10:12:00,251.37,,Missing customer_id - cannot attribute transaction
+T004576,,S012,2024-03-11 18:09:00,302.25,,Missing customer_id - cannot attribute transaction
+T004620,,S004,2025-02-16 21:49:00,483.19,,Missing customer_id - cannot attribute transaction
+T004638,,S005,2025-04-25 10:56:00,154.41,,Missing customer_id - cannot attribute transaction
+T004648,,S007,2024-04-23 20:18:00,66.16,,Missing customer_id - cannot attribute transaction
+T004650,,,2024-04-03 08:32:00,197.34,,Missing customer_id - cannot attribute transaction
+T004667,,S014,2025-04-27 10:03:00,84.21,,Missing customer_id - cannot attribute transaction
+T004677,,S010,2025-05-02 13:46:00,431.86,,Missing customer_id - cannot attribute transaction
+T004690,,S014,2023-01-19 14:41:00,,,Missing customer_id - cannot attribute transaction
+T004691,,S008,2023-04-08 15:07:00,393.34,,Missing customer_id - cannot attribute transaction
+T004714,,S011,2023-08-23 20:09:00,47.52,,Missing customer_id - cannot attribute transaction
+T004725,,S005,2025-03-11 20:22:00,389.52,,Missing customer_id - cannot attribute transaction
+T004756,,S004,2025-06-17 11:57:00,96.88,,Missing customer_id - cannot attribute transaction
+T004807,,S004,2025-07-07 12:22:00,352.37,,Missing customer_id - cannot attribute transaction
+T004832,,S001,2023-08-16 17:26:00,54.41,,Missing customer_id - cannot attribute transaction
+T004879,,S011,2025-07-03 18:55:00,212.69,,Missing customer_id - cannot attribute transaction
+T004896,,S002,2024-07-29 17:07:00,496.98,,Missing customer_id - cannot attribute transaction
+T004897,,S014,2024-08-29 21:40:00,479.02,,Missing customer_id - cannot attribute transaction
+T004910,,S011,2023-04-25 15:19:00,315.96,,Missing customer_id - cannot attribute transaction
+T004923,,S005,2025-08-20 21:34:00,226.87,,Missing customer_id - cannot attribute transaction
+T004924,,S015,2023-12-03 09:11:00,275.8,,Missing customer_id - cannot attribute transaction
+T004925,,S002,2023-04-02 11:35:00,302.6,,Missing customer_id - cannot attribute transaction
+T004931,,S001,2025-08-27 12:07:00,482.62,,Missing customer_id - cannot attribute transaction
+T004972,,S010,2024-03-19 11:20:00,402.04,,Missing customer_id - cannot attribute transaction
+T005072,,S014,2025-06-01 17:03:00,166.04,,Missing customer_id - cannot attribute transaction
+T005092,,S014,31-05-2025 19:06,351.36,,Missing customer_id - cannot attribute transaction
+T005143,,S001,2024-01-13 11:13:00,373.19,,Missing customer_id - cannot attribute transaction
+T005178,,S015,2024-09-03 12:23:00,272.22,,Missing customer_id - cannot attribute transaction
+T005182,,S014,2024-02-18 19:18:00,180.44,,Missing customer_id - cannot attribute transaction
+T005198,,S005,2023-08-20 14:18:00,251.24,,Missing customer_id - cannot attribute transaction
+T005227,,S005,2025-09-08 18:08:00,134.44,,Missing customer_id - cannot attribute transaction
+T005229,,S015,2023-12-26 10:56:00,127.9,,Missing customer_id - cannot attribute transaction
+T005237,,S007,2024-04-14 12:01:00,141.25,,Missing customer_id - cannot attribute transaction
+T005244,,S008,2024-08-12 09:20:00,28.69,,Missing customer_id - cannot attribute transaction
+T005251,,,2025-07-30 11:17:00,75.93,,Missing customer_id - cannot attribute transaction
+T005271,,S015,2023-12-21 08:09:00,300.28,,Missing customer_id - cannot attribute transaction
+T005296,,S010,18-12-2023 20:28,370.67,,Missing customer_id - cannot attribute transaction
+T005302,,S014,2024-04-08 09:58:00,88.03,,Missing customer_id - cannot attribute transaction
+T005312,,S005,2025-05-06 09:35:00,,,Missing customer_id - cannot attribute transaction
+T005335,,S001,2023-02-08 16:48:00,243.67,,Missing customer_id - cannot attribute transaction
+T005338,,S012,2023-10-14 18:13:00,404.45,,Missing customer_id - cannot attribute transaction
+T005341,,S008,2023-09-16 15:36:00,95.28,,Missing customer_id - cannot attribute transaction
+T005349,,S001,2023-07-25 11:56:00,13.62,,Missing customer_id - cannot attribute transaction
+T005354,,S001,2024-01-08 17:31:00,57.49,,Missing customer_id - cannot attribute transaction
+T005356,,S012,2024-05-23 12:24:00,171.82,,Missing customer_id - cannot attribute transaction
+T005360,,S014,2023-01-15 19:20:00,134.17,,Missing customer_id - cannot attribute transaction
+T005382,,S003,2024-04-19 08:42:00,452.96,,Missing customer_id - cannot attribute transaction
+T005386,,S001,2024-09-06 20:23:00,468.37,,Missing customer_id - cannot attribute transaction
+T005431,,S010,2024-12-23 19:53:00,269.86,,Missing customer_id - cannot attribute transaction
+T005445,,S001,2024-05-29 19:54:00,201.57,,Missing customer_id - cannot attribute transaction
+T005459,,S002,08-12-2024 16:46,-441.59,,Missing customer_id - cannot attribute transaction
+T005461,,S013,2024-07-24 18:15:00,486.79,,Missing customer_id - cannot attribute transaction
+T005471,,S012,2025-05-18 19:54:00,320.69,,Missing customer_id - cannot attribute transaction
+T005491,,S012,11-11-2023 17:38,405.3,,Missing customer_id - cannot attribute transaction
+T005514,,S011,2023-01-18 18:00:00,281.69,,Missing customer_id - cannot attribute transaction
+T005536,,S011,2023-09-30 11:57:00,471.61,,Missing customer_id - cannot attribute transaction
+T005584,,S015,2025-03-17 18:05:00,387.83,,Missing customer_id - cannot attribute transaction
+T005597,,S002,2024-06-26 12:18:00,21.04,,Missing customer_id - cannot attribute transaction
+T005647,,S010,2023-09-24 15:07:00,282.3,,Missing customer_id - cannot attribute transaction
+T005658,,S003,2025-01-08 10:28:00,79.88,,Missing customer_id - cannot attribute transaction
+T005693,,S012,2024-09-24 12:30:00,497.76,,Missing customer_id - cannot attribute transaction
+T005731,,S010,2024-05-13 19:58:00,12.9,,Missing customer_id - cannot attribute transaction
+T005738,,S006,2024-11-10 08:30:00,220.87,,Missing customer_id - cannot attribute transaction
+T005763,,S014,2024-03-22 13:09:00,241.31,,Missing customer_id - cannot attribute transaction
+T005813,,S012,,416.51,,Missing customer_id - cannot attribute transaction
+T005816,,S012,2025-04-24 20:53:00,350.41,,Missing customer_id - cannot attribute transaction
+T005855,,S011,2024-10-17 14:23:00,415.39,,Missing customer_id - cannot attribute transaction
+T005860,,S006,2023-10-26 10:57:00,159.17,,Missing customer_id - cannot attribute transaction
+T005866,,S009,2024-01-17 16:31:00,120.01,,Missing customer_id - cannot attribute transaction
+T005872,,S008,2024-02-25 16:22:00,-112.72,,Missing customer_id - cannot attribute transaction
+T005880,,S005,2025-08-25 17:40:00,239.86,,Missing customer_id - cannot attribute transaction
+T005892,,S012,2023-03-14 18:44:00,217.28,,Missing customer_id - cannot attribute transaction
+T005901,,S001,2023/12/06,294.26,,Missing customer_id - cannot attribute transaction
+T005905,,S006,2023-01-22 13:33:00,497.47,,Missing customer_id - cannot attribute transaction
+T005940,,S008,2025-07-06 14:39:00,303.47,,Missing customer_id - cannot attribute transaction
+T005971,,S004,2024-11-07 16:42:00,87.38,,Missing customer_id - cannot attribute transaction
+T005973,,S014,2025-04-18 19:54:00,68.19,,Missing customer_id - cannot attribute transaction
+T005979,,S004,2023-04-25 13:01:00,436.75,,Missing customer_id - cannot attribute transaction
+T005988,,S011,2025-02-25 09:05:00,428.32,,Missing customer_id - cannot attribute transaction
+T005997,,S014,,436.36,,Missing customer_id - cannot attribute transaction
+T006004,,S015,2024-05-13 19:08:00,239.79,,Missing customer_id - cannot attribute transaction
+T006020,,S006,2023-12-23 20:34:00,145.4,,Missing customer_id - cannot attribute transaction
+T006079,,S012,2024-06-09 13:36:00,446.86,,Missing customer_id - cannot attribute transaction
+T006117,,S012,,372.93,,Missing customer_id - cannot attribute transaction
+T006119,,S010,2023-09-28 08:12:00,258.04,,Missing customer_id - cannot attribute transaction
+T006153,,S009,2023-04-26 20:12:00,10.13,,Missing customer_id - cannot attribute transaction
+T006196,,S012,2023-12-10 09:06:00,285.46,,Missing customer_id - cannot attribute transaction
+T006197,,S006,2024-09-26 16:52:00,29.86,,Missing customer_id - cannot attribute transaction
+T006208,,S014,2024-08-22 08:33:00,476.69,,Missing customer_id - cannot attribute transaction
+T006229,,S011,2024-12-28 13:59:00,248.27,,Missing customer_id - cannot attribute transaction
+T006234,,S013,2023-11-29 15:32:00,368.68,,Missing customer_id - cannot attribute transaction
+T006284,,S009,2023-08-07 15:09:00,194.03,,Missing customer_id - cannot attribute transaction
+T006294,,S013,2024-05-10 16:46:00,64.65,,Missing customer_id - cannot attribute transaction
+T006322,,S011,2023-02-12 10:16:00,298.45,,Missing customer_id - cannot attribute transaction
+T006328,,S011,2023-09-02 14:30:00,298.66,,Missing customer_id - cannot attribute transaction
+T006335,,S013,2025-06-09 18:09:00,237.45,,Missing customer_id - cannot attribute transaction
+T006374,,,12-05-2025 08:54,190.11,,Missing customer_id - cannot attribute transaction
+T006380,,S006,2025-06-09 21:26:00,-49.48,,Missing customer_id - cannot attribute transaction
+T006385,,S009,2025-04-27 12:03:00,482.92,,Missing customer_id - cannot attribute transaction
+T006398,,S014,2023/09/05,341.47,,Missing customer_id - cannot attribute transaction
+T006401,,S011,2025-07-18 11:05:00,469.0,,Missing customer_id - cannot attribute transaction
+T006404,,S009,2024-11-05 08:14:00,390.85,,Missing customer_id - cannot attribute transaction
+T006416,,S005,2025-04-04 10:05:00,130.6,,Missing customer_id - cannot attribute transaction
+T006463,,S008,2025-09-09 10:03:00,468.91,,Missing customer_id - cannot attribute transaction
+T006464,,S013,2023-06-08 15:12:00,492.31,,Missing customer_id - cannot attribute transaction
+T006486,,S007,2024-10-31 09:27:00,175.81,,Missing customer_id - cannot attribute transaction
+T006497,,S014,2024-06-15 17:10:00,137.12,,Missing customer_id - cannot attribute transaction
+T006524,,S004,2023/05/24,352.84,,Missing customer_id - cannot attribute transaction
+T006532,,S004,2023-05-12 15:56:00,250.4,,Missing customer_id - cannot attribute transaction
+T006547,,S013,2023-04-03 16:44:00,384.08,,Missing customer_id - cannot attribute transaction
+T006603,,S001,2023-09-11 21:46:00,280.53,,Missing customer_id - cannot attribute transaction
+T006612,,S005,2023-11-30 14:48:00,56.87,,Missing customer_id - cannot attribute transaction
+T006664,,S002,2023-02-15 17:36:00,357.13,,Missing customer_id - cannot attribute transaction
+T006666,,S005,2024-07-16 17:13:00,313.34,,Missing customer_id - cannot attribute transaction
+T006690,,S014,2025-03-07 09:38:00,370.23,,Missing customer_id - cannot attribute transaction
+T006696,,S008,2025-06-26 19:59:00,151.09,,Missing customer_id - cannot attribute transaction
+T006705,,S012,2023-11-30 14:55:00,368.36,,Missing customer_id - cannot attribute transaction
+T006720,,S009,2023-10-27 20:20:00,16.85,,Missing customer_id - cannot attribute transaction
+T006742,,S003,2023-11-27 14:20:00,284.83,,Missing customer_id - cannot attribute transaction
+T006743,,S005,2023-10-02 21:57:00,326.78,,Missing customer_id - cannot attribute transaction
+T006753,,S005,2023-12-29 21:37:00,309.21,,Missing customer_id - cannot attribute transaction
+T006839,,S013,2023-06-07 09:07:00,123.23,,Missing customer_id - cannot attribute transaction
+T006846,,S005,2025-08-14 08:04:00,259.98,,Missing customer_id - cannot attribute transaction
+T006867,,,2025-01-08 17:47:00,395.36,,Missing customer_id - cannot attribute transaction
+T006868,,S014,2023-09-19 17:28:00,478.9,,Missing customer_id - cannot attribute transaction
+T006930,,S001,2024-12-18 14:35:00,116.06,,Missing customer_id - cannot attribute transaction
+T006966,,S007,2024-05-10 13:18:00,19.03,,Missing customer_id - cannot attribute transaction
+T006987,,S006,2023-04-08 09:13:00,193.92,,Missing customer_id - cannot attribute transaction
+T006992,,S007,2024-08-31 12:14:00,48.36,,Missing customer_id - cannot attribute transaction
+T007007,,S006,2023-06-04 09:58:00,65.71,,Missing customer_id - cannot attribute transaction
+T007029,,S009,2025-03-27 09:42:00,58.9,,Missing customer_id - cannot attribute transaction
+T007067,,S008,2024-06-16 14:32:00,79.29,,Missing customer_id - cannot attribute transaction
+T007068,,,2025-05-31 11:41:00,475.03,,Missing customer_id - cannot attribute transaction
+T007081,,S007,2025-08-04 21:40:00,140.31,,Missing customer_id - cannot attribute transaction
+T007084,,S014,2023-09-06 16:41:00,298.16,,Missing customer_id - cannot attribute transaction
+T007104,,S011,2023-06-27 15:09:00,58.47,,Missing customer_id - cannot attribute transaction
+T007105,,S012,2023-07-10 13:12:00,160.01,,Missing customer_id - cannot attribute transaction
+T007107,,S014,2024-07-05 19:53:00,434.33,,Missing customer_id - cannot attribute transaction
+T007111,,S001,2024-01-04 10:28:00,143.07,,Missing customer_id - cannot attribute transaction
+T007124,,S007,2023-08-08 11:50:00,213.5,,Missing customer_id - cannot attribute transaction
+T007127,,S006,2025-02-26 11:33:00,118.51,,Missing customer_id - cannot attribute transaction
+T007181,,S011,2025-06-17 09:00:00,491.35,,Missing customer_id - cannot attribute transaction
+T007194,,S004,2025-08-24 13:31:00,241.17,,Missing customer_id - cannot attribute transaction
+T007234,,S011,2023-03-27 21:40:00,156.87,,Missing customer_id - cannot attribute transaction
+T007385,,S006,2025-01-05 19:10:00,240.11,,Missing customer_id - cannot attribute transaction
+T007412,,S006,2025-03-20 19:30:00,267.1,,Missing customer_id - cannot attribute transaction
+T007414,,S006,2023-04-16 13:35:00,,,Missing customer_id - cannot attribute transaction
+T007422,,S005,2024-05-02 13:36:00,383.75,,Missing customer_id - cannot attribute transaction
+T007425,,S004,,64.86,,Missing customer_id - cannot attribute transaction
+T007427,,S015,2023-11-17 12:26:00,236.21,,Missing customer_id - cannot attribute transaction
+T007462,,S002,2024-06-02 16:35:00,374.62,,Missing customer_id - cannot attribute transaction
+T007533,,S007,2025-01-10 13:26:00,59.06,,Missing customer_id - cannot attribute transaction
+T007537,,S001,2023-05-30 16:15:00,219.45,,Missing customer_id - cannot attribute transaction
+T007640,,S004,2025-06-21 10:08:00,299.2,,Missing customer_id - cannot attribute transaction
+T007643,,S012,2023-10-29 12:07:00,84.43,,Missing customer_id - cannot attribute transaction
+T007649,,S002,2023-03-14 17:46:00,93.76,,Missing customer_id - cannot attribute transaction
+T007673,,S001,2023-09-30 16:40:00,191.92,,Missing customer_id - cannot attribute transaction
+T007695,,S003,2025-04-10 12:56:00,52.05,,Missing customer_id - cannot attribute transaction
+T007751,,S010,2025-07-01 10:06:00,56.47,,Missing customer_id - cannot attribute transaction
+T007797,,S015,2025-05-11 08:05:00,324.21,,Missing customer_id - cannot attribute transaction
+T007812,,S015,2024-09-20 11:11:00,300.71,,Missing customer_id - cannot attribute transaction
+T007817,,S009,2023-05-05 16:37:00,159.89,,Missing customer_id - cannot attribute transaction
+T007843,,S005,2025-07-10 15:59:00,359.56,,Missing customer_id - cannot attribute transaction
+T007863,,S009,2024-01-09 21:26:00,288.25,,Missing customer_id - cannot attribute transaction
+T007880,,S014,2024-04-24 16:09:00,467.98,,Missing customer_id - cannot attribute transaction
+T007897,,S013,2023-04-07 09:38:00,339.39,,Missing customer_id - cannot attribute transaction
+T007925,,S010,2025-01-24 17:35:00,424.33,,Missing customer_id - cannot attribute transaction
+T007945,,S005,2023-01-21 10:04:00,171.14,,Missing customer_id - cannot attribute transaction
+T007949,,S015,2025-09-17 20:34:00,63.58,,Missing customer_id - cannot attribute transaction
+T007968,,S008,2023-03-28 08:39:00,497.62,,Missing customer_id - cannot attribute transaction
+T008030,,S005,2023-03-25 16:25:00,85.66,,Missing customer_id - cannot attribute transaction
+T008084,,S012,2023/08/11,162.74,,Missing customer_id - cannot attribute transaction
+T008102,,S013,2023-11-06 17:53:00,151.01,,Missing customer_id - cannot attribute transaction
+T008116,,S006,2024-04-13 20:21:00,292.94,,Missing customer_id - cannot attribute transaction
+T008132,,S008,2024-01-12 19:43:00,87.66,,Missing customer_id - cannot attribute transaction
+T008247,,S015,2024-12-05 11:47:00,16.81,,Missing customer_id - cannot attribute transaction
+T008256,,S004,2023-10-26 14:49:00,379.84,,Missing customer_id - cannot attribute transaction
+T008260,,S005,2025-01-24 16:41:00,83.66,,Missing customer_id - cannot attribute transaction
+T008267,,S013,04-02-2025 16:28,248.02,,Missing customer_id - cannot attribute transaction
+T008334,,S007,2025-09-21 19:44:00,231.03,,Missing customer_id - cannot attribute transaction
+T008345,,S007,2024/11/25,209.19,,Missing customer_id - cannot attribute transaction
+T008368,,S014,2025-05-29 09:54:00,494.14,,Missing customer_id - cannot attribute transaction
+T008392,,S003,2025-01-02 20:50:00,78.47,,Missing customer_id - cannot attribute transaction
+T008445,,S015,2024-07-23 21:49:00,469.99,,Missing customer_id - cannot attribute transaction
+T008484,,S013,2025-01-22 16:32:00,388.14,,Missing customer_id - cannot attribute transaction
+T008526,,S013,2025-05-20 15:40:00,301.65,,Missing customer_id - cannot attribute transaction
+T008533,,S009,2024-08-09 08:19:00,420.64,,Missing customer_id - cannot attribute transaction
+T008580,,S015,2024-01-17 10:06:00,117.09,,Missing customer_id - cannot attribute transaction
+T008594,,S001,2025-05-17 09:20:00,,,Missing customer_id - cannot attribute transaction
+T008597,,S003,2024/06/01,163.44,,Missing customer_id - cannot attribute transaction
+T008645,,S001,2023-09-22 08:58:00,481.1,,Missing customer_id - cannot attribute transaction
+T008663,,S012,2024-11-06 08:05:00,312.63,,Missing customer_id - cannot attribute transaction
+T008711,,S009,2025/05/25,29.57,,Missing customer_id - cannot attribute transaction
+T008713,,S008,2024-09-12 20:10:00,306.7,,Missing customer_id - cannot attribute transaction
+T008726,,S011,2025-02-09 20:47:00,372.54,,Missing customer_id - cannot attribute transaction
+T008741,,S005,2025-02-02 10:45:00,352.36,,Missing customer_id - cannot attribute transaction
+T008766,,S002,2023-12-27 12:44:00,346.24,,Missing customer_id - cannot attribute transaction
+T008782,,S012,2025/09/25,58.14,,Missing customer_id - cannot attribute transaction
+T008790,,S002,2024/07/21,421.84,,Missing customer_id - cannot attribute transaction
+T008797,,S002,2024-02-24 14:17:00,148.43,,Missing customer_id - cannot attribute transaction
+T008807,,S012,2024-08-31 17:31:00,187.29,,Missing customer_id - cannot attribute transaction
+T008885,,S009,2025-02-06 17:02:00,256.66,,Missing customer_id - cannot attribute transaction
+T008902,,S012,2023-08-19 11:10:00,173.69,,Missing customer_id - cannot attribute transaction
+T008940,,S006,2023-10-06 09:29:00,61.46,,Missing customer_id - cannot attribute transaction
+T008945,,S010,2023-04-17 10:10:00,115.94,,Missing customer_id - cannot attribute transaction
+T008949,,S005,2023-11-21 13:04:00,207.2,,Missing customer_id - cannot attribute transaction
+T008951,,S007,2023-01-11 08:30:00,399.74,,Missing customer_id - cannot attribute transaction
+T008952,,S006,2023-11-15 13:15:00,151.67,,Missing customer_id - cannot attribute transaction
+T008957,,S012,2023-05-25 14:13:00,473.34,,Missing customer_id - cannot attribute transaction
+T008985,,S014,2023-09-18 09:17:00,437.72,,Missing customer_id - cannot attribute transaction
+T009031,,S011,2025-01-09 11:52:00,126.88,,Missing customer_id - cannot attribute transaction
+T009039,,S015,2023-04-03 15:33:00,144.47,,Missing customer_id - cannot attribute transaction
+T009076,,S003,2023-08-10 11:43:00,257.36,,Missing customer_id - cannot attribute transaction
+T009082,,S009,2024-08-25 15:14:00,315.83,,Missing customer_id - cannot attribute transaction
+T009137,,S014,2025-03-04 17:11:00,426.25,,Missing customer_id - cannot attribute transaction
+T009149,,S005,2025-05-05 21:30:00,389.72,,Missing customer_id - cannot attribute transaction
+T009168,,S010,2024-03-19 17:50:00,498.68,,Missing customer_id - cannot attribute transaction
+T009195,,S008,2024-03-20 21:49:00,364.22,,Missing customer_id - cannot attribute transaction
+T009203,,S002,2023-10-11 20:38:00,385.77,,Missing customer_id - cannot attribute transaction
+T009213,,S003,2023-06-07 11:38:00,283.38,,Missing customer_id - cannot attribute transaction
+T009222,,S002,2023-11-07 08:09:00,493.52,,Missing customer_id - cannot attribute transaction
+T009262,,,2024-11-18 15:56:00,421.63,,Missing customer_id - cannot attribute transaction
+T009263,,S002,2024-09-30 10:48:00,106.58,,Missing customer_id - cannot attribute transaction
+T009264,,S014,2024-12-31 08:47:00,451.72,,Missing customer_id - cannot attribute transaction
+T009277,,S001,21-07-2023 08:03,228.48,,Missing customer_id - cannot attribute transaction
+T009294,,S004,2025-07-01 14:52:00,374.54,,Missing customer_id - cannot attribute transaction
+T009318,,S013,2025-06-18 18:31:00,277.32,,Missing customer_id - cannot attribute transaction
+T009345,,S002,2025-03-20 16:01:00,42.06,,Missing customer_id - cannot attribute transaction
+T009356,,S014,2023-05-30 20:34:00,107.85,,Missing customer_id - cannot attribute transaction
+T009382,,S015,2025-06-16 10:19:00,254.23,,Missing customer_id - cannot attribute transaction
+T009383,,S001,2025-08-12 20:22:00,195.21,,Missing customer_id - cannot attribute transaction
+T009398,,S014,2025-03-11 12:31:00,471.59,,Missing customer_id - cannot attribute transaction
+T009422,,S010,2023-08-06 21:05:00,472.83,,Missing customer_id - cannot attribute transaction
+T009457,,S010,2023-08-31 20:14:00,140.57,,Missing customer_id - cannot attribute transaction
+T009473,,S006,2025-03-17 17:47:00,109.55,,Missing customer_id - cannot attribute transaction
+T009488,,S011,2024-01-03 18:22:00,187.0,,Missing customer_id - cannot attribute transaction
+T009495,,S011,2023-07-04 13:35:00,14.66,,Missing customer_id - cannot attribute transaction
+T009497,,S008,2024-03-22 15:22:00,298.34,,Missing customer_id - cannot attribute transaction
+T009498,,S011,2024-09-08 12:11:00,41.96,,Missing customer_id - cannot attribute transaction
+T009572,,S001,2024-01-30 09:23:00,230.98,,Missing customer_id - cannot attribute transaction
+T009580,,S001,2023-11-06 18:53:00,315.77,,Missing customer_id - cannot attribute transaction
+T009583,,S014,2024-12-02 18:42:00,334.68,,Missing customer_id - cannot attribute transaction
+T009615,,S012,2025-04-04 17:38:00,415.62,,Missing customer_id - cannot attribute transaction
+T009618,,S013,2024-04-01 13:22:00,271.18,,Missing customer_id - cannot attribute transaction
+T009651,,S004,2025-04-07 17:35:00,,,Missing customer_id - cannot attribute transaction
+T009664,,S014,2023-10-14 20:12:00,129.28,,Missing customer_id - cannot attribute transaction
+T009676,,S001,2024-03-05 20:26:00,192.81,,Missing customer_id - cannot attribute transaction
+T009678,,S014,2024-09-30 12:26:00,491.01,,Missing customer_id - cannot attribute transaction
+T009688,,S011,2024-11-14 09:06:00,130.16,,Missing customer_id - cannot attribute transaction
+T009705,,S012,2025-09-16 16:36:00,87.73,,Missing customer_id - cannot attribute transaction
+T009711,,S012,2024-09-24 13:37:00,415.04,,Missing customer_id - cannot attribute transaction
+T009720,,S011,05-03-2025 15:00,296.02,,Missing customer_id - cannot attribute transaction
+T009766,,S005,2024-08-13 18:41:00,280.41,,Missing customer_id - cannot attribute transaction
+T009775,,S005,2024-06-10 17:54:00,272.15,,Missing customer_id - cannot attribute transaction
+T009781,,S014,2023-12-11 16:34:00,287.25,,Missing customer_id - cannot attribute transaction
+T009852,,S003,2025-03-04 08:46:00,377.46,,Missing customer_id - cannot attribute transaction
+T009864,,S007,2025-09-04 18:04:00,155.54,,Missing customer_id - cannot attribute transaction
+T009865,,S006,2024-04-25 11:57:00,379.25,,Missing customer_id - cannot attribute transaction
+T009866,,S001,2023-12-09 12:01:00,313.33,,Missing customer_id - cannot attribute transaction
+T009867,,S004,2024-12-13 15:26:00,83.9,,Missing customer_id - cannot attribute transaction
+T009891,,S001,2024-12-11 12:38:00,231.24,,Missing customer_id - cannot attribute transaction
+T009917,,S014,2024-08-10 11:41:00,462.93,,Missing customer_id - cannot attribute transaction
+T009940,,S012,2023-02-21 17:44:00,325.85,,Missing customer_id - cannot attribute transaction
+T009942,,S010,2023-05-11 09:41:00,307.63,,Missing customer_id - cannot attribute transaction
+T009956,,S003,,157.89,,Missing customer_id - cannot attribute transaction
+T010044,,S005,2023-11-02 14:40:00,213.8,,Missing customer_id - cannot attribute transaction
+T010056,,S005,2025/06/12,478.11,,Missing customer_id - cannot attribute transaction
+T010076,,S010,2025-08-01 14:41:00,204.75,,Missing customer_id - cannot attribute transaction
+T010099,,S002,2024-12-18 10:27:00,346.38,,Missing customer_id - cannot attribute transaction
+T010101,,S012,2025-07-13 08:24:00,86.12,,Missing customer_id - cannot attribute transaction
+T010138,,S003,2024-02-13 12:58:00,383.94,,Missing customer_id - cannot attribute transaction
+T010180,,S006,2023-06-05 19:59:00,333.85,,Missing customer_id - cannot attribute transaction
+T010192,,S004,2024-08-10 08:21:00,106.29,,Missing customer_id - cannot attribute transaction
+T010196,,S014,2024-01-05 21:29:00,243.92,,Missing customer_id - cannot attribute transaction
+T010198,,S006,2024-11-09 09:13:00,259.78,,Missing customer_id - cannot attribute transaction
+T010214,,S010,2025-02-22 19:02:00,316.02,,Missing customer_id - cannot attribute transaction
+T010218,,S011,2025-08-05 20:07:00,95.49,,Missing customer_id - cannot attribute transaction
+T010224,,S007,2024-01-10 11:08:00,54.83,,Missing customer_id - cannot attribute transaction
+T010234,,S011,2024-09-05 12:34:00,317.08,,Missing customer_id - cannot attribute transaction
+T010270,,S011,2024-08-17 20:13:00,55.51,,Missing customer_id - cannot attribute transaction
+T010288,,S013,2025-03-17 11:38:00,248.73,,Missing customer_id - cannot attribute transaction
+T010311,,S013,2023-04-03 17:29:00,94.27,,Missing customer_id - cannot attribute transaction
+T010340,,S015,2024-03-16 11:59:00,180.64,,Missing customer_id - cannot attribute transaction
+T010353,,S010,2025-07-24 16:40:00,436.34,,Missing customer_id - cannot attribute transaction
+T010359,,S008,2024-02-18 14:25:00,402.04,,Missing customer_id - cannot attribute transaction
+T010360,,S004,2025-02-28 16:59:00,146.16,,Missing customer_id - cannot attribute transaction
+T010365,,S011,2023-04-29 20:54:00,70.23,,Missing customer_id - cannot attribute transaction
+T010371,,S003,2023-04-02 11:43:00,411.97,,Missing customer_id - cannot attribute transaction
+T010404,,S008,2025-02-26 18:46:00,448.46,,Missing customer_id - cannot attribute transaction
+T010405,,S014,2024-05-03 21:29:00,283.04,,Missing customer_id - cannot attribute transaction
+T010409,,S011,2025-05-06 16:18:00,189.46,,Missing customer_id - cannot attribute transaction
+T010410,,S014,2024-01-27 18:57:00,21.21,,Missing customer_id - cannot attribute transaction
+T010411,,S004,2023-03-24 17:04:00,65.15,,Missing customer_id - cannot attribute transaction
+T010441,,S015,2025-05-30 12:25:00,98.0,,Missing customer_id - cannot attribute transaction
+T010446,,S012,2024-08-30 10:49:00,457.22,,Missing customer_id - cannot attribute transaction
+T010455,,S010,2024-07-06 10:37:00,478.23,,Missing customer_id - cannot attribute transaction
+T010489,,S004,2025-05-31 10:08:00,384.32,,Missing customer_id - cannot attribute transaction
+T010490,,S004,2025-04-13 19:29:00,47.87,,Missing customer_id - cannot attribute transaction
+T010517,,S009,2025-02-22 14:46:00,158.72,,Missing customer_id - cannot attribute transaction
+T010519,,S011,2025-01-01 14:28:00,84.14,,Missing customer_id - cannot attribute transaction
+T010572,,S012,2025-01-20 13:35:00,294.96,,Missing customer_id - cannot attribute transaction
+T010582,,S013,2023-10-13 14:51:00,422.75,,Missing customer_id - cannot attribute transaction
+T010585,,S014,2023-10-31 12:42:00,,,Missing customer_id - cannot attribute transaction
+T010588,,S001,2024-05-16 15:53:00,346.76,,Missing customer_id - cannot attribute transaction
+T010621,,S008,2024-12-06 19:15:00,132.93,,Missing customer_id - cannot attribute transaction
+T010623,,S013,2023-10-11 10:02:00,431.26,,Missing customer_id - cannot attribute transaction
+T010635,,S014,2023-12-23 14:20:00,436.74,,Missing customer_id - cannot attribute transaction
+T010643,,S014,2023-10-21 14:37:00,132.29,,Missing customer_id - cannot attribute transaction
+T010658,,,2023-03-10 11:08:00,417.29,,Missing customer_id - cannot attribute transaction
+T010664,,S007,2024-09-01 19:04:00,146.01,,Missing customer_id - cannot attribute transaction
+T010665,,S015,2023-09-19 13:37:00,495.75,,Missing customer_id - cannot attribute transaction
+T010674,,S003,2024-11-12 12:47:00,103.75,,Missing customer_id - cannot attribute transaction
+T010682,,S009,2023-11-17 09:21:00,55.25,,Missing customer_id - cannot attribute transaction
+T010703,,S010,2023/10/01,249.28,,Missing customer_id - cannot attribute transaction
+T010720,,S006,2024-06-26 13:48:00,455.1,,Missing customer_id - cannot attribute transaction
+T010734,,S010,2025-01-07 10:01:00,128.69,,Missing customer_id - cannot attribute transaction
+T010750,,S012,2023-09-03 20:49:00,11.31,,Missing customer_id - cannot attribute transaction
+T010753,,S007,2023-01-18 15:12:00,453.21,,Missing customer_id - cannot attribute transaction
+T010765,,S002,2025-07-20 13:46:00,196.9,,Missing customer_id - cannot attribute transaction
+T010793,,S015,2024-11-17 10:19:00,438.78,,Missing customer_id - cannot attribute transaction
+T010796,,S015,2023-09-30 20:45:00,-249.86,,Missing customer_id - cannot attribute transaction
+T010802,,S012,2025-04-24 21:17:00,494.98,,Missing customer_id - cannot attribute transaction
+T010819,,S004,2024-04-19 09:14:00,182.6,,Missing customer_id - cannot attribute transaction
+T010821,,S002,2023-03-21 19:56:00,142.56,,Missing customer_id - cannot attribute transaction
+T010822,,S015,2024-04-11 10:31:00,106.87,,Missing customer_id - cannot attribute transaction
+T010855,,S002,2025-08-30 11:40:00,415.8,,Missing customer_id - cannot attribute transaction
+T010896,,S008,2025-05-17 08:05:00,57.6,,Missing customer_id - cannot attribute transaction
+T010902,,S007,2024-04-11 19:43:00,180.04,,Missing customer_id - cannot attribute transaction
+T010916,,S013,2025-08-28 18:29:00,61.99,,Missing customer_id - cannot attribute transaction
+T010939,,S007,2023-05-30 16:54:00,58.3,,Missing customer_id - cannot attribute transaction
+T010985,,S002,2024-02-23 17:44:00,458.02,,Missing customer_id - cannot attribute transaction
+T011168,,S009,2024-06-13 16:03:00,484.74,,Missing customer_id - cannot attribute transaction
+T011205,,S012,2025-06-19 08:21:00,422.44,,Missing customer_id - cannot attribute transaction
+T011217,,S012,2024-12-13 17:36:00,154.97,,Missing customer_id - cannot attribute transaction
+T011227,,S012,2024-01-02 17:23:00,306.95,,Missing customer_id - cannot attribute transaction
+T011232,,S008,2024-06-13 11:58:00,87.27,,Missing customer_id - cannot attribute transaction
+T011239,,S010,2025-07-28 18:36:00,462.11,,Missing customer_id - cannot attribute transaction
+T011261,,S014,2024-05-04 12:09:00,54.68,,Missing customer_id - cannot attribute transaction
+T011281,,S012,2024-11-15 09:35:00,464.3,,Missing customer_id - cannot attribute transaction
+T011285,,S002,2025-06-13 13:44:00,36.52,,Missing customer_id - cannot attribute transaction
+T011297,,S014,2023-08-08 18:06:00,95.51,,Missing customer_id - cannot attribute transaction
+T011304,,S003,2023-04-04 19:04:00,41.34,,Missing customer_id - cannot attribute transaction
+T011373,,S003,2023-06-25 20:01:00,21.37,,Missing customer_id - cannot attribute transaction
+T011379,,S009,2023-06-05 19:53:00,441.76,,Missing customer_id - cannot attribute transaction
+T011389,,S015,2023/08/14,181.01,,Missing customer_id - cannot attribute transaction
+T011402,,S001,2024-04-04 17:08:00,113.27,,Missing customer_id - cannot attribute transaction
+T011424,,S011,2023-03-19 17:35:00,83.02,,Missing customer_id - cannot attribute transaction
+T011473,,S002,2024-02-16 17:29:00,262.02,,Missing customer_id - cannot attribute transaction
+T011477,,S011,2023-12-08 18:15:00,41.8,,Missing customer_id - cannot attribute transaction
+T011513,,S004,2024-02-01 20:10:00,245.73,,Missing customer_id - cannot attribute transaction
+T011524,,S006,2024-01-26 15:44:00,266.29,,Missing customer_id - cannot attribute transaction
+T011544,,S004,2023-05-27 11:20:00,,,Missing customer_id - cannot attribute transaction
+T011562,,S008,2024-02-28 16:20:00,333.62,,Missing customer_id - cannot attribute transaction
+T011564,,,2023-07-16 10:21:00,57.85,,Missing customer_id - cannot attribute transaction
+T011661,,S002,2023-10-18 19:07:00,218.23,,Missing customer_id - cannot attribute transaction
+T011681,,S003,2025-06-04 21:33:00,69.48,,Missing customer_id - cannot attribute transaction
+T011695,,S005,2025-06-30 13:32:00,320.62,,Missing customer_id - cannot attribute transaction
+T011713,,S009,2023-09-18 09:06:00,311.8,,Missing customer_id - cannot attribute transaction
+T011741,,S009,2025-06-15 20:19:00,486.3,,Missing customer_id - cannot attribute transaction
+T011751,,,2025-04-18 14:12:00,416.28,,Missing customer_id - cannot attribute transaction
+T011764,,S010,2023-01-10 13:06:00,160.79,,Missing customer_id - cannot attribute transaction
+T011831,,S007,2023-03-28 18:09:00,18.95,,Missing customer_id - cannot attribute transaction
+T011834,,S012,2024-10-19 10:42:00,406.49,,Missing customer_id - cannot attribute transaction
+T011836,,S002,2023-12-21 15:22:00,376.55,,Missing customer_id - cannot attribute transaction
+T011856,,S009,2024-09-27 19:11:00,167.3,,Missing customer_id - cannot attribute transaction
+T011886,,S015,2024-11-26 15:38:00,415.25,,Missing customer_id - cannot attribute transaction
+T011895,,S015,2023-10-11 15:13:00,354.99,,Missing customer_id - cannot attribute transaction
+T011897,,S002,2025-02-03 20:16:00,389.21,,Missing customer_id - cannot attribute transaction
+T011908,,S008,2024-10-21 10:49:00,78.18,,Missing customer_id - cannot attribute transaction
+T011915,,S006,2025-07-22 16:15:00,89.45,,Missing customer_id - cannot attribute transaction
+T011919,,S003,2024-01-15 16:07:00,152.54,,Missing customer_id - cannot attribute transaction
+T011930,,S005,2023-05-20 18:28:00,81.71,,Missing customer_id - cannot attribute transaction
+T011932,,S010,2024-02-29 11:16:00,181.32,,Missing customer_id - cannot attribute transaction
+T011933,,S008,2023-04-09 15:05:00,12.83,,Missing customer_id - cannot attribute transaction
+T011939,,S003,2025-04-20 17:38:00,418.81,,Missing customer_id - cannot attribute transaction
+T011951,,S014,2024-01-02 12:34:00,471.35,,Missing customer_id - cannot attribute transaction
+T011954,,S015,26-09-2025 21:08,149.58,,Missing customer_id - cannot attribute transaction
+T011971,,S008,2025-07-19 08:00:00,293.0,,Missing customer_id - cannot attribute transaction
+T012010,,S009,2024-12-10 11:47:00,145.14,,Missing customer_id - cannot attribute transaction
+T012035,,S004,2024-02-15 10:43:00,493.04,,Missing customer_id - cannot attribute transaction
+T012059,,S007,2025-03-07 21:32:00,82.99,,Missing customer_id - cannot attribute transaction
+T012087,,S001,2024-08-12 12:45:00,144.53,,Missing customer_id - cannot attribute transaction
+T012093,,S007,2025-04-10 21:12:00,62.67,,Missing customer_id - cannot attribute transaction
+T012111,,S005,2025-01-22 11:23:00,,,Missing customer_id - cannot attribute transaction
+T012118,,S008,2023-04-28 14:30:00,49.67,,Missing customer_id - cannot attribute transaction
+T012136,,S005,2024-11-06 14:39:00,-371.99,,Missing customer_id - cannot attribute transaction
+T012156,,S004,2025-08-07 13:20:00,236.35,,Missing customer_id - cannot attribute transaction
+T012163,,S005,2025-09-12 13:00:00,103.14,,Missing customer_id - cannot attribute transaction
+T012176,,S007,2025/08/10,343.62,,Missing customer_id - cannot attribute transaction
+T012201,,S004,2023-10-15 17:53:00,124.46,,Missing customer_id - cannot attribute transaction
+T012237,,S001,2025-05-28 08:23:00,339.13,,Missing customer_id - cannot attribute transaction
+T012270,,S013,2024-09-02 17:53:00,147.95,,Missing customer_id - cannot attribute transaction
+T012273,,S012,2023-04-10 21:54:00,137.47,,Missing customer_id - cannot attribute transaction
+T012302,,S009,2023-01-14 08:50:00,93.58,,Missing customer_id - cannot attribute transaction
+T012336,,S001,2023-11-09 15:50:00,24.99,,Missing customer_id - cannot attribute transaction
+T012341,,S012,2025-09-26 19:36:00,297.16,,Missing customer_id - cannot attribute transaction
+T012378,,S014,2025-03-18 16:41:00,23.4,,Missing customer_id - cannot attribute transaction
+T012389,,S010,2025-04-19 16:54:00,73.63,,Missing customer_id - cannot attribute transaction
+T012400,,S006,2024-05-03 13:20:00,39.49,,Missing customer_id - cannot attribute transaction
+T012410,,S002,2023-09-25 12:29:00,217.43,,Missing customer_id - cannot attribute transaction
+T012413,,S003,2025-01-30 20:20:00,143.32,,Missing customer_id - cannot attribute transaction
+T012416,,S013,2025-08-10 10:51:00,34.46,,Missing customer_id - cannot attribute transaction
+T012435,,S010,2024-04-26 11:30:00,397.7,,Missing customer_id - cannot attribute transaction
+T012446,,S005,2023-10-02 08:40:00,295.85,,Missing customer_id - cannot attribute transaction
+T012457,,S002,2023-09-21 09:59:00,48.29,,Missing customer_id - cannot attribute transaction
+T012471,,S009,09-04-2025 19:56,409.04,,Missing customer_id - cannot attribute transaction
+T012474,,S003,2023-12-22 12:24:00,451.28,,Missing customer_id - cannot attribute transaction
+T012481,,S015,2025-07-20 11:08:00,490.35,,Missing customer_id - cannot attribute transaction
+T012510,,S009,2023-01-18 08:29:00,134.54,,Missing customer_id - cannot attribute transaction
+T012518,,S012,2025-06-13 14:57:00,94.54,,Missing customer_id - cannot attribute transaction
+T012540,,S001,2024-08-09 21:23:00,491.46,,Missing customer_id - cannot attribute transaction
+T012608,,S012,2023-06-21 14:34:00,238.89,,Missing customer_id - cannot attribute transaction
+T012622,,S002,2025-06-28 11:58:00,183.75,,Missing customer_id - cannot attribute transaction
+T012634,,S008,2025-03-31 10:50:00,194.4,,Missing customer_id - cannot attribute transaction
+T012666,,S010,2023-01-17 18:51:00,333.48,,Missing customer_id - cannot attribute transaction
+T012678,,S006,2024-10-02 20:57:00,438.46,,Missing customer_id - cannot attribute transaction
+T012691,,S001,2023-02-04 12:32:00,471.71,,Missing customer_id - cannot attribute transaction
+T012698,,S011,2024-07-14 10:25:00,252.42,,Missing customer_id - cannot attribute transaction
+T012713,,S005,2024-10-09 14:08:00,107.04,,Missing customer_id - cannot attribute transaction
+T012766,,S015,2024-05-21 12:35:00,271.8,,Missing customer_id - cannot attribute transaction
+T012805,,S011,2024-10-09 09:33:00,345.25,,Missing customer_id - cannot attribute transaction
+T012807,,S011,,431.74,,Missing customer_id - cannot attribute transaction
+T012808,,S015,2024-07-20 17:25:00,93.65,,Missing customer_id - cannot attribute transaction
+T012843,,S006,2024-06-21 18:35:00,445.24,,Missing customer_id - cannot attribute transaction
+T012846,,S006,2025-02-10 18:06:00,273.13,,Missing customer_id - cannot attribute transaction
+T012857,,S002,2023-04-02 14:10:00,249.52,,Missing customer_id - cannot attribute transaction
+T012871,,S012,2025-07-02 16:01:00,174.42,,Missing customer_id - cannot attribute transaction
+T013003,,S001,2023-09-15 18:16:00,203.35,,Missing customer_id - cannot attribute transaction
+T013025,,S011,2024-10-07 09:41:00,261.25,,Missing customer_id - cannot attribute transaction
+T013057,,S004,2023-08-25 13:14:00,,,Missing customer_id - cannot attribute transaction
+T013101,,S004,2025-09-09 10:19:00,18.4,,Missing customer_id - cannot attribute transaction
+T013114,,S004,25-06-2025 18:37,31.63,,Missing customer_id - cannot attribute transaction
+T013127,,S012,2024-07-13 14:59:00,300.67,,Missing customer_id - cannot attribute transaction
+T013157,,S005,2023-07-19 09:05:00,91.41,,Missing customer_id - cannot attribute transaction
+T013170,,S010,2025-06-26 18:43:00,110.15,,Missing customer_id - cannot attribute transaction
+T013173,,S010,2025-08-10 18:59:00,156.89,,Missing customer_id - cannot attribute transaction
+T013214,,S005,2025-08-26 17:24:00,425.95,,Missing customer_id - cannot attribute transaction
+T013218,,S010,2024-11-06 14:25:00,88.12,,Missing customer_id - cannot attribute transaction
+T013221,,S012,2024-01-20 10:20:00,177.53,,Missing customer_id - cannot attribute transaction
+T013226,,S002,2023-03-01 11:52:00,376.07,,Missing customer_id - cannot attribute transaction
+T013232,,S015,2025-04-01 14:02:00,458.48,,Missing customer_id - cannot attribute transaction
+T013238,,S005,2025-08-22 20:40:00,449.23,,Missing customer_id - cannot attribute transaction
+T013251,,S013,2023-06-17 14:19:00,362.8,,Missing customer_id - cannot attribute transaction
+T013274,,S010,2025-03-31 18:35:00,136.55,,Missing customer_id - cannot attribute transaction
+T013282,,S015,2024-10-24 13:23:00,481.74,,Missing customer_id - cannot attribute transaction
+T013325,,S015,2025-09-25 19:57:00,295.43,,Missing customer_id - cannot attribute transaction
+T013326,,S006,2025-05-18 19:32:00,143.49,,Missing customer_id - cannot attribute transaction
+T013353,,S015,2023-08-19 19:02:00,474.9,,Missing customer_id - cannot attribute transaction
+T013385,,S015,2024/04/21,170.64,,Missing customer_id - cannot attribute transaction
+T013387,,S014,2023-01-10 17:44:00,224.14,,Missing customer_id - cannot attribute transaction
+T013395,,S002,2025-06-03 21:53:00,489.21,,Missing customer_id - cannot attribute transaction
+T013435,,S004,2025-01-06 08:58:00,245.54,,Missing customer_id - cannot attribute transaction
+T013449,,S011,2024-06-03 09:14:00,280.59,,Missing customer_id - cannot attribute transaction
+T013450,,S007,2023-10-17 08:31:00,72.78,,Missing customer_id - cannot attribute transaction
+T013457,,S004,2024-03-25 10:32:00,226.25,,Missing customer_id - cannot attribute transaction
+T013488,,S001,2025-05-10 21:51:00,345.64,,Missing customer_id - cannot attribute transaction
+T013498,,S008,2025-04-06 17:12:00,358.04,,Missing customer_id - cannot attribute transaction
+T013503,,S012,2024-03-24 13:03:00,496.48,,Missing customer_id - cannot attribute transaction
+T013517,,S004,2024-10-05 15:43:00,333.75,,Missing customer_id - cannot attribute transaction
+T013549,,S011,2023-09-24 08:12:00,451.9,,Missing customer_id - cannot attribute transaction
+T013606,,S005,2023-05-12 11:38:00,328.2,,Missing customer_id - cannot attribute transaction
+T013609,,S015,2023-09-15 14:27:00,366.11,,Missing customer_id - cannot attribute transaction
+T013620,,S013,2023-04-29 20:05:00,38.54,,Missing customer_id - cannot attribute transaction
+T013671,,S004,2025-07-16 14:18:00,346.33,,Missing customer_id - cannot attribute transaction
+T013676,,S001,2023-01-31 14:35:00,145.9,,Missing customer_id - cannot attribute transaction
+T013709,,S003,2023-06-12 09:17:00,165.72,,Missing customer_id - cannot attribute transaction
+T013724,,S008,2023-01-04 20:44:00,86.26,,Missing customer_id - cannot attribute transaction
+T013749,,S008,2025-06-18 19:45:00,37.95,,Missing customer_id - cannot attribute transaction
+T013750,,S009,2024-12-11 15:41:00,417.67,,Missing customer_id - cannot attribute transaction
+T013761,,S009,2025-05-13 08:11:00,198.31,,Missing customer_id - cannot attribute transaction
+T013765,,S003,2023-01-11 12:48:00,374.18,,Missing customer_id - cannot attribute transaction
+T013797,,S009,2025-03-06 19:03:00,244.15,,Missing customer_id - cannot attribute transaction
+T013831,,S002,2024-11-24 10:30:00,185.4,,Missing customer_id - cannot attribute transaction
+T013844,,S001,2024-02-08 15:27:00,-424.5,,Missing customer_id - cannot attribute transaction
+T013856,,S008,2025-05-09 15:34:00,63.83,,Missing customer_id - cannot attribute transaction
+T013875,,S015,2025-06-16 09:02:00,323.84,,Missing customer_id - cannot attribute transaction
+T013913,,S001,2024-03-30 10:41:00,308.01,,Missing customer_id - cannot attribute transaction
+T013923,,S013,2025-01-09 17:03:00,343.07,,Missing customer_id - cannot attribute transaction
+T013945,,S014,2025-07-12 13:45:00,396.94,,Missing customer_id - cannot attribute transaction
+T013949,,S002,2024-05-28 14:44:00,384.12,,Missing customer_id - cannot attribute transaction
+T013955,,S015,2024-12-09 20:15:00,305.08,,Missing customer_id - cannot attribute transaction
+T013974,,S010,2024-01-21 11:18:00,245.46,,Missing customer_id - cannot attribute transaction
+T014002,,S010,2024-07-29 18:30:00,444.35,,Missing customer_id - cannot attribute transaction
+T014008,,S010,2025-08-09 20:42:00,449.55,,Missing customer_id - cannot attribute transaction
+T014014,,S012,2024-02-27 12:35:00,469.69,,Missing customer_id - cannot attribute transaction
+T014022,,S007,2025-01-01 09:13:00,285.77,,Missing customer_id - cannot attribute transaction
+T014057,,S005,2023-07-18 08:12:00,254.88,,Missing customer_id - cannot attribute transaction
+T014108,,S009,10-03-2025 21:22,398.3,,Missing customer_id - cannot attribute transaction
+T014120,,S009,2023-11-04 08:12:00,254.42,,Missing customer_id - cannot attribute transaction
+T014131,,S006,2023-04-12 19:40:00,207.16,,Missing customer_id - cannot attribute transaction
+T014132,,S009,2023/08/24,131.67,,Missing customer_id - cannot attribute transaction
+T014144,,S005,2025-02-02 13:40:00,272.88,,Missing customer_id - cannot attribute transaction
+T014186,,S009,22-08-2025 20:20,313.36,,Missing customer_id - cannot attribute transaction
+T014233,,S004,2025-01-31 13:37:00,300.26,,Missing customer_id - cannot attribute transaction
+T014260,,S011,2024-02-14 13:30:00,162.77,,Missing customer_id - cannot attribute transaction
+T014278,,S007,2025-03-24 13:37:00,41.92,,Missing customer_id - cannot attribute transaction
+T014293,,S005,2025/04/10,400.97,,Missing customer_id - cannot attribute transaction
+T014309,,S010,2023-07-27 15:14:00,483.77,,Missing customer_id - cannot attribute transaction
+T014316,,S014,2025-06-09 15:28:00,269.88,,Missing customer_id - cannot attribute transaction
+T014370,,S001,2023-11-14 09:31:00,122.23,,Missing customer_id - cannot attribute transaction
+T014399,,S009,2024-01-14 14:07:00,431.97,,Missing customer_id - cannot attribute transaction
+T014475,,S010,2023-01-30 20:06:00,409.98,,Missing customer_id - cannot attribute transaction
+T014502,,S008,2024-01-28 11:16:00,328.15,,Missing customer_id - cannot attribute transaction
+T014529,,S004,2024-06-17 18:29:00,159.52,,Missing customer_id - cannot attribute transaction
+T014535,,S006,2025-04-04 14:35:00,408.43,,Missing customer_id - cannot attribute transaction
+T014555,,S014,2024-01-30 15:17:00,19.47,,Missing customer_id - cannot attribute transaction
+T014566,,S011,2023-07-31 13:03:00,346.82,,Missing customer_id - cannot attribute transaction
+T014583,,S006,2023-10-10 12:31:00,,,Missing customer_id - cannot attribute transaction
+T014641,,,2023-10-24 21:58:00,107.97,,Missing customer_id - cannot attribute transaction
+T014689,,S009,2023-08-02 09:52:00,177.09,,Missing customer_id - cannot attribute transaction
+T014691,,S007,2023-07-05 15:32:00,327.88,,Missing customer_id - cannot attribute transaction
+T014698,,S013,2024-08-06 08:35:00,96.85,,Missing customer_id - cannot attribute transaction
+T014718,,S010,2025-02-18 21:31:00,,,Missing customer_id - cannot attribute transaction
+T014747,,S009,2024/11/13,317.72,,Missing customer_id - cannot attribute transaction
+T014751,,S013,2023-12-20 12:48:00,336.83,,Missing customer_id - cannot attribute transaction
+T014758,,S007,2025-02-25 21:29:00,398.43,,Missing customer_id - cannot attribute transaction
+T014765,,S007,2023-06-30 10:30:00,315.1,,Missing customer_id - cannot attribute transaction
+T014767,,S006,2025-03-20 18:06:00,215.46,,Missing customer_id - cannot attribute transaction
+T014770,,S004,2024-02-13 11:49:00,485.15,,Missing customer_id - cannot attribute transaction
+T014816,,S009,2023-06-29 15:29:00,146.67,,Missing customer_id - cannot attribute transaction
+T014870,,S014,2024-02-26 12:17:00,455.86,,Missing customer_id - cannot attribute transaction
+T014908,,S009,2023-07-19 19:31:00,412.3,,Missing customer_id - cannot attribute transaction
+T014917,,S010,2023-06-21 20:54:00,483.8,,Missing customer_id - cannot attribute transaction
+T014932,,S010,2025-06-13 12:24:00,274.97,,Missing customer_id - cannot attribute transaction
+T014936,,S001,2023-02-11 08:28:00,281.44,,Missing customer_id - cannot attribute transaction
+T014943,,S002,2025-09-24 15:53:00,22.78,,Missing customer_id - cannot attribute transaction
+T014971,,S012,2023-11-19 15:39:00,454.33,,Missing customer_id - cannot attribute transaction
+T014989,,S002,2023-04-08 18:13:00,450.47,,Missing customer_id - cannot attribute transaction
+T015012,,S012,2023-06-21 16:31:00,25.98,,Missing customer_id - cannot attribute transaction
+T015027,,S014,2025-08-27 19:43:00,232.06,,Missing customer_id - cannot attribute transaction
+T015053,,S009,2025-08-24 12:50:00,10.25,,Missing customer_id - cannot attribute transaction
+T015060,,S005,2023-10-11 09:48:00,360.03,,Missing customer_id - cannot attribute transaction
+T015068,,S014,12-03-2023 19:06,160.26,,Missing customer_id - cannot attribute transaction
+T015116,,S005,2023-12-21 19:38:00,225.99,,Missing customer_id - cannot attribute transaction
+T015154,,S001,2024-05-24 11:10:00,86.91,,Missing customer_id - cannot attribute transaction
+T015164,,S012,2023-04-11 10:14:00,290.13,,Missing customer_id - cannot attribute transaction
+T015171,,S003,2023-03-26 11:50:00,422.85,,Missing customer_id - cannot attribute transaction
+T015232,,S001,2025-04-09 17:25:00,440.53,,Missing customer_id - cannot attribute transaction
+T015234,,S005,2023-05-10 18:05:00,248.06,,Missing customer_id - cannot attribute transaction
+T015241,,S012,2024-06-21 20:09:00,217.76,,Missing customer_id - cannot attribute transaction
+T015243,,S004,2024-07-02 18:48:00,230.88,,Missing customer_id - cannot attribute transaction
+T015256,,S011,2024-08-27 16:52:00,286.34,,Missing customer_id - cannot attribute transaction
+T015273,,S005,2024-12-28 16:12:00,301.9,,Missing customer_id - cannot attribute transaction
+T015314,,S008,2024-10-08 12:51:00,158.49,,Missing customer_id - cannot attribute transaction
+T015322,,S013,2023-05-03 20:09:00,465.9,,Missing customer_id - cannot attribute transaction
+T015336,,S011,2025-01-15 16:15:00,,,Missing customer_id - cannot attribute transaction
+T015347,,S013,2023-12-13 11:45:00,,,Missing customer_id - cannot attribute transaction
+T015360,,S004,2023-03-25 12:32:00,111.09,,Missing customer_id - cannot attribute transaction
+T015396,,S010,2025-05-07 13:38:00,116.58,,Missing customer_id - cannot attribute transaction
+T015397,,S003,2025-01-20 17:41:00,408.69,,Missing customer_id - cannot attribute transaction
+T015419,,S004,2024-05-28 09:03:00,185.01,,Missing customer_id - cannot attribute transaction
+T015430,,S012,2024-09-18 11:21:00,26.13,,Missing customer_id - cannot attribute transaction
+T015449,,S005,2025-06-11 19:10:00,15.9,,Missing customer_id - cannot attribute transaction
+T015496,,S001,2023-08-18 14:48:00,339.16,,Missing customer_id - cannot attribute transaction
+T015501,,S006,2023-04-13 10:27:00,476.93,,Missing customer_id - cannot attribute transaction
+T015520,,S011,2023-11-16 19:36:00,246.05,,Missing customer_id - cannot attribute transaction
+T015524,,S015,2023-10-01 19:28:00,318.42,,Missing customer_id - cannot attribute transaction
+T015583,,S013,2023-08-25 13:27:00,402.83,,Missing customer_id - cannot attribute transaction
+T015637,,S008,2025-06-06 12:52:00,324.79,,Missing customer_id - cannot attribute transaction
+T015669,,S014,2023-08-15 16:44:00,169.58,,Missing customer_id - cannot attribute transaction
+T015671,,S004,2024-12-01 13:01:00,311.97,,Missing customer_id - cannot attribute transaction
+T015723,,S004,2023-01-07 14:32:00,202.03,,Missing customer_id - cannot attribute transaction
+T015730,,S015,2023-12-10 12:09:00,316.3,,Missing customer_id - cannot attribute transaction
+T015748,,S005,2024-01-10 10:08:00,160.77,,Missing customer_id - cannot attribute transaction
+T015755,,S004,2024-09-21 14:56:00,350.48,,Missing customer_id - cannot attribute transaction
+T015758,,S003,2024-11-11 12:34:00,93.98,,Missing customer_id - cannot attribute transaction
+T015772,,S013,2024-01-18 08:46:00,294.74,,Missing customer_id - cannot attribute transaction
+T015776,,S013,2023-02-12 16:50:00,330.6,,Missing customer_id - cannot attribute transaction
+T015840,,S007,2025-05-21 18:30:00,104.68,,Missing customer_id - cannot attribute transaction
+T015843,,S015,2025-08-05 10:43:00,158.61,,Missing customer_id - cannot attribute transaction
+T015881,,S012,2024-11-25 10:05:00,70.28,,Missing customer_id - cannot attribute transaction
+T015906,,S002,2023-01-26 17:27:00,216.95,,Missing customer_id - cannot attribute transaction
+T015920,,S010,2025-02-18 11:30:00,182.53,,Missing customer_id - cannot attribute transaction
+T015934,,S009,2023-05-04 10:40:00,453.49,,Missing customer_id - cannot attribute transaction
+T015941,,S006,2025-01-28 12:26:00,446.42,,Missing customer_id - cannot attribute transaction
+T015946,,S010,2023-03-09 17:22:00,280.94,,Missing customer_id - cannot attribute transaction
+T015961,,S015,2024-05-10 19:20:00,145.13,,Missing customer_id - cannot attribute transaction
+T015988,,S004,2024-10-10 15:37:00,408.28,,Missing customer_id - cannot attribute transaction
+T016007,,S003,2023-11-21 09:18:00,30.61,,Missing customer_id - cannot attribute transaction
+T016035,,S013,2023-01-14 14:54:00,148.3,,Missing customer_id - cannot attribute transaction
+T016070,,S011,2024-02-09 19:24:00,40.72,,Missing customer_id - cannot attribute transaction
+T016090,,S010,2025-04-28 18:59:00,23.79,,Missing customer_id - cannot attribute transaction
+T016093,,S014,2024-10-26 10:28:00,204.35,,Missing customer_id - cannot attribute transaction
+T016117,,S013,2024-09-11 21:45:00,384.24,,Missing customer_id - cannot attribute transaction
+T016120,,S001,2023-03-26 12:12:00,325.52,,Missing customer_id - cannot attribute transaction
+T016156,,S002,2023-03-23 11:22:00,68.23,,Missing customer_id - cannot attribute transaction
+T016160,,S008,2024-03-03 15:10:00,335.83,,Missing customer_id - cannot attribute transaction
+T016194,,S003,2023-12-07 08:44:00,48.74,,Missing customer_id - cannot attribute transaction
+T016237,,S005,2024-10-10 12:08:00,443.06,,Missing customer_id - cannot attribute transaction
+T016240,,S013,2024-06-26 13:16:00,49.5,,Missing customer_id - cannot attribute transaction
+T016251,,S006,2023-11-02 14:09:00,293.04,,Missing customer_id - cannot attribute transaction
+T016256,,S004,2024-11-30 15:13:00,,,Missing customer_id - cannot attribute transaction
+T016257,,S013,2025-03-12 11:25:00,146.1,,Missing customer_id - cannot attribute transaction
+T016276,,S009,2025-09-27 10:27:00,473.7,,Missing customer_id - cannot attribute transaction
+T016289,,S012,2024-01-05 08:56:00,134.26,,Missing customer_id - cannot attribute transaction
+T016330,,S013,2023-11-10 17:20:00,17.35,,Missing customer_id - cannot attribute transaction
+T016338,,,2023-03-29 14:22:00,340.09,,Missing customer_id - cannot attribute transaction
+T016353,,S001,2023-02-15 08:31:00,83.84,,Missing customer_id - cannot attribute transaction
+T016409,,S006,2024-03-13 09:07:00,305.59,,Missing customer_id - cannot attribute transaction
+T016421,,S012,2023-01-11 12:06:00,242.46,,Missing customer_id - cannot attribute transaction
+T016425,,S002,2023-03-26 11:15:00,328.5,,Missing customer_id - cannot attribute transaction
+T016435,,S009,2024-05-30 17:34:00,198.08,,Missing customer_id - cannot attribute transaction
+T016453,,S010,2025-06-27 14:37:00,32.03,,Missing customer_id - cannot attribute transaction
+T016459,,S002,2024-06-28 08:24:00,134.7,,Missing customer_id - cannot attribute transaction
+T016470,,S008,2023-09-01 08:40:00,495.07,,Missing customer_id - cannot attribute transaction
+T016474,,S004,2024-08-11 08:35:00,323.67,,Missing customer_id - cannot attribute transaction
+T016558,,S012,2023-04-22 13:03:00,161.67,,Missing customer_id - cannot attribute transaction
+T016573,,S015,29-04-2023 18:03,39.46,,Missing customer_id - cannot attribute transaction
+T016609,,S003,2024-06-04 10:33:00,196.13,,Missing customer_id - cannot attribute transaction
+T016612,,S006,2023-04-23 21:19:00,372.49,,Missing customer_id - cannot attribute transaction
+T016622,,S009,2023-06-18 17:58:00,,,Missing customer_id - cannot attribute transaction
+T016630,,S001,07-01-2025 18:29,263.84,,Missing customer_id - cannot attribute transaction
+T016656,,S005,2024-11-21 12:34:00,53.01,,Missing customer_id - cannot attribute transaction
+T016662,,S010,10-03-2025 09:00,44.15,,Missing customer_id - cannot attribute transaction
+T016663,,S013,15-09-2023 08:58,405.61,,Missing customer_id - cannot attribute transaction
+T016701,,S005,2024-04-04 16:20:00,78.88,,Missing customer_id - cannot attribute transaction
+T016771,,S014,2023-09-23 21:56:00,190.05,,Missing customer_id - cannot attribute transaction
+T016782,,S014,2025-02-22 20:43:00,186.48,,Missing customer_id - cannot attribute transaction
+T016793,,S004,2023-09-08 09:35:00,478.14,,Missing customer_id - cannot attribute transaction
+T016803,,S015,2024-01-12 15:00:00,347.35,,Missing customer_id - cannot attribute transaction
+T016827,,S014,2025-09-24 09:37:00,66.91,,Missing customer_id - cannot attribute transaction
+T016873,,S011,2025-01-20 11:40:00,81.04,,Missing customer_id - cannot attribute transaction
+T016877,,S013,2024/01/09,-284.13,,Missing customer_id - cannot attribute transaction
+T016887,,S011,2025-01-31 14:52:00,463.77,,Missing customer_id - cannot attribute transaction
+T016913,,S003,2023-02-12 10:36:00,312.26,,Missing customer_id - cannot attribute transaction
+T016942,,S003,2025-06-28 11:17:00,380.82,,Missing customer_id - cannot attribute transaction
+T016952,,S002,2023-08-11 14:19:00,135.22,,Missing customer_id - cannot attribute transaction
+T016984,,S013,2025-05-18 20:07:00,94.03,,Missing customer_id - cannot attribute transaction
+T016993,,S002,2024/02/20,129.59,,Missing customer_id - cannot attribute transaction
+T016999,,S001,2025-04-27 09:57:00,15.01,,Missing customer_id - cannot attribute transaction
+T017016,,S001,2025-07-07 12:13:00,91.06,,Missing customer_id - cannot attribute transaction
+T017039,,S007,2023-01-21 15:37:00,302.44,,Missing customer_id - cannot attribute transaction
+T017095,,S015,2025-02-19 18:28:00,493.35,,Missing customer_id - cannot attribute transaction
+T017108,,S013,2025-03-11 16:00:00,26.61,,Missing customer_id - cannot attribute transaction
+T017118,,S008,2025-01-20 18:00:00,90.19,,Missing customer_id - cannot attribute transaction
+T017132,,S006,2023-03-17 16:48:00,468.62,,Missing customer_id - cannot attribute transaction
+T017167,,S005,2023-08-14 14:05:00,492.09,,Missing customer_id - cannot attribute transaction
+T017195,,S013,2023-09-13 15:07:00,420.29,,Missing customer_id - cannot attribute transaction
+T017235,,,2023-09-01 14:17:00,247.51,,Missing customer_id - cannot attribute transaction
+T017263,,S015,2023-01-05 14:54:00,92.33,,Missing customer_id - cannot attribute transaction
+T017266,,S011,2025-07-22 10:03:00,208.88,,Missing customer_id - cannot attribute transaction
+T017342,,S011,2024-01-05 14:39:00,227.88,,Missing customer_id - cannot attribute transaction
+T017358,,S015,2024-12-28 20:23:00,291.23,,Missing customer_id - cannot attribute transaction
+T017366,,S008,2023-04-09 17:00:00,63.15,,Missing customer_id - cannot attribute transaction
+T017387,,,2023-03-08 18:35:00,284.92,,Missing customer_id - cannot attribute transaction
+T017408,,S009,2024-07-05 15:58:00,311.44,,Missing customer_id - cannot attribute transaction
+T017423,,S010,2024/03/06,329.51,,Missing customer_id - cannot attribute transaction
+T017429,,S014,2024-06-02 17:33:00,389.71,,Missing customer_id - cannot attribute transaction
+T017466,,S011,2023-11-15 15:11:00,414.19,,Missing customer_id - cannot attribute transaction
+T017475,,S011,25-12-2023 11:41,302.25,,Missing customer_id - cannot attribute transaction
+T017483,,S002,2025-07-16 18:22:00,86.19,,Missing customer_id - cannot attribute transaction
+T017484,,S008,2023-12-12 09:24:00,320.68,,Missing customer_id - cannot attribute transaction
+T017527,,S003,2024-05-04 18:07:00,426.01,,Missing customer_id - cannot attribute transaction
+T017529,,S014,2024-06-28 20:47:00,119.72,,Missing customer_id - cannot attribute transaction
+T017544,,S009,2025/03/23,77.92,,Missing customer_id - cannot attribute transaction
+T017546,,S012,09-03-2024 10:35,463.03,,Missing customer_id - cannot attribute transaction
+T017554,,S015,2025-07-21 14:09:00,12.88,,Missing customer_id - cannot attribute transaction
+T017562,,S002,2024-05-29 19:12:00,319.65,,Missing customer_id - cannot attribute transaction
+T017589,,S010,2024-01-22 21:51:00,395.02,,Missing customer_id - cannot attribute transaction
+T017590,,S005,2024-11-29 19:25:00,121.47,,Missing customer_id - cannot attribute transaction
+T017592,,S006,2023-06-01 16:01:00,154.74,,Missing customer_id - cannot attribute transaction
+T017603,,S006,2025-06-30 17:46:00,464.34,,Missing customer_id - cannot attribute transaction
+T017612,,S010,2025-06-06 19:35:00,127.0,,Missing customer_id - cannot attribute transaction
+T017646,,S008,2024-05-29 20:35:00,436.12,,Missing customer_id - cannot attribute transaction
+T017679,,S002,2023-10-07 15:05:00,315.0,,Missing customer_id - cannot attribute transaction
+T017686,,S009,2025-08-09 09:57:00,231.75,,Missing customer_id - cannot attribute transaction
+T017690,,S001,2023-09-08 15:30:00,101.52,,Missing customer_id - cannot attribute transaction
+T017706,,S007,2023-02-14 13:52:00,87.44,,Missing customer_id - cannot attribute transaction
+T017708,,S008,2024-06-03 20:22:00,133.21,,Missing customer_id - cannot attribute transaction
+T017713,,S008,2025-04-10 21:53:00,182.82,,Missing customer_id - cannot attribute transaction
+T017737,,S007,2023-01-27 15:26:00,54.62,,Missing customer_id - cannot attribute transaction
+T017743,,S014,2024-11-19 12:43:00,81.57,,Missing customer_id - cannot attribute transaction
+T017748,,S002,2023-09-18 18:00:00,362.1,,Missing customer_id - cannot attribute transaction
+T017786,,S009,,165.24,,Missing customer_id - cannot attribute transaction
+T017795,,,2024-12-11 16:49:00,375.87,,Missing customer_id - cannot attribute transaction
+T017829,,S013,2023-01-22 21:21:00,41.25,,Missing customer_id - cannot attribute transaction
+T017834,,S010,2023-02-14 08:12:00,,,Missing customer_id - cannot attribute transaction
+T017857,,S012,2025-06-15 21:44:00,184.75,,Missing customer_id - cannot attribute transaction
+T017931,,S001,2024-11-11 18:01:00,356.29,,Missing customer_id - cannot attribute transaction
+T017935,,S015,2023-01-11 18:31:00,224.06,,Missing customer_id - cannot attribute transaction
+T017998,,S001,2025-05-07 10:47:00,259.42,,Missing customer_id - cannot attribute transaction
+T018029,,S003,2025-07-27 09:59:00,190.29,,Missing customer_id - cannot attribute transaction
+T018059,,S008,2024-08-03 15:17:00,450.1,,Missing customer_id - cannot attribute transaction
+T018060,,S001,2024-09-23 18:09:00,,,Missing customer_id - cannot attribute transaction
+T018070,,S006,2024-09-16 20:24:00,362.97,,Missing customer_id - cannot attribute transaction
+T018073,,S004,2024-11-19 13:27:00,302.33,,Missing customer_id - cannot attribute transaction
+T018091,,S012,2024-04-20 13:44:00,372.0,,Missing customer_id - cannot attribute transaction
+T018132,,S012,2024-01-21 16:52:00,472.69,,Missing customer_id - cannot attribute transaction
+T018140,,S013,2023-11-04 08:57:00,155.14,,Missing customer_id - cannot attribute transaction
+T018158,,S005,2023-10-27 13:03:00,282.97,,Missing customer_id - cannot attribute transaction
+T018172,,S013,2023-12-04 18:38:00,193.94,,Missing customer_id - cannot attribute transaction
+T018173,,S007,2024-11-13 16:22:00,457.27,,Missing customer_id - cannot attribute transaction
+T018174,,S005,2025-07-12 09:17:00,96.32,,Missing customer_id - cannot attribute transaction
+T018218,,S014,2023-12-15 09:26:00,48.81,,Missing customer_id - cannot attribute transaction
+T018237,,S002,2024-01-07 18:18:00,186.1,,Missing customer_id - cannot attribute transaction
+T018239,,S014,2024-01-17 21:23:00,137.23,,Missing customer_id - cannot attribute transaction
+T018295,,S001,2023-11-18 10:09:00,,,Missing customer_id - cannot attribute transaction
+T018309,,S012,19-05-2024 14:11,459.34,,Missing customer_id - cannot attribute transaction
+T018360,,S007,2024-12-23 11:20:00,225.39,,Missing customer_id - cannot attribute transaction
+T018385,,S002,2024-10-04 15:32:00,376.1,,Missing customer_id - cannot attribute transaction
+T018423,,S001,2023-01-25 16:04:00,101.02,,Missing customer_id - cannot attribute transaction
+T018440,,S007,2024-02-29 09:09:00,237.52,,Missing customer_id - cannot attribute transaction
+T018453,,S012,2025-06-19 09:44:00,128.59,,Missing customer_id - cannot attribute transaction
+T018463,,S013,2025-01-15 21:46:00,329.55,,Missing customer_id - cannot attribute transaction
+T018540,,S001,2025-07-22 19:43:00,339.28,,Missing customer_id - cannot attribute transaction
+T018543,,S011,2023-09-24 09:05:00,264.16,,Missing customer_id - cannot attribute transaction
+T018555,,S011,2025-01-17 18:19:00,401.21,,Missing customer_id - cannot attribute transaction
+T018635,,S006,2023-05-17 12:47:00,136.28,,Missing customer_id - cannot attribute transaction
+T018653,,S010,2024-08-04 19:24:00,134.19,,Missing customer_id - cannot attribute transaction
+T018678,,S006,2025-02-23 11:45:00,351.9,,Missing customer_id - cannot attribute transaction
+T018687,,S009,2024-07-01 12:58:00,282.83,,Missing customer_id - cannot attribute transaction
+T018692,,S012,2023-05-15 14:36:00,208.48,,Missing customer_id - cannot attribute transaction
+T018698,,S015,2024-08-01 15:08:00,247.12,,Missing customer_id - cannot attribute transaction
+T018708,,S013,2025-06-25 09:24:00,161.26,,Missing customer_id - cannot attribute transaction
+T018739,,S014,2023-05-20 20:05:00,413.73,,Missing customer_id - cannot attribute transaction
+T018747,,S002,2024-07-26 08:58:00,215.41,,Missing customer_id - cannot attribute transaction
+T018759,,S005,2025-02-27 18:05:00,467.17,,Missing customer_id - cannot attribute transaction
+T018769,,S010,2023-03-13 16:48:00,149.97,,Missing customer_id - cannot attribute transaction
+T018771,,S008,2025-02-19 19:47:00,315.35,,Missing customer_id - cannot attribute transaction
+T018772,,S009,,346.9,,Missing customer_id - cannot attribute transaction
+T018870,,S012,2024-03-23 19:55:00,137.01,,Missing customer_id - cannot attribute transaction
+T018877,,S014,10-07-2023 12:24,254.59,,Missing customer_id - cannot attribute transaction
+T018895,,S008,2024-11-02 17:56:00,126.5,,Missing customer_id - cannot attribute transaction
+T018918,,S001,2024-01-12 13:22:00,342.14,,Missing customer_id - cannot attribute transaction
+T018927,,S010,2025-07-28 14:10:00,235.4,,Missing customer_id - cannot attribute transaction
+T018942,,S011,2024-12-05 14:05:00,491.12,,Missing customer_id - cannot attribute transaction
+T018971,,S010,2023-12-05 13:45:00,360.72,,Missing customer_id - cannot attribute transaction
+T019035,,S010,2024-01-29 14:38:00,53.3,,Missing customer_id - cannot attribute transaction
+T019038,,S011,2025/09/23,142.9,,Missing customer_id - cannot attribute transaction
+T019050,,S008,2023-12-16 13:29:00,85.75,,Missing customer_id - cannot attribute transaction
+T019052,,S012,2025-02-25 20:39:00,98.91,,Missing customer_id - cannot attribute transaction
+T019096,,S013,2023-09-07 11:42:00,282.25,,Missing customer_id - cannot attribute transaction
+T019112,,S005,2023-10-06 20:02:00,293.55,,Missing customer_id - cannot attribute transaction
+T019139,,S003,2023-06-06 19:19:00,324.74,,Missing customer_id - cannot attribute transaction
+T019144,,S007,2023-11-15 17:53:00,266.52,,Missing customer_id - cannot attribute transaction
+T019156,,S008,2025-06-12 18:09:00,303.59,,Missing customer_id - cannot attribute transaction
+T019160,,S015,2023-08-16 12:43:00,252.55,,Missing customer_id - cannot attribute transaction
+T019182,,S004,2025-05-11 08:40:00,86.49,,Missing customer_id - cannot attribute transaction
+T019200,,S005,2024-04-12 09:07:00,66.43,,Missing customer_id - cannot attribute transaction
+T019208,,S001,2024-08-25 19:02:00,463.83,,Missing customer_id - cannot attribute transaction
+T019224,,S006,2023-03-04 10:22:00,30.16,,Missing customer_id - cannot attribute transaction
+T019238,,S002,2024-11-04 19:33:00,418.89,,Missing customer_id - cannot attribute transaction
+T019246,,S008,2025-07-22 19:57:00,458.43,,Missing customer_id - cannot attribute transaction
+T019261,,S010,2025-07-25 20:05:00,323.09,,Missing customer_id - cannot attribute transaction
+T019264,,S013,2024-12-24 13:46:00,328.14,,Missing customer_id - cannot attribute transaction
+T019287,,S001,2023-05-02 18:14:00,418.18,,Missing customer_id - cannot attribute transaction
+T019288,,S013,2023-10-01 14:07:00,22.6,,Missing customer_id - cannot attribute transaction
+T019301,,S002,2023-09-26 21:09:00,364.5,,Missing customer_id - cannot attribute transaction
+T019306,,S002,2024-07-09 21:31:00,400.93,,Missing customer_id - cannot attribute transaction
+T019307,,S002,2024-10-24 21:21:00,183.2,,Missing customer_id - cannot attribute transaction
+T019338,,S012,2024-07-20 19:04:00,240.41,,Missing customer_id - cannot attribute transaction
+T019342,,S001,2023/04/28,120.39,,Missing customer_id - cannot attribute transaction
+T019354,,S011,2024-05-19 20:43:00,232.57,,Missing customer_id - cannot attribute transaction
+T019384,,S012,2024-09-18 08:20:00,195.14,,Missing customer_id - cannot attribute transaction
+T019408,,S002,2023-11-01 14:40:00,296.01,,Missing customer_id - cannot attribute transaction
+T019416,,S015,,123.86,,Missing customer_id - cannot attribute transaction
+T019455,,S013,2023-09-24 11:26:00,247.11,,Missing customer_id - cannot attribute transaction
+T019467,,S002,2023-02-18 16:15:00,148.09,,Missing customer_id - cannot attribute transaction
+T019477,,S005,2025-05-14 11:56:00,442.39,,Missing customer_id - cannot attribute transaction
+T019514,,S008,2023-07-11 19:44:00,377.35,,Missing customer_id - cannot attribute transaction
+T019520,,S012,2025-03-27 12:18:00,381.93,,Missing customer_id - cannot attribute transaction
+T019527,,S012,2024-12-05 12:07:00,483.03,,Missing customer_id - cannot attribute transaction
+T019556,,S011,2024-01-18 21:58:00,79.15,,Missing customer_id - cannot attribute transaction
+T019561,,S009,2024-02-18 16:16:00,88.99,,Missing customer_id - cannot attribute transaction
+T019594,,S002,2024-02-08 19:26:00,491.26,,Missing customer_id - cannot attribute transaction
+T019595,,S009,2024-03-21 09:47:00,98.83,,Missing customer_id - cannot attribute transaction
+T019602,,S011,2024-02-05 13:00:00,301.51,,Missing customer_id - cannot attribute transaction
+T019623,,S009,2024-02-17 16:46:00,459.12,,Missing customer_id - cannot attribute transaction
+T019650,,S012,2025-06-26 14:13:00,12.99,,Missing customer_id - cannot attribute transaction
+T019659,,S003,14-06-2025 14:52,266.6,,Missing customer_id - cannot attribute transaction
+T019671,,S008,2024-12-26 10:17:00,440.0,,Missing customer_id - cannot attribute transaction
+T019707,,S003,2024-01-31 13:27:00,196.67,,Missing customer_id - cannot attribute transaction
+T019712,,S015,2024-04-28 19:53:00,238.11,,Missing customer_id - cannot attribute transaction
+T019737,,S001,2025-05-06 15:04:00,255.85,,Missing customer_id - cannot attribute transaction
+T019765,,S008,23-01-2025 11:08,103.02,,Missing customer_id - cannot attribute transaction
+T019772,,S012,2024-05-21 10:13:00,93.21,,Missing customer_id - cannot attribute transaction
+T019775,,S001,2025-05-20 17:26:00,346.38,,Missing customer_id - cannot attribute transaction
+T019777,,S010,2024-02-24 09:47:00,205.37,,Missing customer_id - cannot attribute transaction
+T019789,,S012,2023-11-05 14:58:00,326.67,,Missing customer_id - cannot attribute transaction
+T019802,,S013,2023-12-14 18:51:00,332.37,,Missing customer_id - cannot attribute transaction
+T019805,,S001,2023-09-29 19:41:00,236.18,,Missing customer_id - cannot attribute transaction
+T019845,,S008,2025-01-02 15:40:00,447.37,,Missing customer_id - cannot attribute transaction
+T019896,,S012,2025-08-03 15:58:00,117.79,,Missing customer_id - cannot attribute transaction
+T019907,,S004,2023-11-07 17:36:00,357.35,,Missing customer_id - cannot attribute transaction
+T019916,,S011,2024-01-18 19:22:00,455.28,,Missing customer_id - cannot attribute transaction
+T019961,,S012,2025-01-13 12:30:00,310.65,,Missing customer_id - cannot attribute transaction
+T020002,,S008,08-08-2024 20:59,187.79,,Missing customer_id - cannot attribute transaction
+T020005,,S002,2024-02-22 19:15:00,370.03,,Missing customer_id - cannot attribute transaction
+T020028,,S007,2025-03-21 14:38:00,113.97,,Missing customer_id - cannot attribute transaction
+T020034,,S008,2024-02-18 17:50:00,164.33,,Missing customer_id - cannot attribute transaction
+T020047,,S002,2023-07-30 09:55:00,84.46,,Missing customer_id - cannot attribute transaction
+T020082,,S003,2023-07-08 13:28:00,,,Missing customer_id - cannot attribute transaction
+T020098,,S014,2025-07-05 18:42:00,438.01,,Missing customer_id - cannot attribute transaction
+T020112,,S014,2024-11-09 09:31:00,222.58,,Missing customer_id - cannot attribute transaction
+T020121,,S010,2024-11-04 15:42:00,214.18,,Missing customer_id - cannot attribute transaction
+T020133,,S010,2023-07-21 18:03:00,,,Missing customer_id - cannot attribute transaction
+T020146,,S013,2023-06-16 21:42:00,160.39,,Missing customer_id - cannot attribute transaction
+T020178,,S010,2023-06-02 08:26:00,75.29,,Missing customer_id - cannot attribute transaction
+T020217,,S006,2025-08-11 21:34:00,10.87,,Missing customer_id - cannot attribute transaction
+T020238,,S009,2025-07-07 20:02:00,37.22,,Missing customer_id - cannot attribute transaction
+T020249,,S002,2025-07-25 10:17:00,315.22,,Missing customer_id - cannot attribute transaction
+T020271,,S005,2024-07-17 12:23:00,326.68,,Missing customer_id - cannot attribute transaction
+T020275,,S004,2025-07-14 20:28:00,328.02,,Missing customer_id - cannot attribute transaction
+T020324,,S005,2025-04-03 13:27:00,200.42,,Missing customer_id - cannot attribute transaction
+T020325,,S008,2025-01-18 10:53:00,177.87,,Missing customer_id - cannot attribute transaction
+T020356,,S013,2024-08-03 12:59:00,313.32,,Missing customer_id - cannot attribute transaction
+T020358,,S012,2024-12-11 14:45:00,173.77,,Missing customer_id - cannot attribute transaction
+T020369,,S010,2025-01-18 09:29:00,197.99,,Missing customer_id - cannot attribute transaction
+T020370,,S005,2024-11-11 20:34:00,179.97,,Missing customer_id - cannot attribute transaction
+T020372,,,2024-11-18 10:26:00,37.65,,Missing customer_id - cannot attribute transaction
+T020431,,S014,2025-04-11 10:05:00,353.46,,Missing customer_id - cannot attribute transaction
+T020473,,S009,09-03-2023 17:52,364.19,,Missing customer_id - cannot attribute transaction
+T020489,,S004,2025-07-22 16:05:00,115.46,,Missing customer_id - cannot attribute transaction
+T020505,,S002,2023-06-02 14:55:00,31.27,,Missing customer_id - cannot attribute transaction
+T020567,,S009,2023-01-05 14:14:00,87.41,,Missing customer_id - cannot attribute transaction
+T020580,,S012,2025-06-03 21:44:00,399.08,,Missing customer_id - cannot attribute transaction
+T020626,,S014,2025-01-27 15:57:00,143.39,,Missing customer_id - cannot attribute transaction
+T020641,,S006,2024-05-05 16:53:00,141.24,,Missing customer_id - cannot attribute transaction
+T020662,,S007,2023-04-22 13:48:00,375.13,,Missing customer_id - cannot attribute transaction
+T020678,,S008,2024-08-19 20:17:00,186.83,,Missing customer_id - cannot attribute transaction
+T020686,,S005,2024-10-06 12:51:00,283.36,,Missing customer_id - cannot attribute transaction
+T020696,,S010,2024-05-15 16:10:00,477.2,,Missing customer_id - cannot attribute transaction
+T020698,,S015,2023-09-17 09:52:00,69.86,,Missing customer_id - cannot attribute transaction
+T020715,,S001,2023-01-05 16:58:00,184.11,,Missing customer_id - cannot attribute transaction
+T020721,,S015,2025-02-03 10:23:00,227.67,,Missing customer_id - cannot attribute transaction
+T020732,,S010,2025-06-30 18:34:00,386.88,,Missing customer_id - cannot attribute transaction
+T020751,,S013,2025-01-20 08:54:00,,,Missing customer_id - cannot attribute transaction
+T020785,,S010,2025-05-19 16:29:00,361.71,,Missing customer_id - cannot attribute transaction
+T020801,,S007,2025-05-08 16:36:00,104.85,,Missing customer_id - cannot attribute transaction
+T020807,,S014,2023-08-03 10:50:00,312.24,,Missing customer_id - cannot attribute transaction
+T020821,,S007,2024-07-06 17:19:00,141.33,,Missing customer_id - cannot attribute transaction
+T020838,,S014,2023-11-30 13:10:00,451.11,,Missing customer_id - cannot attribute transaction
+T020844,,S002,2023-03-27 08:56:00,149.43,,Missing customer_id - cannot attribute transaction
+T020860,,S002,2023-05-04 18:56:00,389.84,,Missing customer_id - cannot attribute transaction
+T020867,,S009,2024-12-13 12:05:00,307.15,,Missing customer_id - cannot attribute transaction
+T020928,,S002,2024-09-06 17:55:00,480.41,,Missing customer_id - cannot attribute transaction
+T020941,,S008,2023-11-14 11:22:00,81.48,,Missing customer_id - cannot attribute transaction
+T020950,,S015,2025-03-16 14:34:00,38.82,,Missing customer_id - cannot attribute transaction
+T020966,,S011,2025-07-20 20:54:00,404.39,,Missing customer_id - cannot attribute transaction
+T020977,,S009,2024-03-30 20:18:00,41.5,,Missing customer_id - cannot attribute transaction
+T020989,,S002,2024-06-26 12:41:00,50.19,,Missing customer_id - cannot attribute transaction
+T020992,,S001,2023-12-05 11:37:00,134.24,,Missing customer_id - cannot attribute transaction
+T021006,,S012,2024-04-29 12:37:00,168.67,,Missing customer_id - cannot attribute transaction
+T021020,,S002,2024-08-20 21:02:00,110.02,,Missing customer_id - cannot attribute transaction
+T021053,,S012,2025-06-17 12:00:00,333.09,,Missing customer_id - cannot attribute transaction
+T021079,,S012,2025-06-04 17:03:00,292.94,,Missing customer_id - cannot attribute transaction
+T021093,,S009,2024-03-05 20:03:00,134.11,,Missing customer_id - cannot attribute transaction
+T021099,,S005,2025-03-01 10:09:00,252.66,,Missing customer_id - cannot attribute transaction
+T021116,,S005,2025-07-18 17:15:00,182.29,,Missing customer_id - cannot attribute transaction
+T021132,,S001,2024-03-07 17:02:00,301.66,,Missing customer_id - cannot attribute transaction
+T021142,,S007,2023-05-26 08:24:00,363.74,,Missing customer_id - cannot attribute transaction
+T021149,,S007,2024-12-02 18:55:00,432.14,,Missing customer_id - cannot attribute transaction
+T021150,,S005,2023-08-14 08:13:00,481.0,,Missing customer_id - cannot attribute transaction
+T021152,,S009,2025-05-16 09:21:00,228.44,,Missing customer_id - cannot attribute transaction
+T021164,,S014,2023-07-09 18:25:00,260.82,,Missing customer_id - cannot attribute transaction
+T021228,,S001,2025-03-27 10:57:00,297.88,,Missing customer_id - cannot attribute transaction
+T021245,,S009,2024-03-02 20:54:00,445.15,,Missing customer_id - cannot attribute transaction
+T021283,,S002,2024-05-19 20:29:00,419.42,,Missing customer_id - cannot attribute transaction
+T021304,,S004,2025-03-15 13:13:00,185.21,,Missing customer_id - cannot attribute transaction
+T021328,,S015,2023-06-30 09:48:00,58.36,,Missing customer_id - cannot attribute transaction
+T021350,,S011,2025-07-18 09:28:00,242.28,,Missing customer_id - cannot attribute transaction
+T021354,,S015,2023-09-16 08:11:00,450.42,,Missing customer_id - cannot attribute transaction
+T021423,,S002,2025-06-26 21:42:00,168.67,,Missing customer_id - cannot attribute transaction
+T021424,,S009,2025-07-30 12:44:00,393.42,,Missing customer_id - cannot attribute transaction
+T021434,,S003,2023-04-05 16:48:00,330.07,,Missing customer_id - cannot attribute transaction
+T021462,,S008,2023-07-24 21:22:00,132.78,,Missing customer_id - cannot attribute transaction
+T021575,,S006,2024-02-09 14:16:00,272.0,,Missing customer_id - cannot attribute transaction
+T021606,,S012,2024-08-01 09:56:00,245.86,,Missing customer_id - cannot attribute transaction
+T021618,,S007,2023-08-03 16:05:00,180.45,,Missing customer_id - cannot attribute transaction
+T021629,,S006,2023-03-17 17:02:00,,,Missing customer_id - cannot attribute transaction
+T021630,,S006,2025-01-20 14:00:00,276.64,,Missing customer_id - cannot attribute transaction
+T021641,,S010,2025-02-15 13:17:00,458.17,,Missing customer_id - cannot attribute transaction
+T021644,,S010,2025-05-11 20:19:00,115.62,,Missing customer_id - cannot attribute transaction
+T021648,,S008,21-07-2025 17:43,85.84,,Missing customer_id - cannot attribute transaction
+T021754,,S011,12-03-2025 20:55,266.24,,Missing customer_id - cannot attribute transaction
+T021758,,S011,2025-07-19 09:17:00,401.12,,Missing customer_id - cannot attribute transaction
+T021808,,S011,2025-06-20 18:12:00,40.42,,Missing customer_id - cannot attribute transaction
+T021815,,S005,2024-06-13 08:03:00,287.99,,Missing customer_id - cannot attribute transaction
+T021818,,S007,2023-02-12 08:33:00,390.68,,Missing customer_id - cannot attribute transaction
+T021832,,S006,2024-07-07 14:18:00,204.22,,Missing customer_id - cannot attribute transaction
+T021864,,S004,2024-12-10 12:22:00,358.73,,Missing customer_id - cannot attribute transaction
+T021868,,S014,2023-01-06 18:00:00,150.7,,Missing customer_id - cannot attribute transaction
+T021875,,S008,2025-04-12 17:11:00,168.62,,Missing customer_id - cannot attribute transaction
+T021892,,S015,2025-08-26 16:50:00,60.65,,Missing customer_id - cannot attribute transaction
+T021895,,S009,2025-06-17 14:29:00,394.81,,Missing customer_id - cannot attribute transaction
+T021896,,S007,2024-06-25 19:38:00,202.32,,Missing customer_id - cannot attribute transaction
+T021920,,S001,2023-10-26 12:43:00,377.25,,Missing customer_id - cannot attribute transaction
+T021934,,S005,2023-04-10 14:11:00,360.35,,Missing customer_id - cannot attribute transaction
+T021965,,S003,2025-05-31 10:55:00,96.95,,Missing customer_id - cannot attribute transaction
+T022004,,S007,2023-10-21 17:34:00,227.3,,Missing customer_id - cannot attribute transaction
+T022021,,S009,2024-01-22 10:18:00,188.77,,Missing customer_id - cannot attribute transaction
+T022032,,S013,2023-12-16 20:23:00,303.53,,Missing customer_id - cannot attribute transaction
+T022047,,S006,2023-06-07 12:12:00,424.56,,Missing customer_id - cannot attribute transaction
+T022084,,S003,2024-04-05 14:19:00,485.5,,Missing customer_id - cannot attribute transaction
+T022085,,S011,2023-12-23 19:55:00,425.7,,Missing customer_id - cannot attribute transaction
+T022087,,S004,2024-06-11 13:40:00,17.66,,Missing customer_id - cannot attribute transaction
+T022092,,S010,2025-01-13 14:40:00,298.63,,Missing customer_id - cannot attribute transaction
+T022098,,S012,2025-08-01 08:59:00,289.58,,Missing customer_id - cannot attribute transaction
+T022107,,S004,2025-01-23 11:54:00,12.95,,Missing customer_id - cannot attribute transaction
+T022179,,S003,2025-05-29 17:53:00,188.43,,Missing customer_id - cannot attribute transaction
+T022224,,S012,2024-09-18 16:51:00,156.94,,Missing customer_id - cannot attribute transaction
+T022267,,S010,2024-07-27 08:26:00,309.0,,Missing customer_id - cannot attribute transaction
+T022278,,S004,2023-07-17 18:16:00,389.32,,Missing customer_id - cannot attribute transaction
+T022279,,S004,2025-07-26 08:35:00,209.27,,Missing customer_id - cannot attribute transaction
+T022284,,S002,2023-03-13 13:33:00,483.25,,Missing customer_id - cannot attribute transaction
+T022318,,S005,2023-04-25 15:54:00,81.13,,Missing customer_id - cannot attribute transaction
+T022321,,S003,2025-04-15 11:31:00,471.25,,Missing customer_id - cannot attribute transaction
+T022336,,S009,2023-05-05 13:04:00,66.78,,Missing customer_id - cannot attribute transaction
+T022356,,S001,2023-09-05 09:34:00,446.93,,Missing customer_id - cannot attribute transaction
+T022375,,S012,2024-10-08 20:15:00,214.07,,Missing customer_id - cannot attribute transaction
+T022376,,S012,2023-09-20 21:00:00,438.9,,Missing customer_id - cannot attribute transaction
+T022378,,S012,2024-05-12 19:56:00,163.49,,Missing customer_id - cannot attribute transaction
+T022382,,S006,2024-08-23 18:53:00,107.23,,Missing customer_id - cannot attribute transaction
+T022404,,S003,2023-09-21 20:38:00,133.6,,Missing customer_id - cannot attribute transaction
+T022420,,S002,2023-05-15 13:18:00,,,Missing customer_id - cannot attribute transaction
+T022453,,S003,2023-04-16 17:33:00,246.91,,Missing customer_id - cannot attribute transaction
+T022458,,S007,2023-08-18 16:38:00,331.09,,Missing customer_id - cannot attribute transaction
+T022486,,S011,2024-05-14 19:10:00,145.7,,Missing customer_id - cannot attribute transaction
+T022504,,S010,2024-05-10 10:34:00,201.57,,Missing customer_id - cannot attribute transaction
+T022508,,S004,2025/03/16,104.18,,Missing customer_id - cannot attribute transaction
+T022514,,S001,2023-11-18 21:12:00,62.23,,Missing customer_id - cannot attribute transaction
+T022547,,S006,2023-03-22 17:12:00,32.13,,Missing customer_id - cannot attribute transaction
+T022556,,S004,12-03-2025 10:53,324.7,,Missing customer_id - cannot attribute transaction
+T022558,,S015,2023-08-09 09:32:00,44.58,,Missing customer_id - cannot attribute transaction
+T022561,,S004,2025-06-30 14:23:00,79.99,,Missing customer_id - cannot attribute transaction
+T022565,,S012,2023-01-09 18:41:00,67.25,,Missing customer_id - cannot attribute transaction
+T022573,,S008,2023-10-27 09:51:00,112.89,,Missing customer_id - cannot attribute transaction
+T022582,,S002,2024-04-17 20:06:00,228.15,,Missing customer_id - cannot attribute transaction
+T022599,,S002,2023-03-08 19:35:00,306.78,,Missing customer_id - cannot attribute transaction
+T022621,,S012,2023-08-07 19:32:00,195.03,,Missing customer_id - cannot attribute transaction
+T022642,,S009,2023-04-10 13:19:00,,,Missing customer_id - cannot attribute transaction
+T022657,,S012,2024-03-11 10:35:00,428.72,,Missing customer_id - cannot attribute transaction
+T022692,,S001,2025-02-06 20:08:00,270.06,,Missing customer_id - cannot attribute transaction
+T022719,,S009,2024-09-22 10:54:00,420.91,,Missing customer_id - cannot attribute transaction
+T022744,,S012,2023-11-05 11:27:00,374.46,,Missing customer_id - cannot attribute transaction
+T022761,,S001,2025-03-11 14:32:00,,,Missing customer_id - cannot attribute transaction
+T022768,,S003,2023-10-13 19:30:00,445.46,,Missing customer_id - cannot attribute transaction
+T022777,,S003,2023-02-01 11:48:00,125.41,,Missing customer_id - cannot attribute transaction
+T022797,,S008,2023-02-10 21:39:00,134.48,,Missing customer_id - cannot attribute transaction
+T022801,,S008,2023-05-14 14:48:00,34.6,,Missing customer_id - cannot attribute transaction
+T022809,,S004,2023-08-12 18:08:00,274.09,,Missing customer_id - cannot attribute transaction
+T022821,,S008,2024-04-11 08:42:00,161.87,,Missing customer_id - cannot attribute transaction
+T022852,,S014,2024-08-01 16:34:00,232.71,,Missing customer_id - cannot attribute transaction
+T022863,,S015,2023-05-13 15:14:00,43.07,,Missing customer_id - cannot attribute transaction
+T022871,,S001,2025-06-21 17:17:00,90.93,,Missing customer_id - cannot attribute transaction
+T022874,,S013,2023-10-12 20:52:00,193.01,,Missing customer_id - cannot attribute transaction
+T022883,,S013,2024-03-12 11:07:00,292.9,,Missing customer_id - cannot attribute transaction
+T023028,,S001,2024-05-06 19:58:00,320.11,,Missing customer_id - cannot attribute transaction
+T023029,,S010,2023-10-21 17:36:00,134.3,,Missing customer_id - cannot attribute transaction
+T023038,,S001,2025-03-08 10:13:00,308.26,,Missing customer_id - cannot attribute transaction
+T023051,,S008,2025-08-19 13:55:00,77.07,,Missing customer_id - cannot attribute transaction
+T023056,,S014,06-12-2023 08:29,270.34,,Missing customer_id - cannot attribute transaction
+T023081,,S004,2025-05-10 19:20:00,350.22,,Missing customer_id - cannot attribute transaction
+T023122,,S001,2023-12-09 09:21:00,164.46,,Missing customer_id - cannot attribute transaction
+T023127,,S008,2024-03-10 10:10:00,425.86,,Missing customer_id - cannot attribute transaction
+T023134,,S009,2025-08-06 10:16:00,130.39,,Missing customer_id - cannot attribute transaction
+T023149,,S013,2025-01-13 10:22:00,86.67,,Missing customer_id - cannot attribute transaction
+T023154,,S001,24-01-2023 09:55,399.72,,Missing customer_id - cannot attribute transaction
+T023155,,S009,2024-05-08 18:22:00,,,Missing customer_id - cannot attribute transaction
+T023179,,S007,2023-11-12 16:34:00,138.61,,Missing customer_id - cannot attribute transaction
+T023222,,S011,2023-07-09 10:55:00,374.67,,Missing customer_id - cannot attribute transaction
+T023252,,S005,2023-04-16 08:15:00,38.2,,Missing customer_id - cannot attribute transaction
+T023257,,S007,2024-01-01 18:11:00,79.93,,Missing customer_id - cannot attribute transaction
+T023258,,S010,2024/11/13,435.78,,Missing customer_id - cannot attribute transaction
+T023273,,S010,2023-03-24 09:57:00,92.18,,Missing customer_id - cannot attribute transaction
+T023315,,S005,2024/08/16,223.12,,Missing customer_id - cannot attribute transaction
+T023353,,S008,2025-04-30 13:47:00,406.22,,Missing customer_id - cannot attribute transaction
+T023366,,S003,2024-02-01 15:28:00,469.91,,Missing customer_id - cannot attribute transaction
+T023375,,S006,2024-11-28 13:10:00,489.92,,Missing customer_id - cannot attribute transaction
+T023400,,S014,2023-06-07 08:36:00,356.08,,Missing customer_id - cannot attribute transaction
+T023434,,S005,2025-02-19 19:00:00,21.45,,Missing customer_id - cannot attribute transaction
+T023456,,S009,2023-10-12 13:29:00,73.3,,Missing customer_id - cannot attribute transaction
+T023470,,S003,2025-03-30 12:26:00,181.77,,Missing customer_id - cannot attribute transaction
+T023484,,S003,2025-01-27 18:59:00,338.09,,Missing customer_id - cannot attribute transaction
+T023490,,S001,2025-07-26 12:28:00,227.43,,Missing customer_id - cannot attribute transaction
+T023492,,S006,2025-09-19 16:11:00,409.32,,Missing customer_id - cannot attribute transaction
+T023509,,S015,2025-05-03 21:50:00,461.45,,Missing customer_id - cannot attribute transaction
+T023514,,S011,2023-03-29 17:23:00,304.83,,Missing customer_id - cannot attribute transaction
+T023567,,S008,2023-08-19 09:35:00,32.98,,Missing customer_id - cannot attribute transaction
+T023670,,S004,2024-11-26 13:41:00,373.56,,Missing customer_id - cannot attribute transaction
+T023687,,S007,21-02-2024 11:02,118.64,,Missing customer_id - cannot attribute transaction
+T023707,,S013,2024-10-20 13:01:00,131.04,,Missing customer_id - cannot attribute transaction
+T023716,,,2024-04-19 13:05:00,268.11,,Missing customer_id - cannot attribute transaction
+T023727,,S007,2024-11-15 12:14:00,260.94,,Missing customer_id - cannot attribute transaction
+T023737,,S011,2023-09-23 21:22:00,499.69,,Missing customer_id - cannot attribute transaction
+T023769,,S011,2024-10-07 15:51:00,11.19,,Missing customer_id - cannot attribute transaction
+T023849,,S012,2023-06-25 17:07:00,72.92,,Missing customer_id - cannot attribute transaction
+T023867,,S015,2024-08-16 08:38:00,280.99,,Missing customer_id - cannot attribute transaction
+T023930,,S011,2023-04-02 21:57:00,451.78,,Missing customer_id - cannot attribute transaction
+T023941,,S008,2025-03-11 18:00:00,232.24,,Missing customer_id - cannot attribute transaction
+T023961,,S004,2024-10-16 20:55:00,110.3,,Missing customer_id - cannot attribute transaction
+T024048,,S011,2024-11-28 09:34:00,472.66,,Missing customer_id - cannot attribute transaction
+T024064,,S012,2024-06-25 10:15:00,492.12,,Missing customer_id - cannot attribute transaction
+T024090,,S014,2024-11-09 21:43:00,224.93,,Missing customer_id - cannot attribute transaction
+T024112,,S007,2024-11-24 16:15:00,181.9,,Missing customer_id - cannot attribute transaction
+T024116,,S013,2023-02-01 09:49:00,63.43,,Missing customer_id - cannot attribute transaction
+T024135,,S006,2024-09-15 20:23:00,485.34,,Missing customer_id - cannot attribute transaction
+T024150,,S005,2025-03-23 09:08:00,367.65,,Missing customer_id - cannot attribute transaction
+T024176,,S006,2025-06-11 21:59:00,115.44,,Missing customer_id - cannot attribute transaction
+T024205,,S002,2025-03-22 12:20:00,32.98,,Missing customer_id - cannot attribute transaction
+T024237,,S005,2024-03-07 20:30:00,318.3,,Missing customer_id - cannot attribute transaction
+T024253,,S002,13-07-2024 12:40,284.52,,Missing customer_id - cannot attribute transaction
+T024279,,S003,2023-12-21 21:20:00,250.84,,Missing customer_id - cannot attribute transaction
+T024284,,S014,2024-01-25 21:00:00,64.14,,Missing customer_id - cannot attribute transaction
+T024287,,S004,2024-02-29 19:24:00,337.65,,Missing customer_id - cannot attribute transaction
+T024292,,S006,2025-02-04 16:44:00,216.59,,Missing customer_id - cannot attribute transaction
+T024318,,S001,2024-07-14 14:56:00,118.01,,Missing customer_id - cannot attribute transaction
+T024348,,S007,2023-11-28 08:20:00,294.14,,Missing customer_id - cannot attribute transaction
+T024370,,S009,2025-02-10 10:09:00,207.23,,Missing customer_id - cannot attribute transaction
+T024381,,S012,09-01-2023 21:39,322.62,,Missing customer_id - cannot attribute transaction
+T024400,,S014,2023-01-21 10:44:00,470.54,,Missing customer_id - cannot attribute transaction
+T024418,,S004,2023-03-26 17:46:00,366.7,,Missing customer_id - cannot attribute transaction
+T024422,,S011,2024-05-25 11:10:00,302.93,,Missing customer_id - cannot attribute transaction
+T024463,,S003,2025-06-18 17:56:00,178.5,,Missing customer_id - cannot attribute transaction
+T024511,,S009,2025/06/03,396.51,,Missing customer_id - cannot attribute transaction
+T024512,,S012,2023-01-25 10:05:00,144.61,,Missing customer_id - cannot attribute transaction
+T024532,,S008,2024-07-05 15:42:00,290.37,,Missing customer_id - cannot attribute transaction
+T024533,,S003,2024-03-09 20:37:00,471.72,,Missing customer_id - cannot attribute transaction
+T024534,,S012,2024-02-09 18:38:00,186.16,,Missing customer_id - cannot attribute transaction
+T024555,,S013,2024-08-12 17:35:00,303.09,,Missing customer_id - cannot attribute transaction
+T024581,,S004,2023-05-28 19:17:00,439.69,,Missing customer_id - cannot attribute transaction
+T024623,,S014,2023-10-23 18:22:00,163.24,,Missing customer_id - cannot attribute transaction
+T024628,,S005,2024-07-13 19:56:00,192.43,,Missing customer_id - cannot attribute transaction
+T024646,,S010,2025-08-28 18:14:00,358.0,,Missing customer_id - cannot attribute transaction
+T024652,,S015,2023-06-05 12:36:00,131.61,,Missing customer_id - cannot attribute transaction
+T024673,,S009,2023-11-28 11:10:00,,,Missing customer_id - cannot attribute transaction
+T024690,,S014,2025-01-31 17:53:00,495.16,,Missing customer_id - cannot attribute transaction
+T024725,,S004,2024-09-08 10:34:00,411.26,,Missing customer_id - cannot attribute transaction
+T024772,,S010,2024-10-12 13:42:00,411.52,,Missing customer_id - cannot attribute transaction
+T024805,,S002,2025-09-12 08:29:00,291.76,,Missing customer_id - cannot attribute transaction
+T024820,,S001,2025-05-27 14:38:00,68.09,,Missing customer_id - cannot attribute transaction
+T024864,,S012,2024-06-15 19:53:00,177.16,,Missing customer_id - cannot attribute transaction
+T024879,,S004,2024-03-02 20:48:00,158.63,,Missing customer_id - cannot attribute transaction
+T024901,,S009,2023-12-03 12:16:00,440.78,,Missing customer_id - cannot attribute transaction
+T024933,,S010,2024-01-23 18:18:00,447.96,,Missing customer_id - cannot attribute transaction
+T024948,,S011,2023-03-18 18:16:00,78.91,,Missing customer_id - cannot attribute transaction
+T024983,,S010,2023-02-05 14:39:00,261.52,,Missing customer_id - cannot attribute transaction
+T024994,,S009,2024-01-10 18:58:00,135.42,,Missing customer_id - cannot attribute transaction
+T000120,C01389,S006,,96.78,2107562960,Invalid transaction date
+T000147,C03214,S012,,259.09,8467299691,Invalid transaction date
+T000245,C03558,S014,,233.04,7928163046,Invalid transaction date
+T000500,C03129,S011,,367.27,9972349158,Invalid transaction date
+T000581,C00213,S006,,492.88,7817685239,Invalid transaction date
+T000674,C01550,S004,,399.53,4963773586,Invalid transaction date
+T000720,C00717,S015,,61.47,8877887260,Invalid transaction date
+T000737,C03109,S013,,357.28,4708020985,Invalid transaction date
+T000976,C04760,S006,,45.71,1446404820,Invalid transaction date
+T000980,C02844,S010,,425.48,6334048503,Invalid transaction date
+T001261,C00575,S006,,215.75,4014115342,Invalid transaction date
+T001476,C04626,S003,,70.93,7931185619,Invalid transaction date
+T001483,C03077,S014,,434.92,5554492184,Invalid transaction date
+T001498,C00139,S005,,475.74,6968686718,Invalid transaction date
+T001506,C04031,S010,,201.69,5177237220,Invalid transaction date
+T001580,C02809,S001,,117.77,,Invalid transaction date
+T001679,C02758,S013,,436.5,6464069223,Invalid transaction date
+T001727,C01664,S006,,167.22,2982223457,Invalid transaction date
+T001744,C04310,S011,,441.09,7144749924,Invalid transaction date
+T001971,C01012,S002,,197.49,3238726065,Invalid transaction date
+T002105,C01296,S009,,52.39,1316767670,Invalid transaction date
+T002153,C04812,S009,,335.94,5947113955,Invalid transaction date
+T002213,C01325,S004,,61.91,4914368270,Invalid transaction date
+T002367,C02452,S012,,188.63,4152166015,Invalid transaction date
+T002401,C00337,S013,,213.78,2605749457,Invalid transaction date
+T002517,C01408,S014,,350.93,,Invalid transaction date
+T002642,C01640,S012,,108.24,8817818594,Invalid transaction date
+T002877,C03251,S015,,308.81,9057178835,Invalid transaction date
+T002920,C02028,S014,,115.47,,Invalid transaction date
+T002922,C03526,S007,,295.81,2512185764,Invalid transaction date
+T002960,C00204,S015,,421.23,9937400271,Invalid transaction date
+T003168,C03408,S011,,391.26,4099494689,Invalid transaction date
+T003184,C04981,S011,,216.86,8772511969,Invalid transaction date
+T003436,C01214,S009,,484.96,1049895187,Invalid transaction date
+T003543,C04013,S003,,236.45,6314171021,Invalid transaction date
+T003746,C02499,S014,,413.6,7575788115,Invalid transaction date
+T003806,C04199,S003,,82.28,2419017584,Invalid transaction date
+T003836,C00225,S003,,397.99,5576273013,Invalid transaction date
+T003945,C01483,S006,,397.86,6628154596,Invalid transaction date
+T004183,C00539,S009,,97.93,6029761433,Invalid transaction date
+T004297,C04384,S007,,40.33,6524581717,Invalid transaction date
+T004751,C01699,S010,,87.46,8584117269,Invalid transaction date
+T004901,C00122,S006,,407.45,5774387852,Invalid transaction date
+T005019,C00500,S014,,452.71,7989724962,Invalid transaction date
+T005021,C00889,S012,,113.24,9287961284,Invalid transaction date
+T005040,C00497,S011,,12.31,4801404999,Invalid transaction date
+T005161,C02749,S008,,341.78,2995990276,Invalid transaction date
+T005380,C03868,S006,,410.57,9564106831,Invalid transaction date
+T005425,C03887,S013,,110.45,3075169089,Invalid transaction date
+T005530,C00163,S010,,309.15,8059213136,Invalid transaction date
+T005791,C03914,S003,,410.45,,Invalid transaction date
+T005815,C03498,S009,,167.03,1039496585,Invalid transaction date
+T005844,C01439,S006,,,unknown,Invalid transaction date
+T006002,C00684,S015,,306.08,1274128733,Invalid transaction date
+T006066,C00464,S012,,346.84,2152444438,Invalid transaction date
+T006076,C02631,S007,,72.57,4822646760,Invalid transaction date
+T006097,C03474,S002,,390.11,3011740073,Invalid transaction date
+T006102,C04378,S011,,407.59,,Invalid transaction date
+T006121,C03709,S005,,412.17,3088824073,Invalid transaction date
+T006123,C01831,S007,,217.13,7899643663,Invalid transaction date
+T006295,C00227,S012,,422.65,,Invalid transaction date
+T006326,C01547,S006,,,3637584860,Invalid transaction date
+T006397,C03797,S004,,263.7,8691130062,Invalid transaction date
+T006441,C01457,S002,,118.55,6854350726,Invalid transaction date
+T006529,C02758,S002,,289.41,,Invalid transaction date
+T006542,C00578,S006,,197.0,5929124351,Invalid transaction date
+T006818,C01103,S008,,426.2,2757736540,Invalid transaction date
+T006879,C03142,S008,,442.02,3881199545,Invalid transaction date
+T007038,C04256,S010,,255.73,9742640436,Invalid transaction date
+T007210,C01152,S011,,251.97,9012552142,Invalid transaction date
+T007392,C04700,S013,,322.25,6266109913,Invalid transaction date
+T007578,C02694,S014,,260.38,,Invalid transaction date
+T007791,C01443,S010,,373.95,3418550026,Invalid transaction date
+T008031,C01497,S015,,167.07,,Invalid transaction date
+T008241,C01161,S009,,319.09,8114021783,Invalid transaction date
+T008344,C03392,S005,,424.36,,Invalid transaction date
+T008388,C00933,S007,,390.62,3208989948,Invalid transaction date
+T008394,C04452,S005,,48.27,unknown,Invalid transaction date
+T008437,C01650,S011,,434.11,1213565504,Invalid transaction date
+T008440,C02143,S014,,396.76,8471504462,Invalid transaction date
+T008481,C03445,S007,,251.2,42144,Invalid transaction date
+T008537,C01849,S005,,475.14,unknown,Invalid transaction date
+T008625,C02235,S003,,374.1,7961681539,Invalid transaction date
+T008655,C02924,S013,,370.7,4025605559,Invalid transaction date
+T008727,C04955,S005,,11.84,8827565431,Invalid transaction date
+T009051,C03249,S004,,356.5,4688678643,Invalid transaction date
+T009179,C00397,S005,,351.59,,Invalid transaction date
+T009193,C02431,S013,,219.79,,Invalid transaction date
+T009238,C01343,S015,,31.49,3882931538,Invalid transaction date
+T009343,C00716,S013,,442.81,6098955173,Invalid transaction date
+T009367,C04949,S013,,190.9,3318348107,Invalid transaction date
+T009395,C02498,S015,,435.95,4404872452,Invalid transaction date
+T009597,C04678,S002,,87.03,5839035690,Invalid transaction date
+T009715,C02640,S013,,109.71,3181345534,Invalid transaction date
+T009828,C03440,S013,,423.5,,Invalid transaction date
+T009829,C03117,S002,,405.05,3698045966,Invalid transaction date
+T010041,C02647,S005,,499.5,4298995434,Invalid transaction date
+T010074,C00151,S013,,234.35,1208541631,Invalid transaction date
+T010178,C01428,S006,,36.58,,Invalid transaction date
+T010187,C02092,S004,,219.14,7474809278,Invalid transaction date
+T010357,C02955,S005,,417.37,8342631452,Invalid transaction date
+T010383,C00070,S013,,289.31,5541851044,Invalid transaction date
+T010542,C01469,,,343.28,5527676886,Invalid transaction date
+T010555,C01716,S003,,294.68,7899008451,Invalid transaction date
+T010705,C01057,S002,,255.34,1685250958,Invalid transaction date
+T010770,C01230,S009,,412.74,8813556730,Invalid transaction date
+T011032,C01055,S005,,,1959568572,Invalid transaction date
+T011233,C03570,S013,,41.75,8259772191,Invalid transaction date
+T011288,C03078,S006,,472.39,,Invalid transaction date
+T011663,C04341,S015,,281.7,,Invalid transaction date
+T011970,C02344,S005,,454.75,1492594923,Invalid transaction date
+T011976,C03220,S010,,62.35,2362405983,Invalid transaction date
+T012040,C02909,S008,,,9982311284,Invalid transaction date
+T012042,C02583,S001,,50.76,1127264587,Invalid transaction date
+T012280,C01103,S012,,462.29,2757736540,Invalid transaction date
+T012396,C04919,S003,,419.12,1353981610,Invalid transaction date
+T012443,C04484,S012,,257.24,7504446349,Invalid transaction date
+T012772,C04128,S014,,461.19,8591040029,Invalid transaction date
+T012825,C00541,S015,,439.41,,Invalid transaction date
+T013000,C04089,S004,,278.44,3424289701,Invalid transaction date
+T013155,C01573,S011,,129.07,,Invalid transaction date
+T013249,C00572,S004,,342.67,9291600615,Invalid transaction date
+T013378,C02916,S012,,441.04,4549758429,Invalid transaction date
+T013393,C01109,S013,,78.17,9655857173,Invalid transaction date
+T013423,C02953,S015,,180.32,unknown,Invalid transaction date
+T013664,C02620,S012,,497.77,,Invalid transaction date
+T013713,C04841,S010,,124.43,3815667703,Invalid transaction date
+T013738,C01367,S004,,173.33,,Invalid transaction date
+T013780,C04094,S004,,441.51,1876891316,Invalid transaction date
+T013959,C01913,S006,,80.02,,Invalid transaction date
+T014032,C02755,S010,,463.65,,Invalid transaction date
+T014123,C01214,S008,,184.0,1049895187,Invalid transaction date
+T014145,C00613,S013,,307.93,2205339451,Invalid transaction date
+T014398,C03824,S007,,138.96,7555394135,Invalid transaction date
+T014576,C00982,S011,,446.57,5106849360,Invalid transaction date
+T014654,C01197,S011,,,2133686324,Invalid transaction date
+T014999,C02187,S003,,152.06,1195340000,Invalid transaction date
+T015061,C02160,S011,,381.82,7635924142,Invalid transaction date
+T015233,C04124,S005,,461.18,,Invalid transaction date
+T015338,C00183,S012,,96.38,9267306753,Invalid transaction date
+T015451,C04300,S008,,494.27,9999818842,Invalid transaction date
+T015498,C00136,S014,,348.4,,Invalid transaction date
+T015622,C04433,,,225.52,52413,Invalid transaction date
+T015663,C01081,S012,,429.76,2569903930,Invalid transaction date
+T015721,C04203,S010,,265.25,3241731538,Invalid transaction date
+T015790,C04351,S006,,213.85,2531939503,Invalid transaction date
+T015875,C00071,S006,,357.26,2342558874,Invalid transaction date
+T015891,C04157,S013,,40.15,1938358476,Invalid transaction date
+T015923,C01172,S007,,228.02,7081935938,Invalid transaction date
+T015959,C01559,S006,,468.27,3858878309,Invalid transaction date
+T016101,C03415,S003,,419.65,9465451238,Invalid transaction date
+T016162,C00400,,,121.54,9711574205,Invalid transaction date
+T016204,C02890,S002,,485.59,8642585504,Invalid transaction date
+T016294,C00957,S001,,181.25,3916561607,Invalid transaction date
+T016568,C01066,S012,,339.89,2491511319,Invalid transaction date
+T016687,C01156,S013,,164.72,7295847450,Invalid transaction date
+T016689,C03238,S006,,220.93,,Invalid transaction date
+T016816,C02808,S013,,231.4,unknown,Invalid transaction date
+T016861,C03238,S004,,125.42,,Invalid transaction date
+T017208,C01371,S012,,479.31,4632583664,Invalid transaction date
+T017246,C00436,S005,,218.92,8937914190,Invalid transaction date
+T017364,C03752,S008,,194.29,8075852944,Invalid transaction date
+T017407,C03227,S006,,269.38,3229420608,Invalid transaction date
+T017542,C01089,S005,,402.7,7482610881,Invalid transaction date
+T017664,C03403,S008,,458.76,,Invalid transaction date
+T017891,C03859,S005,,209.13,2719977814,Invalid transaction date
+T017894,C01456,S007,,,5106933123,Invalid transaction date
+T017895,C03779,S013,,454.29,9334994179,Invalid transaction date
+T017948,C01078,S006,,355.35,6898975888,Invalid transaction date
+T017990,C04079,S009,,145.04,7085242179,Invalid transaction date
+T017993,C00019,S001,,208.45,5131078038,Invalid transaction date
+T018253,C04523,S001,,445.47,7791184135,Invalid transaction date
+T018528,C02102,S006,,175.25,2454037504,Invalid transaction date
+T018538,C04984,S003,,133.72,3289812644,Invalid transaction date
+T018641,C00707,S013,,489.16,,Invalid transaction date
+T018705,C04637,S006,,195.8,,Invalid transaction date
+T018714,C02735,S004,,424.6,,Invalid transaction date
+T019064,C03637,S004,,379.0,,Invalid transaction date
+T019151,C02893,S012,,269.84,7815806394,Invalid transaction date
+T019293,C03061,S004,,250.91,,Invalid transaction date
+T019367,C00359,S015,,497.29,5096488025,Invalid transaction date
+T019392,C03498,S012,,171.55,1039496585,Invalid transaction date
+T019488,C04315,S004,,285.02,8391460110,Invalid transaction date
+T019575,C03060,S001,,261.88,5647011618,Invalid transaction date
+T019576,C04505,S012,,286.53,5892343216,Invalid transaction date
+T020004,C04831,S008,,407.28,unknown,Invalid transaction date
+T020192,C04886,S015,,221.32,1972220515,Invalid transaction date
+T020374,C02923,S003,,422.0,7916554087,Invalid transaction date
+T020687,C03265,S003,,178.33,2327749707,Invalid transaction date
+T020688,C01349,S013,,243.38,69425,Invalid transaction date
+T020822,C02458,S013,,386.96,1043295551,Invalid transaction date
+T021094,C04776,S011,,174.59,3228828152,Invalid transaction date
+T021366,C04123,S014,,278.85,1733848769,Invalid transaction date
+T021393,C02091,S001,,181.91,,Invalid transaction date
+T021430,C02416,S004,,202.61,,Invalid transaction date
+T021440,C03476,S012,,400.72,1923466629,Invalid transaction date
+T021468,C04996,S003,,57.84,2079981810,Invalid transaction date
+T021505,C04175,S012,,223.52,9669202810,Invalid transaction date
+T021592,C01004,S015,,358.02,7917380445,Invalid transaction date
+T021697,C00399,S010,,91.18,1842590298,Invalid transaction date
+T021834,C03126,S002,,496.4,4727207051,Invalid transaction date
+T021845,C03650,S010,,360.85,9893915939,Invalid transaction date
+T021880,C03127,S002,,,8374587361,Invalid transaction date
+T022019,C00758,S012,,81.64,3426513853,Invalid transaction date
+T022064,C02722,S013,,485.55,8008770482,Invalid transaction date
+T022068,C02433,S007,,248.78,unknown,Invalid transaction date
+T022181,C04991,S006,,219.47,3272011941,Invalid transaction date
+T022697,C04668,S006,,98.6,,Invalid transaction date
+T022784,C04603,S011,,236.8,5159067696,Invalid transaction date
+T022860,C00576,S013,,159.73,8796668818,Invalid transaction date
+T022945,C00208,S010,,185.33,8535140479,Invalid transaction date
+T023120,C03313,S008,,375.46,5778429567,Invalid transaction date
+T023298,C01882,S004,,226.3,,Invalid transaction date
+T023312,C02942,S009,,248.66,1927793468,Invalid transaction date
+T023333,C02485,S001,,368.3,1832634151,Invalid transaction date
+T023442,C04200,S012,,252.46,7935241301,Invalid transaction date
+T023466,C01088,S012,,73.19,,Invalid transaction date
+T023495,C01928,S007,,98.27,3445793488,Invalid transaction date
+T023530,C01617,S009,,52.84,,Invalid transaction date
+T023823,C01159,S007,,229.66,3061620291,Invalid transaction date
+T023825,C01775,S006,,48.42,,Invalid transaction date
+T024158,C04641,S001,,329.79,3964363484,Invalid transaction date
+T024414,C03701,S009,,327.55,5755423886,Invalid transaction date
+T024440,C01570,S006,,246.21,6763782239,Invalid transaction date
+T024553,C00607,S003,,493.23,7129336696,Invalid transaction date
+T024649,C02433,S007,,185.63,unknown,Invalid transaction date
+T024759,C01310,S014,,63.53,3182159767,Invalid transaction date
+T000477,C01626,S015,2025-07-13 21:52:00,-176.3,8048992988,Negative total amount
+T000520,C03193,S012,2025-07-27 09:37:00,-292.02,4763639612,Negative total amount
+T000583,C04120,S013,2025-06-26 18:28:00,-480.68,2825082027,Negative total amount
+T000635,C00932,S009,2024-05-10 15:31:00,-274.94,1267907077,Negative total amount
+T000707,C04479,S013,2024-06-12 00:00:00,-430.42,7551054457,Negative total amount
+T000804,C04060,S006,2025-01-24 10:39:00,-161.02,6093185116,Negative total amount
+T000828,C00367,S009,2024-05-03 18:32:00,-212.86,,Negative total amount
+T000911,C02004,S009,2024-08-29 20:51:00,-390.9,2503351107,Negative total amount
+T000945,C04827,S012,2024-11-08 14:59:00,-52.18,1371767298,Negative total amount
+T000951,C00728,S002,2023-04-14 00:00:00,-240.37,6465143130,Negative total amount
+T000990,C04095,S014,2024-05-02 11:21:00,-281.83,,Negative total amount
+T001006,C04812,S011,2024-06-29 09:19:00,-388.87,5947113955,Negative total amount
+T001117,C03283,S003,2024-09-24 19:09:00,-449.27,1643224396,Negative total amount
+T001211,C02463,S010,2025-07-26 15:14:00,-242.01,3371047648,Negative total amount
+T001257,C03065,S001,2023-01-13 11:05:00,-42.74,5877352040,Negative total amount
+T001325,C00413,S007,2024-05-03 15:19:00,-476.83,8122273983,Negative total amount
+T001676,C04294,S012,2024-02-25 14:46:00,-71.92,,Negative total amount
+T001714,C04107,S012,2025-02-14 15:04:00,-413.54,7169406869,Negative total amount
+T001896,C04483,S013,2024-05-29 18:39:00,-292.6,12975,Negative total amount
+T002001,C00204,S007,2023-08-11 08:30:00,-338.87,9937400271,Negative total amount
+T002094,C00619,S001,2024-10-28 19:26:00,-86.47,1995554990,Negative total amount
+T002143,C03854,S010,2023-06-12 09:53:00,-138.47,7861873311,Negative total amount
+T002231,C00052,S009,2023-09-26 09:21:00,-356.45,7944815608,Negative total amount
+T002351,C01626,S012,2024-11-07 21:47:00,-392.4,8048992988,Negative total amount
+T002370,C04514,S005,2025-07-31 13:08:00,-109.59,2454768598,Negative total amount
+T002426,C01816,S005,2024-06-29 11:26:00,-485.54,3149687356,Negative total amount
+T002536,C03477,S010,2023-10-29 09:03:00,-320.69,7514996384,Negative total amount
+T002843,C00350,S013,2023-04-23 18:09:00,-172.21,9734257839,Negative total amount
+T002850,C00071,S013,2024-04-26 15:09:00,-446.61,2342558874,Negative total amount
+T003019,C02245,S003,2025-04-17 13:44:00,-104.25,2693557066,Negative total amount
+T003092,C02187,S001,2023-07-22 08:27:00,-465.43,1195340000,Negative total amount
+T003383,C03302,S001,2023-10-22 20:53:00,-71.46,,Negative total amount
+T003386,C02437,S013,2024-05-15 16:06:00,-118.43,5866877311,Negative total amount
+T003479,C03250,S012,2025-03-03 19:42:00,-464.22,9211069143,Negative total amount
+T003491,C04037,S014,2024-05-18 19:51:00,-386.45,,Negative total amount
+T003773,C02764,S011,2025-05-26 17:19:00,-134.97,,Negative total amount
+T003862,C04065,S005,2024-12-14 16:46:00,-147.65,5947988055,Negative total amount
+T003905,C02990,S002,2023-07-01 19:52:00,-123.78,3778946989,Negative total amount
+T003970,C00346,S006,2024-01-23 14:09:00,-428.31,1533298057,Negative total amount
+T003990,C02908,S003,2024-11-15 08:44:00,-385.42,4418473590,Negative total amount
+T003995,C01456,S006,2023-11-16 10:51:00,-336.85,5106933123,Negative total amount
+T004406,C02010,S007,2025-04-13 17:15:00,-85.5,4804295840,Negative total amount
+T004420,C02554,S008,2025-04-06 10:46:00,-352.95,,Negative total amount
+T004456,C01258,S009,2025-08-17 16:09:00,-288.47,8138985604,Negative total amount
+T004564,C02643,S005,2025-04-23 13:58:00,-354.55,1674018694,Negative total amount
+T004609,C01032,S015,2023-10-30 19:03:00,-166.06,2385656769,Negative total amount
+T004767,C03137,S005,2024-01-01 17:57:00,-298.2,2643433832,Negative total amount
+T004907,C04223,S002,2025-07-17 09:02:00,-355.27,4143798440,Negative total amount
+T004918,C01062,S013,2024-07-16 17:56:00,-111.6,,Negative total amount
+T004955,C00821,S010,2024-05-05 20:39:00,-356.29,2283823299,Negative total amount
+T004963,C02405,S008,2023-01-19 18:21:00,-498.05,5149689307,Negative total amount
+T005082,C02766,S004,2023-07-01 11:31:00,-164.5,2993652054,Negative total amount
+T005158,C01150,S015,2025-02-28 13:45:00,-382.95,5857558348,Negative total amount
+T005197,C03560,S011,2024-09-21 00:00:00,-304.74,3528307427,Negative total amount
+T005552,C01979,S011,2024-02-11 13:27:00,-401.43,6698396985,Negative total amount
+T005585,C02624,S005,2024-11-25 14:47:00,-497.91,4692263711,Negative total amount
+T005604,C04563,S013,2025-05-11 10:58:00,-35.11,2757623903,Negative total amount
+T005635,C01790,S015,2025-08-29 17:18:00,-61.61,2914002885,Negative total amount
+T005727,C01835,S003,2023-07-30 14:48:00,-483.61,7762346561,Negative total amount
+T005792,C01668,S009,2024-03-12 08:48:00,-342.77,5203929121,Negative total amount
+T005967,C00746,S015,2024-01-02 15:55:00,-204.83,5199758834,Negative total amount
+T006027,C00744,S012,2023-06-08 12:59:00,-228.75,4648127897,Negative total amount
+T006169,C02411,S014,2024-03-16 12:00:00,-495.59,7325967363,Negative total amount
+T006236,C02521,S014,2025-01-23 12:11:00,-258.61,5756376385,Negative total amount
+T006339,C04295,S013,2023-06-05 14:43:00,-130.45,2198418642,Negative total amount
+T006366,C03618,S003,2025-04-16 11:29:00,-170.87,1923578552,Negative total amount
+T006367,C02076,S014,2025-01-06 17:38:00,-369.23,4012496454,Negative total amount
+T006395,C03919,S002,2024-04-16 20:46:00,-75.67,,Negative total amount
+T006595,C04358,S011,2023-06-18 08:19:00,-394.22,2261917029,Negative total amount
+T006611,C04526,,2024-06-23 16:51:00,-81.47,6018576225,Negative total amount
+T006783,C03539,S010,2024-08-06 16:59:00,-62.41,4935614174,Negative total amount
+T006957,C03387,S007,2024-01-26 21:52:00,-347.11,6454878197,Negative total amount
+T007074,C04787,S011,2025-01-29 21:59:00,-75.97,4262219632,Negative total amount
+T007093,C00680,S003,2024-03-13 20:58:00,-484.56,6705711903,Negative total amount
+T007203,C00644,S015,2025-07-18 18:10:00,-305.89,2076815175,Negative total amount
+T007378,C03538,S011,2023-02-18 10:38:00,-102.44,3255679528,Negative total amount
+T007530,C00954,S013,2024-10-28 18:28:00,-412.15,3148966477,Negative total amount
+T007581,C03993,S009,2025-07-31 20:24:00,-352.77,18157,Negative total amount
+T007606,C02219,S013,2025-01-03 13:03:00,-463.84,5362461765,Negative total amount
+T007658,C00045,S001,2025-02-10 18:12:00,-243.59,1576610127,Negative total amount
+T007766,C02713,S015,2023-11-26 15:55:00,-200.72,5199398704,Negative total amount
+T007994,C00532,S012,2023-03-25 19:36:00,-480.99,3391758400,Negative total amount
+T008128,C02799,S007,2024-12-30 12:05:00,-254.64,58914,Negative total amount
+T008130,C01023,S006,2023-02-02 20:10:00,-428.09,8982906140,Negative total amount
+T008175,C01091,S001,2023-01-11 08:44:00,-199.97,6416244575,Negative total amount
+T008301,C02553,S003,2023-08-13 15:46:00,-223.92,,Negative total amount
+T008308,C04639,S010,2023-09-28 10:16:00,-346.89,4138151053,Negative total amount
+T008577,C01551,S010,2025-07-10 17:38:00,-174.6,3443702473,Negative total amount
+T008716,C01060,S007,2025-02-18 09:17:00,-330.53,4511971163,Negative total amount
+T008734,C03923,,2024-08-10 16:12:00,-404.44,6828314330,Negative total amount
+T009151,C03167,S003,2025-05-02 10:25:00,-474.12,2694065362,Negative total amount
+T009292,C00070,S015,2024-09-14 18:49:00,-121.05,5541851044,Negative total amount
+T009352,C02245,S002,2024-01-16 21:35:00,-145.05,2693557066,Negative total amount
+T009375,C04625,S009,2025-04-09 15:19:00,-118.34,2646781799,Negative total amount
+T009401,C00200,S008,2023-08-27 17:30:00,-71.8,6754180079,Negative total amount
+T009439,C03262,S005,2023-03-22 19:36:00,-328.84,5183049518,Negative total amount
+T009450,C04776,S001,2025-04-05 16:12:00,-390.64,3228828152,Negative total amount
+T009530,C02226,S007,2025-07-16 16:51:00,-130.92,4212505158,Negative total amount
+T009538,C01183,S011,2025-02-11 21:48:00,-356.29,3406869365,Negative total amount
+T009647,C04413,S013,2025-07-11 11:17:00,-342.19,6093611011,Negative total amount
+T009737,C00315,S002,2023-05-04 11:41:00,-108.5,,Negative total amount
+T009870,C02076,S002,2025-04-08 15:26:00,-333.45,4012496454,Negative total amount
+T010037,C01889,S011,2023-07-27 09:10:00,-78.86,7783128585,Negative total amount
+T010042,C00113,S007,2023-02-06 12:08:00,-179.5,4306305130,Negative total amount
+T010062,C00753,S008,2023-11-28 17:38:00,-496.18,,Negative total amount
+T010407,C03648,S005,2024-07-16 18:23:00,-52.33,3609097605,Negative total amount
+T010463,C01823,S001,2023-06-12 15:16:00,-352.05,1245390807,Negative total amount
+T010468,C03116,S012,2024-04-23 11:33:00,-33.7,4118784027,Negative total amount
+T010479,C04762,S006,2024-10-02 16:13:00,-155.66,,Negative total amount
+T010738,C03732,S003,2025-06-06 10:44:00,-402.75,1959483280,Negative total amount
+T010772,C00481,S005,2025-08-19 10:08:00,-265.37,7312055863,Negative total amount
+T010824,C02841,S005,2023-09-21 17:22:00,-98.31,4353321812,Negative total amount
+T010853,C00788,S011,2023-04-28 09:49:00,-337.08,1302987493,Negative total amount
+T011002,C00002,S002,2024-06-29 12:00:00,-360.89,1747001212,Negative total amount
+T011244,C01015,S008,2025-08-20 19:33:00,-369.03,,Negative total amount
+T011321,C04431,S006,2023-12-15 09:06:00,-37.39,3901360426,Negative total amount
+T011324,C03847,S014,2024-06-13 19:59:00,-227.16,2099187378,Negative total amount
+T011335,C03205,S015,2023-08-28 18:27:00,-143.73,3981483184,Negative total amount
+T011347,C01773,S003,2025-05-21 00:00:00,-192.12,2601071275,Negative total amount
+T011380,C04744,S012,2023-08-21 14:17:00,-388.98,3009347156,Negative total amount
+T011494,C01559,S004,2023-05-27 12:16:00,-45.19,3858878309,Negative total amount
+T011570,C01465,S010,2023-10-20 15:10:00,-265.34,,Negative total amount
+T011918,C01638,S008,2024-02-02 10:25:00,-497.02,7352365387,Negative total amount
+T011982,C01743,S005,2024-08-14 19:03:00,-292.49,,Negative total amount
+T012122,C02613,S008,2025-04-04 17:00:00,-390.53,7645381432,Negative total amount
+T012262,C01913,S009,2024-01-11 19:14:00,-294.55,,Negative total amount
+T012498,C02983,S014,2023-03-24 21:19:00,-28.47,3112676111,Negative total amount
+T012514,C02711,S015,2024-06-20 11:51:00,-478.14,,Negative total amount
+T012574,C00528,S003,2023-11-11 11:24:00,-104.28,2116139499,Negative total amount
+T012616,C01825,S013,2024-08-30 08:03:00,-417.98,1368808525,Negative total amount
+T012644,C00513,S012,2024-02-27 19:08:00,-170.28,2677063782,Negative total amount
+T012652,C01181,S007,2025-02-02 09:23:00,-184.92,8526558087,Negative total amount
+T012662,C02206,S004,2024-11-11 13:48:00,-221.51,,Negative total amount
+T012827,C01087,S006,2023-12-04 08:39:00,-202.28,3286748021,Negative total amount
+T012915,C00519,S007,2024-09-18 17:33:00,-190.36,1505639150,Negative total amount
+T012918,C04034,S012,2023-12-24 21:24:00,-452.05,4488498515,Negative total amount
+T012989,C03507,,2025-01-08 16:24:00,-144.37,,Negative total amount
+T013418,C04145,S015,2023-06-20 18:21:00,-387.25,1858274307,Negative total amount
+T013420,C04814,S002,2025-04-04 10:57:00,-433.82,6762279763,Negative total amount
+T013479,C02996,S009,2023-04-26 11:19:00,-434.3,9886367417,Negative total amount
+T013623,C02164,S005,2023-07-26 08:14:00,-105.15,9612774773,Negative total amount
+T013691,C02736,S010,2023-05-02 10:18:00,-254.29,7455979323,Negative total amount
+T013721,C04634,S001,2024-04-22 18:59:00,-460.48,2931007683,Negative total amount
+T013760,C03286,S003,2024-06-10 18:14:00,-224.4,5694175917,Negative total amount
+T013898,C02856,S005,2023-10-24 11:13:00,-179.18,43115,Negative total amount
+T014255,C00731,S003,2025-05-20 17:35:00,-422.64,2157894655,Negative total amount
+T014539,C01389,S014,2024-05-16 08:35:00,-355.04,2107562960,Negative total amount
+T014565,C01620,S005,2025-08-28 08:10:00,-259.79,6098453738,Negative total amount
+T014895,C00546,S010,2025-04-27 16:33:00,-496.42,8836956976,Negative total amount
+T014909,C04347,S007,2023-02-08 15:11:00,-126.56,9834941485,Negative total amount
+T015303,C03260,S013,2025-01-12 13:30:00,-350.07,4582605097,Negative total amount
+T015388,C02842,S010,2024-04-19 13:49:00,-142.42,8757967787,Negative total amount
+T015575,C04711,S007,2023-12-14 19:45:00,-308.09,1706472630,Negative total amount
+T015591,C02650,S013,2025-06-20 09:32:00,-357.1,7755819112,Negative total amount
+T015940,C03178,S014,2024-07-31 19:05:00,-199.22,9039449101,Negative total amount
+T016013,C04115,S005,2023-05-27 16:28:00,-138.18,8739647151,Negative total amount
+T016068,C01728,S007,2024-09-19 14:00:00,-20.88,6636444267,Negative total amount
+T016092,C00991,S011,2023-03-13 17:45:00,-19.62,2888132233,Negative total amount
+T016169,C04326,S003,2023-08-29 09:47:00,-52.57,7763977461,Negative total amount
+T016253,C00619,S011,2025-02-06 16:34:00,-424.91,1995554990,Negative total amount
+T016458,C03144,S012,2023-02-21 20:39:00,-145.24,6609669883,Negative total amount
+T016469,C03618,S012,2023-04-25 09:06:00,-417.28,1923578552,Negative total amount
+T016483,C00446,S007,2024-03-09 09:40:00,-421.86,4294820432,Negative total amount
+T016787,C02924,S012,2024-02-19 14:01:00,-284.43,4025605559,Negative total amount
+T016880,C00741,S003,2023-07-26 16:01:00,-127.04,3357142499,Negative total amount
+T016932,C04439,S010,2023-03-19 17:27:00,-53.66,2832747625,Negative total amount
+T016944,C01704,S013,2024-01-17 00:00:00,-166.63,unknown,Negative total amount
+T016960,C04933,S003,2023-07-06 10:09:00,-379.24,3844207439,Negative total amount
+T017082,C03049,,2024-02-03 08:03:00,-332.86,3991962432,Negative total amount
+T017179,C04325,S013,2023-03-08 14:45:00,-482.65,84664,Negative total amount
+T017243,C04618,S010,2023-07-13 19:01:00,-26.8,9056117336,Negative total amount
+T017330,C04510,S005,2024-11-08 00:00:00,-21.48,8794007686,Negative total amount
+T017616,C01164,S002,2024-07-27 21:46:00,-169.62,9399977736,Negative total amount
+T017620,C01318,S007,2025-07-12 08:08:00,-188.93,8724310707,Negative total amount
+T017703,C03651,S013,2023-01-04 09:04:00,-101.04,4067330982,Negative total amount
+T017749,C01957,S008,2024-09-10 11:00:00,-296.0,2677741951,Negative total amount
+T017859,C00725,S010,2025-02-02 09:41:00,-204.95,7894419979,Negative total amount
+T017877,C00474,S012,2024-02-01 21:17:00,-323.54,,Negative total amount
+T017912,C01664,,2023-03-09 10:05:00,-132.62,2982223457,Negative total amount
+T017932,C00344,S006,2024-07-16 12:50:00,-383.05,3316787425,Negative total amount
+T017996,C00426,S014,2024-01-11 13:12:00,-324.44,3266373918,Negative total amount
+T018171,C03840,S007,2023-02-25 16:51:00,-417.53,,Negative total amount
+T018275,C00653,S006,2024-09-17 18:42:00,-483.61,2028762813,Negative total amount
+T018290,C02071,S009,2025-05-03 12:20:00,-65.05,4171556583,Negative total amount
+T018473,C04393,S003,2024-12-17 16:32:00,-493.55,,Negative total amount
+T018498,C02643,S009,2024-11-05 18:59:00,-442.61,1674018694,Negative total amount
+T018513,C02475,S001,2023-10-24 13:13:00,-106.16,,Negative total amount
+T018619,C02267,S012,2024-03-18 00:00:00,-357.85,3332368692,Negative total amount
+T018620,C04038,S001,2024-12-24 16:21:00,-487.88,3455229922,Negative total amount
+T018625,C01718,S015,2023-01-25 15:57:00,-491.9,5586344531,Negative total amount
+T018804,C02939,S011,2024-05-20 11:01:00,-259.89,3997478871,Negative total amount
+T018826,C04124,S014,2024-08-26 15:40:00,-237.55,,Negative total amount
+T018936,C01515,S013,2023-11-05 19:35:00,-26.66,6735399459,Negative total amount
+T019019,C01249,S014,2025-04-06 17:06:00,-316.47,2903384724,Negative total amount
+T019162,C04905,S005,2023-06-19 18:52:00,-55.24,4131998385,Negative total amount
+T019171,C02577,S009,2024-12-23 12:50:00,-308.83,4857372584,Negative total amount
+T019351,C00858,S011,2023-07-01 16:28:00,-145.71,,Negative total amount
+T019407,C04990,S010,2023-12-01 18:56:00,-196.16,3687941148,Negative total amount
+T019503,C03327,S003,2024-05-26 18:16:00,-271.5,,Negative total amount
+T019550,C00114,S005,2023-06-02 08:46:00,-155.38,7289818990,Negative total amount
+T019586,C03501,S001,2024-01-01 10:37:00,-334.99,1417176506,Negative total amount
+T019665,C02189,S009,2025-05-12 13:17:00,-298.32,4989025163,Negative total amount
+T019667,C02480,S003,2023-08-26 20:50:00,-280.33,5673106479,Negative total amount
+T019686,C01548,S007,2024-03-13 15:59:00,-81.29,,Negative total amount
+T019800,C04315,S015,2023-07-26 15:07:00,-156.49,8391460110,Negative total amount
+T019827,C02123,S015,2025-06-29 10:41:00,-115.07,,Negative total amount
+T020037,C01075,S005,2023-02-08 08:28:00,-481.25,4338968236,Negative total amount
+T020311,C04081,S001,2023-03-27 21:57:00,-252.34,9233754660,Negative total amount
+T020543,C03260,S010,2025-08-08 19:55:00,-205.32,4582605097,Negative total amount
+T020578,C00337,S009,2025-03-13 18:18:00,-45.38,2605749457,Negative total amount
+T020673,C03411,S001,2024-02-06 18:36:00,-163.17,,Negative total amount
+T020684,C01420,S008,2025-06-02 12:19:00,-352.26,3532404887,Negative total amount
+T020730,C03970,S009,2024-08-08 18:25:00,-104.28,3601086800,Negative total amount
+T020916,C04463,S001,2023-11-24 14:16:00,-358.2,,Negative total amount
+T020954,C01673,S007,2025-06-22 09:01:00,-236.9,8005961687,Negative total amount
+T021266,C01371,S015,2025-03-11 14:57:00,-332.36,4632583664,Negative total amount
+T021389,C04818,S011,2023-04-22 13:25:00,-476.83,1621064198,Negative total amount
+T021556,C01834,S008,2023-05-20 08:51:00,-111.46,6333675737,Negative total amount
+T021560,C03416,S014,2023-09-01 09:43:00,-73.47,,Negative total amount
+T021666,C02352,S014,2024-02-24 17:32:00,-158.72,9101008908,Negative total amount
+T021689,C02294,S008,2023-07-16 16:42:00,-160.93,7806442637,Negative total amount
+T021819,C01235,S008,2024-09-11 00:00:00,-382.85,7357175540,Negative total amount
+T021931,C04270,S004,2025-08-01 09:45:00,-427.03,5119305270,Negative total amount
+T021969,C01012,S011,2025-08-30 15:25:00,-21.22,3238726065,Negative total amount
+T022023,C01447,S010,2023-01-20 17:38:00,-288.24,2289650043,Negative total amount
+T022081,C04841,S010,2025-04-03 18:47:00,-326.0,3815667703,Negative total amount
+T022235,C01592,S013,2024-03-17 13:19:00,-253.38,7794100148,Negative total amount
+T022469,C03374,S001,2025-08-26 10:41:00,-383.37,7871304756,Negative total amount
+T022593,C01496,S001,2024-01-04 14:08:00,-233.68,,Negative total amount
+T022612,C04177,S005,2023-04-21 17:03:00,-291.2,5037118682,Negative total amount
+T022617,C00948,S006,2025-07-30 17:12:00,-426.8,9037242491,Negative total amount
+T022770,C00325,S005,2024-11-06 09:28:00,-497.8,99786,Negative total amount
+T022928,C01862,S001,2023-02-06 09:49:00,-148.13,5031995202,Negative total amount
+T022989,C02248,S005,2025-04-15 18:44:00,-340.82,3412173542,Negative total amount
+T023064,C01122,S011,2024-05-26 14:12:00,-246.28,6089109893,Negative total amount
+T023602,C00706,,2023-06-19 15:47:00,-446.17,5327557264,Negative total amount
+T023621,C02631,S015,2024-01-04 18:10:00,-178.15,4822646760,Negative total amount
+T023735,C01728,S015,2023-12-14 19:45:00,-296.9,,Negative total amount
+T023863,C01329,S011,2023-06-18 11:38:00,-118.74,8553368143,Negative total amount
+T023901,C00013,S014,2024-04-14 11:11:00,-410.53,1959090660,Negative total amount
+T024074,C00012,S007,2023-09-24 11:28:00,-214.09,2869569884,Negative total amount
+T024145,C03558,S015,2023-04-28 14:54:00,-441.97,7928163046,Negative total amount
+T024168,C03914,S015,2025-06-25 20:45:00,-283.36,7888218081,Negative total amount
+T024171,C01757,S001,2025-06-24 18:03:00,-224.28,6566362242,Negative total amount
+T024204,C01729,S009,2025-05-04 19:07:00,-231.93,9826120953,Negative total amount
+T024234,C04781,S006,2024-02-17 20:51:00,-363.96,38027,Negative total amount
+T024373,C03109,S013,2023-12-25 21:29:00,-362.43,4708020985,Negative total amount
+T024430,C00117,S003,2024-05-17 21:12:00,-235.54,1692662717,Negative total amount
+T024586,C04375,S004,2025-07-31 14:55:00,-348.18,4226397037,Negative total amount
+T024733,C01689,S013,2023-04-22 20:20:00,-236.53,1968156678,Negative total amount
+T024765,C04374,S003,2023-12-21 16:08:00,-29.53,35839,Negative total amount
+T024795,C04496,S004,2024-12-07 10:20:00,-328.1,9111346237,Negative total amount
+T024919,C02823,S009,2024-11-21 14:29:00,-59.7,5742135282,Negative total amount
+T024953,C01728,S003,2025-09-24 10:24:00,-330.22,6636444267,Negative total amount
+T000018,C01590,S005,2025-02-11 08:39:00,,8371394507,Missing total amount
+T000037,C03052,S008,2024-07-25 13:52:00,,4579760988,Missing total amount
+T000053,C00938,S005,2025-09-19 15:30:00,,6672336994,Missing total amount
+T000161,C03046,S009,2023-06-27 12:22:00,,,Missing total amount
+T000285,C02263,S013,2025-02-07 08:54:00,,8589828712,Missing total amount
+T000298,C02986,S005,2024-12-11 16:40:00,,2891955367,Missing total amount
+T000299,C02110,S014,2024-01-18 08:16:00,,2358403760,Missing total amount
+T000411,C03422,S010,2025-03-28 00:00:00,,9765462554,Missing total amount
+T000455,C03493,S014,2024-10-26 16:51:00,,,Missing total amount
+T000460,C04766,S008,2023-04-18 15:40:00,,7456852436,Missing total amount
+T000627,C02160,S010,2024-08-21 14:23:00,,7635924142,Missing total amount
+T000666,C03889,S004,2023-08-29 19:21:00,,,Missing total amount
+T000701,C01451,S002,2023-02-25 10:41:00,,5723062316,Missing total amount
+T000772,C03574,S007,2024-05-05 18:31:00,,80081,Missing total amount
+T000834,C02125,,2023-04-08 09:55:00,,,Missing total amount
+T000857,C00717,S003,2023-04-18 20:54:00,,8877887260,Missing total amount
+T000916,C00428,S015,2025-03-12 10:00:00,,7417634860,Missing total amount
+T000973,C04018,S003,2023-09-20 12:22:00,,5846632761,Missing total amount
+T001069,C00519,S015,2023-12-16 15:59:00,,1505639150,Missing total amount
+T001104,C04545,S013,2024-04-12 14:00:00,,9189499110,Missing total amount
+T001128,C01469,S015,2023-10-15 11:56:00,,5527676886,Missing total amount
+T001167,C02013,S008,2025-09-24 00:00:00,,2471235049,Missing total amount
+T001178,C00848,S009,2024-07-09 12:36:00,,6838579433,Missing total amount
+T001318,C02852,S009,2025-04-19 19:02:00,,2695051152,Missing total amount
+T001568,C02785,S003,2025-09-08 21:39:00,,,Missing total amount
+T001695,C02790,S015,2024-10-19 13:29:00,,,Missing total amount
+T001790,C02736,S008,2023-11-18 11:37:00,,7455979323,Missing total amount
+T001843,C00576,S006,2023-09-18 12:44:00,,8796668818,Missing total amount
+T001911,C02055,S005,2025-01-02 19:36:00,,7741064068,Missing total amount
+T001928,C03219,S007,2025-05-17 15:28:00,,6376655423,Missing total amount
+T001973,C00308,S015,2023-03-31 19:46:00,,2412126668,Missing total amount
+T002034,C02904,S004,2024-02-15 19:47:00,,3793756232,Missing total amount
+T002098,C00231,S013,2024-06-26 21:49:00,,5496939158,Missing total amount
+T002181,C01156,S002,2024-12-12 13:54:00,,7295847450,Missing total amount
+T002205,C04670,S010,2024-07-22 09:59:00,,,Missing total amount
+T002237,C03028,S004,2023-10-02 12:18:00,,7833826867,Missing total amount
+T002257,C00258,,2025-06-21 19:15:00,,7577796448,Missing total amount
+T002312,C02606,S004,2023-09-29 08:28:00,,2215943026,Missing total amount
+T002329,C00954,S009,2024-08-09 15:37:00,,3148966477,Missing total amount
+T002332,C04309,S011,2025-08-13 16:43:00,,7728339032,Missing total amount
+T002337,C00256,S002,2023-05-16 14:23:00,,8834060575,Missing total amount
+T002430,C03317,S013,2025-06-22 19:34:00,,7628429648,Missing total amount
+T002452,C02153,S001,2025-07-11 14:20:00,,2877194693,Missing total amount
+T002688,C01535,S001,2024-03-25 17:24:00,,7802074999,Missing total amount
+T002876,C02701,S004,2024-05-06 19:18:00,,7378256992,Missing total amount
+T003025,C01143,S003,2025-08-23 20:26:00,,4812147194,Missing total amount
+T003116,C01383,S008,2024-04-15 21:48:00,,8122283313,Missing total amount
+T003135,C03396,S009,2024-05-19 20:22:00,,4465871570,Missing total amount
+T003159,C01980,S008,2024-05-08 18:21:00,,5537582465,Missing total amount
+T003396,C03494,S009,2023-03-25 14:07:00,,,Missing total amount
+T003489,C01149,S015,2024-08-23 09:18:00,,,Missing total amount
+T003573,C01419,S005,2025-06-14 12:02:00,,2038785256,Missing total amount
+T003612,C04563,S013,2024-04-25 10:40:00,,2757623903,Missing total amount
+T003653,C01129,S001,2024-08-20 13:07:00,,4379849783,Missing total amount
+T003721,C01545,S006,2024-11-21 15:13:00,,5359936887,Missing total amount
+T003727,C01990,S002,2023-08-05 17:07:00,,3896780595,Missing total amount
+T003754,C00863,S001,2024-03-09 21:05:00,,6719102857,Missing total amount
+T003780,C01668,S010,2025-04-17 18:36:00,,5203929121,Missing total amount
+T003794,C03553,S011,2023-02-26 20:18:00,,4829540488,Missing total amount
+T003906,C03097,S005,2024-12-09 13:47:00,,8739878544,Missing total amount
+T003916,C02395,S009,2025-08-14 20:55:00,,8001308533,Missing total amount
+T003941,C02275,S013,2023-09-07 19:01:00,,4935668463,Missing total amount
+T004035,C02237,S006,2024-06-24 12:12:00,,6748325380,Missing total amount
+T004106,C01437,S010,2024-08-23 18:18:00,,4821449635,Missing total amount
+T004142,C01008,S009,2023-02-15 09:13:00,,3332677020,Missing total amount
+T004151,C02701,S010,2023-11-04 11:57:00,,7378256992,Missing total amount
+T004174,C00392,S015,2025-01-04 20:05:00,,,Missing total amount
+T004185,C03481,S015,2025-07-25 19:52:00,,5018035288,Missing total amount
+T004230,C03659,S003,2025-06-08 11:26:00,,,Missing total amount
+T004233,C04641,S004,2025-02-23 00:00:00,,3964363484,Missing total amount
+T004256,C01617,S006,2024-12-31 12:03:00,,1231505971,Missing total amount
+T004295,C04744,S007,2023-10-25 21:36:00,,3009347156,Missing total amount
+T004306,C00687,S003,2024-02-07 15:38:00,,9128293757,Missing total amount
+T004454,C00954,S001,2024-09-15 17:44:00,,3148966477,Missing total amount
+T004458,C04351,S012,2023-07-25 16:47:00,,,Missing total amount
+T004511,C02705,S013,2024-06-21 00:00:00,,5025082595,Missing total amount
+T004548,C00181,S001,2023-01-26 08:21:00,,2508877301,Missing total amount
+T004619,C03581,S010,2025-09-10 08:49:00,,9163678051,Missing total amount
+T004637,C04680,S001,2023-01-04 19:21:00,,3635523463,Missing total amount
+T004649,C02919,S014,2024-06-23 19:35:00,,,Missing total amount
+T004675,C01956,S008,2023-07-04 15:57:00,,9614485520,Missing total amount
+T004693,C01935,S013,2023-01-02 15:40:00,,3956830566,Missing total amount
+T004695,C02107,S014,2025-04-29 10:12:00,,6995304644,Missing total amount
+T004706,C00854,S013,2025-04-01 20:25:00,,6839128213,Missing total amount
+T004730,C00612,S005,2025-01-18 14:41:00,,7097765068,Missing total amount
+T004783,C03448,S003,2024-04-26 18:14:00,,9743500233,Missing total amount
+T004789,C02486,S005,2024-04-28 19:53:00,,5349094646,Missing total amount
+T004811,C00536,S002,2024-04-08 18:17:00,,6562244415,Missing total amount
+T004871,C01413,S014,2025-06-20 19:36:00,,7526457449,Missing total amount
+T004969,C03723,S014,2025-01-04 17:52:00,,,Missing total amount
+T005011,C04439,S010,2025-06-19 08:56:00,,2832747625,Missing total amount
+T005018,C01184,S003,2024-08-25 13:25:00,,5563972390,Missing total amount
+T005066,C03251,S012,2023-09-02 17:43:00,,9057178835,Missing total amount
+T005089,C03764,S013,2025-07-31 10:03:00,,,Missing total amount
+T005121,C00113,S009,2025-05-15 11:47:00,,4306305130,Missing total amount
+T005242,C01074,S007,2024-03-20 17:13:00,,,Missing total amount
+T005254,C01983,S002,2025-07-14 17:42:00,,4991380231,Missing total amount
+T005266,C00227,S005,2024-03-17 15:16:00,,,Missing total amount
+T005316,C02637,S010,2024-10-15 15:56:00,,unknown,Missing total amount
+T005339,C01720,S009,2024-02-15 11:18:00,,7454631757,Missing total amount
+T005340,C04294,S014,2024-07-19 16:59:00,,1025327586,Missing total amount
+T005377,C00895,S008,2023-07-01 18:36:00,,8555484630,Missing total amount
+T005596,C03474,S015,2023-11-16 15:57:00,,3011740073,Missing total amount
+T005625,C04812,S001,2024-03-09 18:08:00,,5947113955,Missing total amount
+T005649,C04967,S006,2025-05-29 08:42:00,,,Missing total amount
+T005668,C01210,S013,2025-01-05 16:46:00,,,Missing total amount
+T005679,C00950,S009,2025-07-11 20:05:00,,5907685188,Missing total amount
+T005764,C01123,S002,2023-08-02 21:05:00,,7072730412,Missing total amount
+T005785,C03582,S010,2024-05-30 09:48:00,,8587710347,Missing total amount
+T005862,C01670,S001,2023-08-19 16:10:00,,4831832444,Missing total amount
+T006063,C04308,S009,2023-09-16 17:29:00,,33812,Missing total amount
+T006067,C00252,S012,2025-05-08 18:29:00,,3936844941,Missing total amount
+T006116,C04387,S007,2024-11-24 08:03:00,,,Missing total amount
+T006135,C02792,S005,2023-10-27 17:11:00,,1285337959,Missing total amount
+T006146,C03340,S010,2023-03-18 08:48:00,,7386436421,Missing total amount
+T006200,C04704,S012,2025-09-16 15:12:00,,6644652154,Missing total amount
+T006218,C03327,S013,2023-07-08 21:15:00,,5978181497,Missing total amount
+T006222,C01976,S002,2023-01-18 08:34:00,,,Missing total amount
+T006243,C00848,S008,2023-02-05 15:41:00,,6838579433,Missing total amount
+T006293,C02749,S014,2025-06-11 18:04:00,,2995990276,Missing total amount
+T006307,C04766,S002,2024-05-08 10:16:00,,7456852436,Missing total amount
+T006408,C02872,S015,2024-09-10 15:33:00,,,Missing total amount
+T006433,C04907,S006,2023-02-07 14:15:00,,9649159391,Missing total amount
+T006459,C04536,S005,2025-09-27 09:30:00,,7282531814,Missing total amount
+T006467,C00662,S001,2025-04-22 18:12:00,,5676604982,Missing total amount
+T006707,C04749,S015,2023-05-27 10:06:00,,7283310738,Missing total amount
+T006749,C01201,S007,2025-01-04 14:26:00,,3586189842,Missing total amount
+T006954,C03445,S010,2025-06-17 11:46:00,,42144,Missing total amount
+T007005,C02621,S015,2024-08-14 12:36:00,,8514656790,Missing total amount
+T007079,C00128,S008,2023-10-03 13:54:00,,1199660803,Missing total amount
+T007106,C04234,S010,2023-09-27 14:08:00,,6761138638,Missing total amount
+T007145,C02345,S001,2025-04-11 11:26:00,,,Missing total amount
+T007196,C02212,S009,2023-12-04 09:57:00,,3802788903,Missing total amount
+T007257,C01551,S013,2023-01-30 21:18:00,,3443702473,Missing total amount
+T007293,C04946,S008,2024-06-01 08:45:00,,5145224329,Missing total amount
+T007375,C04566,S010,2024-05-30 19:15:00,,9928980982,Missing total amount
+T007394,C04351,S003,2025-07-21 11:11:00,,2531939503,Missing total amount
+T007501,C04026,S005,2023-05-19 21:26:00,,8525803719,Missing total amount
+T007584,C04094,S003,2024-07-09 09:53:00,,1876891316,Missing total amount
+T007595,C00391,S006,2025-05-06 10:16:00,,,Missing total amount
+T007625,C01522,S002,2023-09-21 08:48:00,,8138610341,Missing total amount
+T007630,C03667,S005,2023-12-07 09:23:00,,9689256097,Missing total amount
+T007670,C00507,S013,2024-06-18 12:06:00,,,Missing total amount
+T007681,C03618,S013,2025-01-05 12:20:00,,1923578552,Missing total amount
+T007755,C03273,S014,2024-04-23 00:00:00,,1913953309,Missing total amount
+T007757,C01839,S015,2023-10-14 10:37:00,,2259876767,Missing total amount
+T007789,C02241,S014,2024-02-07 21:31:00,,4399747693,Missing total amount
+T007884,C02428,S006,2024-03-16 20:21:00,,3265818172,Missing total amount
+T007885,C00538,S005,2023-07-12 21:06:00,,2008364846,Missing total amount
+T007902,C01342,S009,2025-01-28 09:08:00,,,Missing total amount
+T007905,C04315,S001,2023-01-16 13:29:00,,,Missing total amount
+T007939,C00844,S012,2025-05-20 10:57:00,,7147457188,Missing total amount
+T007964,C01012,S008,2024-01-25 14:04:00,,3238726065,Missing total amount
+T007991,C04558,S004,2025-03-26 13:54:00,,5851685141,Missing total amount
+T008101,C01029,S008,2023-07-14 09:58:00,,7123074710,Missing total amount
+T008117,C01635,S005,2025-01-11 21:43:00,,,Missing total amount
+T008180,C02324,S015,2023-07-22 19:19:00,,6813569789,Missing total amount
+T008226,C01158,S007,2024-01-13 19:16:00,,7055557092,Missing total amount
+T008252,C02176,S002,2024-09-18 09:22:00,,4243345628,Missing total amount
+T008255,C01060,S014,2025-09-06 16:19:00,,,Missing total amount
+T008316,C00508,S015,2023-12-07 10:44:00,,5252563910,Missing total amount
+T008500,C03508,S014,2025-05-27 10:19:00,,8344832534,Missing total amount
+T008681,C04705,S014,2023-04-06 14:21:00,,4862627297,Missing total amount
+T008746,C01573,S001,2023-03-10 19:15:00,,,Missing total amount
+T008778,C02808,S007,2023-07-23 09:59:00,,unknown,Missing total amount
+T008872,C01520,S002,2025-08-11 15:58:00,,3104943305,Missing total amount
+T008910,C01147,S010,2023-10-03 08:43:00,,,Missing total amount
+T008988,C01400,S013,2025-04-07 08:24:00,,7167160857,Missing total amount
+T009006,C04586,S012,2024-12-29 17:24:00,,5022905004,Missing total amount
+T009042,C00759,S004,2023-08-15 20:04:00,,8789769743,Missing total amount
+T009050,C00105,S003,2023-01-12 21:13:00,,3329124251,Missing total amount
+T009061,C03833,S012,2025-06-21 12:25:00,,,Missing total amount
+T009115,C01389,S013,2024-12-20 10:37:00,,,Missing total amount
+T009214,C04362,S002,2023-02-21 12:08:00,,1974359593,Missing total amount
+T009250,C04981,S004,2024-11-11 18:24:00,,8772511969,Missing total amount
+T009315,C03861,S001,2023-05-17 16:54:00,,,Missing total amount
+T009365,C00391,S006,2024-08-23 08:19:00,,5421360433,Missing total amount
+T009515,C01938,S006,2024-11-07 08:32:00,,,Missing total amount
+T009648,C03038,S009,2023-08-03 12:43:00,,5171287448,Missing total amount
+T009796,C04176,S014,2024-03-01 14:02:00,,,Missing total amount
+T009808,C04127,S015,2024-12-11 21:16:00,,1686207034,Missing total amount
+T009931,C00618,S005,2023-02-27 10:10:00,,,Missing total amount
+T009965,C01890,S013,2025-09-07 19:07:00,,89755,Missing total amount
+T009970,C02974,S001,2023-03-04 16:22:00,,9698187315,Missing total amount
+T010116,C04124,S008,2024-10-21 08:06:00,,,Missing total amount
+T010123,C02533,S007,2024-05-10 13:53:00,,6457134938,Missing total amount
+T010188,C02525,S013,2023-12-31 14:06:00,,2467528964,Missing total amount
+T010263,C02837,S008,2025-09-14 16:01:00,,9033303553,Missing total amount
+T010276,C02413,S011,2025-09-15 10:11:00,,2743029088,Missing total amount
+T010422,C03414,S001,2024-11-29 11:09:00,,7643860481,Missing total amount
+T010437,C03971,S003,2024-09-12 13:04:00,,3022550530,Missing total amount
+T010469,C03687,S012,2024-10-29 09:53:00,,5598850084,Missing total amount
+T010492,C00967,S007,2023-07-13 13:06:00,,5044307298,Missing total amount
+T010631,C02110,S015,2023-06-09 18:28:00,,,Missing total amount
+T010633,C04895,S001,2023-03-04 13:34:00,,72741,Missing total amount
+T010675,C04563,S007,2025-08-11 13:59:00,,2757623903,Missing total amount
+T010778,C03189,S011,2024-04-21 16:46:00,,unknown,Missing total amount
+T010809,C04439,S005,2025-07-04 15:52:00,,2832747625,Missing total amount
+T010837,C04518,S012,2023-09-09 09:41:00,,4422969186,Missing total amount
+T010840,C04463,S015,2024-03-29 12:23:00,,8722901542,Missing total amount
+T010851,C00887,S009,2024-06-22 11:22:00,,6807489772,Missing total amount
+T010903,C01312,S011,2025-04-28 16:54:00,,7215280320,Missing total amount
+T010912,C03752,S004,2023-05-27 13:00:00,,8075852944,Missing total amount
+T011066,C03426,S005,2025-06-11 15:24:00,,,Missing total amount
+T011074,C04383,S002,2023-07-30 13:04:00,,8109070705,Missing total amount
+T011089,C03198,S003,2023-01-25 13:00:00,,,Missing total amount
+T011094,C01932,S002,2023-11-01 16:20:00,,7819061690,Missing total amount
+T011228,C04524,S005,2023-06-10 17:33:00,,2524358361,Missing total amount
+T011245,C02697,S015,2025-03-29 16:14:00,,8675417336,Missing total amount
+T011274,C03110,S002,2024-12-05 13:08:00,,2868325844,Missing total amount
+T011306,C02926,S005,2023-04-08 13:57:00,,4939330161,Missing total amount
+T011348,C00087,S009,2023-06-27 16:11:00,,1742181322,Missing total amount
+T011353,C00052,S009,2024-03-06 14:19:00,,,Missing total amount
+T011405,C04405,S002,2025-03-20 13:58:00,,9897877464,Missing total amount
+T011406,C04480,S014,2024-05-12 14:22:00,,4816380639,Missing total amount
+T011419,C03617,S006,2025-01-21 12:35:00,,,Missing total amount
+T011652,C00114,S015,2023-01-24 13:25:00,,7289818990,Missing total amount
+T011662,C00724,S012,2024-04-24 08:56:00,,8053715204,Missing total amount
+T011721,C01550,S007,2025-06-26 11:55:00,,4963773586,Missing total amount
+T011752,C03023,,2024-08-08 21:41:00,,7842824608,Missing total amount
+T011776,C01890,S009,2025-04-07 20:02:00,,89755,Missing total amount
+T011833,C02837,S006,2024-11-17 09:55:00,,9033303553,Missing total amount
+T011866,C03133,S002,2023-01-20 21:46:00,,8781770045,Missing total amount
+T011960,C04566,S011,2025-02-12 14:11:00,,9928980982,Missing total amount
+T012007,C02161,S007,2024-03-15 14:05:00,,,Missing total amount
+T012017,C01574,S013,2025-01-25 08:45:00,,2086613319,Missing total amount
+T012049,C02603,S014,2023-07-11 10:40:00,,,Missing total amount
+T012147,C03642,S012,2025-01-09 17:17:00,,1683703231,Missing total amount
+T012160,C01449,S003,2024-11-27 10:05:00,,2902331033,Missing total amount
+T012175,C00024,S008,2023-04-25 12:12:00,,4744085559,Missing total amount
+T012191,C00951,S006,2024-04-05 17:52:00,,1041535356,Missing total amount
+T012225,C04858,S010,2024-05-21 14:35:00,,,Missing total amount
+T012278,C03709,S013,2023-08-15 19:33:00,,3088824073,Missing total amount
+T012375,C01332,S004,2024-04-17 09:57:00,,,Missing total amount
+T012392,C04323,S011,2025-04-17 12:03:00,,,Missing total amount
+T012426,C00121,S006,2023-07-24 14:34:00,,5652812554,Missing total amount
+T012489,C04250,S012,2025-05-28 17:52:00,,5363818231,Missing total amount
+T012615,C03542,S009,2023-11-25 13:46:00,,2283583930,Missing total amount
+T012665,C03227,S014,2024-05-23 15:03:00,,3229420608,Missing total amount
+T012750,C01828,S001,2023-10-17 10:23:00,,,Missing total amount
+T013096,C02638,S010,2025-08-01 09:52:00,,7226940792,Missing total amount
+T013289,C04128,S006,2025-06-06 13:30:00,,8591040029,Missing total amount
+T013292,C02216,S005,2024-06-16 08:03:00,,6914211770,Missing total amount
+T013357,C00718,S004,2023-09-30 16:27:00,,1276698254,Missing total amount
+T013467,C02806,S011,2023-07-11 12:18:00,,8215229816,Missing total amount
+T013631,C04581,S003,2024-04-28 13:04:00,,2487619894,Missing total amount
+T013635,C01450,S006,2025-09-25 15:46:00,,,Missing total amount
+T013906,C02164,S013,2024-05-25 13:54:00,,9612774773,Missing total amount
+T013911,C02291,S014,2024-02-17 21:02:00,,,Missing total amount
+T013946,C04933,S010,2023-08-10 11:36:00,,3844207439,Missing total amount
+T013993,C04495,S004,2023-08-30 13:09:00,,,Missing total amount
+T014019,C02075,S005,2025-01-12 08:58:00,,5915915025,Missing total amount
+T014076,C03193,S010,2024-12-04 13:51:00,,4763639612,Missing total amount
+T014095,C02851,S003,2025-01-16 18:45:00,,1914191237,Missing total amount
+T014124,C04907,S006,2024-05-07 19:28:00,,9649159391,Missing total amount
+T014299,C01625,S004,2023-11-10 20:05:00,,1162034555,Missing total amount
+T014391,C04475,S012,2023-03-13 19:33:00,,,Missing total amount
+T014428,C02186,S015,2024-01-10 17:37:00,,8559239610,Missing total amount
+T014447,C04641,S012,2024-05-06 15:31:00,,3964363484,Missing total amount
+T014525,C03666,S007,2023-04-21 15:25:00,,3525753744,Missing total amount
+T014528,C01438,S004,2024-03-11 14:10:00,,3142264771,Missing total amount
+T014562,C00566,S002,2023-08-23 14:57:00,,,Missing total amount
+T014633,C04563,S005,2023-09-05 16:28:00,,,Missing total amount
+T014688,C02023,S015,2023-09-18 10:51:00,,7695093153,Missing total amount
+T014713,C02305,S011,2024-02-08 13:29:00,,6583491736,Missing total amount
+T014715,C01979,S003,2024-08-02 11:11:00,,6698396985,Missing total amount
+T014775,C03513,S013,2025-02-03 17:37:00,,5643600423,Missing total amount
+T014784,C00094,S001,2023-09-25 12:21:00,,unknown,Missing total amount
+T014791,C00549,S007,2024-04-28 14:36:00,,2227971116,Missing total amount
+T014827,C01294,S003,2024-07-14 00:00:00,,5411806418,Missing total amount
+T014888,C03715,S014,2023-02-12 14:50:00,,8081219465,Missing total amount
+T014955,C00624,S009,2023-10-06 19:33:00,,3647785319,Missing total amount
+T014987,C02101,S001,2023-02-28 19:38:00,,,Missing total amount
+T015015,C01682,S002,2024-04-28 00:00:00,,4251897661,Missing total amount
+T015080,C02035,S015,2024-03-03 18:33:00,,,Missing total amount
+T015118,C02274,S005,2023-02-07 18:33:00,,2027090431,Missing total amount
+T015186,C01159,S012,2025-08-30 10:27:00,,3061620291,Missing total amount
+T015277,C01310,S013,2023-08-18 18:14:00,,3182159767,Missing total amount
+T015318,C03469,S004,2025-04-09 15:34:00,,9673169320,Missing total amount
+T015332,C03238,S013,2023-01-30 18:14:00,,1264821998,Missing total amount
+T015366,C03780,S007,2024-12-09 21:29:00,,,Missing total amount
+T015406,C02105,S001,2024-03-15 11:35:00,,5988020527,Missing total amount
+T015412,C03588,S011,2024-06-10 18:08:00,,8346098341,Missing total amount
+T015511,C00898,S001,2024-01-24 10:58:00,,5713422826,Missing total amount
+T015579,C02471,S013,2023-12-13 20:19:00,,7221461596,Missing total amount
+T015646,C04178,S015,2024-10-26 19:19:00,,2504414539,Missing total amount
+T015681,C01347,S015,2025-02-27 15:01:00,,8943567643,Missing total amount
+T015710,C04510,S004,2024-02-17 17:57:00,,8794007686,Missing total amount
+T015780,C04683,S015,2024-03-15 14:49:00,,5136734920,Missing total amount
+T015825,C03060,S011,2023-08-31 14:33:00,,5647011618,Missing total amount
+T015864,C04795,S008,2025-04-24 20:15:00,,,Missing total amount
+T015936,C00513,S010,2023-11-08 15:55:00,,2677063782,Missing total amount
+T015943,C04065,S011,2025-01-29 16:56:00,,5947988055,Missing total amount
+T016002,C02383,S013,2025-05-24 09:05:00,,3512260976,Missing total amount
+T016024,C01105,S004,2023-07-31 10:58:00,,6565102758,Missing total amount
+T016048,C03741,S007,2023-02-25 17:46:00,,7992496564,Missing total amount
+T016102,C00297,S011,2025-07-29 16:55:00,,7994347166,Missing total amount
+T016109,C00805,S010,2024-10-18 10:25:00,,2842000531,Missing total amount
+T016131,C04744,S007,2024-05-23 20:08:00,,3009347156,Missing total amount
+T016148,C03849,S003,2023-08-15 13:35:00,,,Missing total amount
+T016164,C00679,S003,2024-12-12 19:55:00,,9291936781,Missing total amount
+T016287,C03699,S007,2024-06-05 19:23:00,,6983535328,Missing total amount
+T016291,C04776,,2024-12-07 10:59:00,,3228828152,Missing total amount
+T016531,C01942,S010,2025-05-10 17:38:00,,,Missing total amount
+T016614,C04309,S011,2024-12-03 12:06:00,,7728339032,Missing total amount
+T016661,C00792,S015,2024-10-24 11:55:00,,2583177321,Missing total amount
+T016702,C04920,S014,2024-10-03 15:21:00,,4082308670,Missing total amount
+T016712,C01935,S002,2023-01-31 08:53:00,,3956830566,Missing total amount
+T016717,C01415,S006,2024-12-07 17:28:00,,7077932005,Missing total amount
+T016769,C01993,S005,2025-06-07 12:38:00,,6236555966,Missing total amount
+T016776,C02572,S002,2025-09-26 17:48:00,,9414832347,Missing total amount
+T016798,C04638,S011,2024-05-04 14:54:00,,,Missing total amount
+T016922,C04024,S009,2024-08-15 14:32:00,,3904481662,Missing total amount
+T017064,C03408,S001,2023-07-02 20:04:00,,4099494689,Missing total amount
+T017119,C04812,S014,2023-07-24 08:41:00,,5947113955,Missing total amount
+T017206,C00327,S010,2023-02-19 09:39:00,,4788608923,Missing total amount
+T017211,C02383,S011,2024-03-20 08:24:00,,3512260976,Missing total amount
+T017260,C03790,S009,2023-10-03 08:42:00,,5789165940,Missing total amount
+T017374,C04338,S013,2023-02-06 13:38:00,,7091113366,Missing total amount
+T017431,C02635,S002,2024-07-18 08:19:00,,2666384438,Missing total amount
+T017525,C03723,S004,2024-08-05 12:17:00,,2361244218,Missing total amount
+T017680,C03879,S009,2025-03-19 10:54:00,,1248321970,Missing total amount
+T017781,C01623,S005,2024-08-17 18:38:00,,4271176496,Missing total amount
+T017800,C01408,S008,2024-12-17 08:58:00,,,Missing total amount
+T017819,C02510,S012,2023-02-09 20:33:00,,7897962906,Missing total amount
+T017864,C01481,S010,2023-05-03 11:49:00,,5302142813,Missing total amount
+T017958,C01404,S006,2024-08-23 13:36:00,,9058820227,Missing total amount
+T018093,C02287,S011,2024-03-01 00:00:00,,7401564896,Missing total amount
+T018116,C00391,,2024-05-19 17:05:00,,5421360433,Missing total amount
+T018418,C04790,S003,2024-03-15 11:04:00,,,Missing total amount
+T018427,C00262,S011,2023-11-25 09:03:00,,4162462431,Missing total amount
+T018526,C02354,S012,2024-11-24 16:55:00,,2171065629,Missing total amount
+T018560,C01839,S007,2025-07-23 10:13:00,,2259876767,Missing total amount
+T018569,C03394,S003,2023-07-25 16:30:00,,3388315274,Missing total amount
+T018607,C04762,S004,2025-06-29 08:32:00,,,Missing total amount
+T018637,C04909,S005,2023-06-25 16:54:00,,3495614877,Missing total amount
+T018645,C04946,S006,2024-07-05 09:45:00,,5145224329,Missing total amount
+T018656,C04140,S009,2024-10-03 10:54:00,,7251293279,Missing total amount
+T018659,C03936,S001,2025-02-19 18:56:00,,5583614368,Missing total amount
+T018760,C00306,S004,2025-05-26 11:02:00,,1382222751,Missing total amount
+T018823,C04431,S008,2023-10-22 11:49:00,,3901360426,Missing total amount
+T018862,C03594,S007,2024-09-23 16:14:00,,1416583018,Missing total amount
+T018886,C04431,S007,2023-12-08 17:32:00,,3901360426,Missing total amount
+T018920,C03522,S012,2025-03-23 12:49:00,,4896860268,Missing total amount
+T018934,C03888,S006,2024-03-29 08:57:00,,1603169562,Missing total amount
+T019005,C04911,S011,2024-01-08 10:29:00,,1643848972,Missing total amount
+T019010,C00397,S004,2024-12-31 17:50:00,,,Missing total amount
+T019071,C04841,S001,2023-06-07 17:54:00,,3815667703,Missing total amount
+T019221,C03854,S008,2025-07-15 19:35:00,,7861873311,Missing total amount
+T019291,C03971,S002,2023-06-08 15:55:00,,3022550530,Missing total amount
+T019352,C00339,S007,2023-01-22 13:16:00,,5037253500,Missing total amount
+T019422,C04017,S007,2025-01-27 14:50:00,,7428014107,Missing total amount
+T019431,C03038,S004,2024-07-24 12:37:00,,5171287448,Missing total amount
+T019471,C01829,S013,2025-04-04 12:01:00,,3617210394,Missing total amount
+T019673,C02527,S001,2024-09-07 18:18:00,,44469,Missing total amount
+T019679,C03847,S015,2024-11-23 15:05:00,,2099187378,Missing total amount
+T019720,C00053,S002,2024-08-21 17:42:00,,6783651604,Missing total amount
+T019724,C01995,S008,2025-01-18 09:22:00,,7723920895,Missing total amount
+T019753,C01875,S008,2024-10-27 15:10:00,,6766645275,Missing total amount
+T019809,C01743,S003,2023-09-13 09:24:00,,5389106630,Missing total amount
+T019886,C00519,S001,2024-10-28 15:00:00,,1505639150,Missing total amount
+T020036,C02767,S008,2025-04-28 20:07:00,,1867586121,Missing total amount
+T020050,C03153,S006,2025-08-14 12:30:00,,3513399936,Missing total amount
+T020080,C03154,S015,2025-09-07 17:56:00,,2516793382,Missing total amount
+T020142,C03050,S001,2023-01-15 11:47:00,,64275,Missing total amount
+T020290,C02016,S012,2023-12-27 14:02:00,,2061140812,Missing total amount
+T020309,C02252,S013,2024-10-01 13:52:00,,1214180493,Missing total amount
+T020340,C04676,S006,2023-03-22 10:52:00,,4579781792,Missing total amount
+T020450,C04969,S015,2023-10-15 18:26:00,,,Missing total amount
+T020456,C00192,S006,2025-08-08 08:50:00,,4387557976,Missing total amount
+T020466,C04177,S004,2023-09-15 11:22:00,,5037118682,Missing total amount
+T020493,C04407,S012,2025-02-06 12:43:00,,8147932022,Missing total amount
+T020531,C01066,S011,2024-02-11 21:40:00,,2491511319,Missing total amount
+T020554,C04469,S002,2024-09-05 15:45:00,,1447532069,Missing total amount
+T020599,C01376,S001,2023-09-14 12:06:00,,8917731559,Missing total amount
+T020619,C02278,S002,2024-05-13 21:38:00,,1665033945,Missing total amount
+T020656,C04378,S004,2023-03-05 19:09:00,,,Missing total amount
+T020659,C00472,S002,2023-02-19 17:59:00,,8772456742,Missing total amount
+T020760,C00967,S006,2025-01-25 08:54:00,,5044307298,Missing total amount
+T020869,C02866,S005,2023-07-02 14:22:00,,4879815947,Missing total amount
+T020891,C04939,S012,2024-08-08 08:05:00,,1646463854,Missing total amount
+T020984,C04817,S006,2023-05-08 14:19:00,,6033021729,Missing total amount
+T021145,C01385,S005,2024-12-12 19:02:00,,9789166890,Missing total amount
+T021156,C00980,S009,2023-01-29 11:43:00,,7297151290,Missing total amount
+T021213,C01592,S013,2024-06-25 08:17:00,,7794100148,Missing total amount
+T021222,C01929,S014,2023-09-23 21:12:00,,7642776778,Missing total amount
+T021265,C02731,S012,2023-01-11 10:03:00,,2376471814,Missing total amount
+T021272,C00476,,2023-11-25 20:29:00,,9963307324,Missing total amount
+T021419,C02102,S009,2024-03-14 14:01:00,,2454037504,Missing total amount
+T021449,C00569,S005,2025-03-19 15:14:00,,unknown,Missing total amount
+T021571,C00166,S015,2025-03-28 14:20:00,,1468433920,Missing total amount
+T021672,C00606,S004,2024-11-10 14:33:00,,,Missing total amount
+T021713,C02556,S010,2023-04-13 19:07:00,,1684842459,Missing total amount
+T021751,C02120,S003,2025-02-25 18:29:00,,2782305064,Missing total amount
+T021842,C00870,S008,2025-05-31 08:41:00,,1923086342,Missing total amount
+T021850,C00385,S009,2023-07-14 19:22:00,,5271095169,Missing total amount
+T021910,C04434,S005,2023-09-10 11:47:00,,2217397066,Missing total amount
+T022290,C00407,S010,2023-07-23 16:52:00,,9979175606,Missing total amount
+T022359,C00299,S009,2023-06-17 13:52:00,,,Missing total amount
+T022639,C04150,S015,2023-03-28 08:01:00,,7979124988,Missing total amount
+T022695,C01527,S011,2025-05-23 12:23:00,,6144375888,Missing total amount
+T022703,C04074,S010,2024-08-25 14:57:00,,,Missing total amount
+T022862,C04081,S012,2025-05-12 17:26:00,,9233754660,Missing total amount
+T022931,C02325,S003,2024-05-01 19:35:00,,4564900855,Missing total amount
+T023025,C04529,S003,2024-04-14 20:04:00,,4665428442,Missing total amount
+T023050,C03615,S008,2024-07-03 19:36:00,,,Missing total amount
+T023085,C01055,S011,2023-05-22 10:08:00,,1959568572,Missing total amount
+T023105,C00507,S011,2024-07-19 13:57:00,,,Missing total amount
+T023263,C04454,S003,2025-07-09 16:25:00,,27638,Missing total amount
+T023285,C00465,S004,2024-09-13 18:15:00,,7722057136,Missing total amount
+T023290,C01592,S003,2023-05-23 19:19:00,,7794100148,Missing total amount
+T023327,C04729,S001,2023-11-08 13:54:00,,3672668309,Missing total amount
+T023388,C01036,S008,2023-12-05 17:52:00,,2978842645,Missing total amount
+T023451,C01855,,2024-12-18 18:42:00,,6754381382,Missing total amount
+T023570,C00555,S013,2024-10-21 10:34:00,,,Missing total amount
+T023630,C01112,S012,2023-07-14 20:17:00,,3107816044,Missing total amount
+T023685,C03297,S008,2024-03-28 14:04:00,,,Missing total amount
+T023724,C04026,S003,2025-09-09 20:51:00,,8525803719,Missing total amount
+T023767,C01376,S014,2025-08-20 14:49:00,,8917731559,Missing total amount
+T023817,C01378,,2025-01-29 12:23:00,,6085397983,Missing total amount
+T023860,C01801,S007,2023-09-14 15:16:00,,,Missing total amount
+T023882,C03558,S004,2023-02-22 17:39:00,,7928163046,Missing total amount
+T023902,C02730,S011,2024-09-24 15:25:00,,9726370980,Missing total amount
+T023916,C02270,S013,2023-04-23 15:19:00,,1161357191,Missing total amount
+T023954,C03760,S010,2024-10-14 14:59:00,,8589819706,Missing total amount
+T024088,C00796,S003,2025-01-14 12:26:00,,unknown,Missing total amount
+T024089,C01624,S015,2025-05-18 12:32:00,,3097792821,Missing total amount
+T024121,C04207,S012,2024-08-21 13:15:00,,5207030923,Missing total amount
+T024124,C04724,S001,2024-05-02 19:18:00,,,Missing total amount
+T024316,C00151,S015,2024-11-13 10:57:00,,1208541631,Missing total amount
+T024353,C01045,S012,2023-11-25 09:07:00,,3703985466,Missing total amount
+T024359,C03249,S006,2023-08-25 13:30:00,,4688678643,Missing total amount
+T024564,C04778,S010,2023-08-16 21:58:00,,7016055966,Missing total amount
+T024611,C02572,S012,2023-12-18 13:54:00,,9414832347,Missing total amount
+T024619,C01773,S015,2025-08-04 10:52:00,,2601071275,Missing total amount
+T024626,C01886,,2023-06-29 19:27:00,,6594684950,Missing total amount
+T024637,C01390,S002,2023-02-15 15:34:00,,,Missing total amount
+T024768,C03514,S003,2025-01-01 14:14:00,,2388383884,Missing total amount
+T024781,C03041,S004,2025-01-25 15:30:00,,7493315209,Missing total amount
+T024866,C04172,S012,2023-08-25 20:02:00,,9435008099,Missing total amount
+T024885,C00708,S008,2024-07-06 09:07:00,,1803903155,Missing total amount
+T024966,C00258,S001,2024-08-12 20:02:00,,7577796448,Missing total amount

@@ -1,0 +1,2 @@
+product_id,product_name,product_category,unit_price,current_stock_level,rejection_reason
+P0100,Face Mask V1,Beauty,2785.0,452.0,Extreme price outlier (>1000)
