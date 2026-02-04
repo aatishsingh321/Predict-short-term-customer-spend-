@@ -1,0 +1,72 @@
+Customer Features for 30-Day Spend Prediction
+Generated: 2026-02-04 12:34:51
+Cutoff Date: 2025-01-01 00:00:00
+Total Customers: 3818
+Total Features: 56
+
+==================================================
+
+RFM Features:
+  - recency_days
+  - frequency_30d
+  - frequency_60d
+  - frequency_90d
+  - frequency_180d
+  - frequency_365d
+  - frequency_total
+  - monetary_30d
+  - monetary_60d
+  - monetary_90d
+  - monetary_180d
+  - monetary_365d
+  - monetary_total
+  - avg_order_value
+  - avg_order_value_30d
+  - avg_order_value_60d
+  - avg_order_value_90d
+  - max_order_value
+  - min_order_value
+  - std_order_value
+
+Product/Category Features:
+  - unique_categories
+  - unique_products
+  - total_items_purchased
+  - top_category
+  - pct_spend_apparel
+  - pct_spend_automotive
+  - pct_spend_beauty
+  - pct_spend_books
+  - pct_spend_electronics
+  - pct_spend_grocery
+  - pct_spend_home_&_garden
+  - pct_spend_jewelry
+  - pct_spend_sports
+  - pct_spend_toys
+  - pct_spend_unknown
+
+Store/Channel Features:
+  - unique_stores
+  - unique_regions
+  - primary_store_id
+  - primary_region
+
+Customer Attributes:
+  - loyalty_status
+  - total_loyalty_points
+  - segment_id
+  - tenure_days
+
+Behavioral Features:
+  - avg_days_between_purchases
+  - std_days_between_purchases
+  - avg_purchase_hour
+  - preferred_time_of_day
+  - preferred_day
+  - weekend_transaction_pct
+
+Target Variables:
+  - future_spend_30d
+  - future_transactions_30d
+  - will_purchase_30d
+

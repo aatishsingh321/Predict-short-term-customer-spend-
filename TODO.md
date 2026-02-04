@@ -42,14 +42,14 @@ Build a regression model to predict how much a customer will spend in the next 3
 - [x] Clean data types (dates, amounts)
 
 ### 5.2.2 Feature Engineering (Customer-Level)
-- [ ] Create RFM features (Recency, Frequency, Monetary)
-- [ ] Product/category preferences
-- [ ] Channel usage features
-- [ ] Customer attributes (region, segment, loyalty tier)
+- [x] Create RFM features (Recency, Frequency, Monetary)
+- [x] Product/category preferences
+- [x] Channel usage features
+- [x] Customer attributes (region, segment, loyalty tier)
 
 ### 5.2.3 Define Target Variable
-- [ ] Calculate `future_spend_30d` for each customer
-- [ ] Create customer-level dataset (one row per customer)
+- [x] Calculate `future_spend_30d` for each customer
+- [x] Create customer-level dataset (one row per customer)
 
 ### 5.2.4 EDA
 - [ ] Descriptive statistics
