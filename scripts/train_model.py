@@ -34,7 +34,7 @@ MODELS_DIR = "/Users/apple/Customer Spend Predictor/models"
 # Cutoff date for train/test split (30 days before last transaction)
 # Features are computed BEFORE cutoff, target is AFTER cutoff
 CUTOFF_DATE = pd.Timestamp('2025-08-01')
-PREDICTION_WINDOW = 30  # days
+PREDICTION_WINDOW = 45  # days
 
 # ============================================================
 # HELPER FUNCTIONS

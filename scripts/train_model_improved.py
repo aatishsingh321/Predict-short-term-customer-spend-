@@ -51,7 +51,7 @@ MODELS_DIR = "/Users/apple/Customer Spend Predictor/models"
 
 # Time-based split parameters
 CUTOFF_DATE = pd.Timestamp('2025-08-01')
-PREDICTION_WINDOW = 30  # days
+PREDICTION_WINDOW = 45  # days
 
 # Winsorization percentile (cap outliers)
 WINSORIZE_PERCENTILE = 99
