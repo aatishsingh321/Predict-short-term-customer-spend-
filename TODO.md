@@ -52,9 +52,9 @@ Build a regression model to predict how much a customer will spend in the next 3
 - [x] Create customer-level dataset (one row per customer)
 
 ### 5.2.4 EDA
-- [ ] Descriptive statistics
-- [ ] Distribution plots
-- [ ] Initial hypotheses
+- [x] Descriptive statistics
+- [x] Distribution plots
+- [x] Initial hypotheses
 
 ### Model Selection, Training, Evaluation
 
