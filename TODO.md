@@ -79,14 +79,14 @@ git
 
 ### 5.2.10 Model Packaging
 - [x] Save final trained model (pickle/joblib)
-- [ ] Create inference function
+- [x] Create inference function
 
 ### Sprint 2 Deliverables
 - [x] Customer-level dataset with features
 - [x] Trained and saved final model
 - [x] Comparison of baseline vs final model
 - [x] Short write-up of key insights
-- [ ] Callable inference interface
+- [x] Callable inference interface
 
 ---
 
