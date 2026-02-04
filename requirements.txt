@@ -1,0 +1,16 @@
+# Customer Spend Predictor - Requirements
+
+# Core dependencies
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Web UI
+streamlit>=1.20.0
+
+# Utilities
+pickle5>=0.0.11;python_version<"3.8"

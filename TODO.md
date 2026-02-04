@@ -93,25 +93,25 @@ git
 ## Sprint 3: Front-End UI and Endpoint Integration (1 hour)
 
 ### 5.3.1 Design UI Inputs
-- [ ] Define input fields (customer features)
-- [ ] Design UI layout
+- [x] Define input fields (customer features)
+- [x] Design UI layout
 
 ### 5.3.2 Implement UI
-- [ ] Build simple UI (Streamlit/Gradio/Flask)
-- [ ] Add input validation
+- [x] Build simple UI (Streamlit/Gradio/Flask)
+- [x] Add input validation
 
 ### 5.3.3 Integrate UI with Model
-- [ ] Connect UI to model inference function
-- [ ] Display prediction results
+- [x] Connect UI to model inference function
+- [x] Display prediction results
 
 ### 5.3.4 Error Handling & UX
-- [ ] Add error messages
-- [ ] Loading states
-- [ ] Clear result display
+- [x] Add error messages
+- [x] Loading states
+- [x] Clear result display
 
 ### Sprint 3 Deliverables
-- [ ] Working UI that accepts customer features
-- [ ] Returns model prediction for short-term spend
+- [x] Working UI that accepts customer features
+- [x] Returns model prediction for short-term spend
 
 ---
 
