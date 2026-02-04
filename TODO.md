@@ -50,42 +50,42 @@ Build a regression model to predict how much a customer will spend in the next 3
 ### 5.2.3 Define Target Variable
 - [x] Calculate `future_spend_30d` for each customer
 - [x] Create customer-level dataset (one row per customer)
-
+git
 ### 5.2.4 EDA
-- [x] Descriptive statistics
-- [x] Distribution plots
-- [x] Initial hypotheses
+- [ ] Descriptive statistics
+- [ ] Distribution plots
+- [ ] Initial hypotheses
 
 ### Model Selection, Training, Evaluation
 
 ### 5.2.5 Data Splitting
-- [ ] Train/test split based on cutoff date
-- [ ] Validate no data leakage
+- [x] Train/test split based on cutoff date
+- [x] Validate no data leakage
 
 ### 5.2.6 Baseline Model
-- [ ] Build simple baseline (e.g., mean/median predictor)
+- [x] Build simple baseline (e.g., mean/median predictor)
 
 ### 5.2.7 Model Selection & Training
-- [ ] Try multiple regression models (Linear, Ridge, Random Forest, XGBoost)
-- [ ] Hyperparameter tuning
+- [x] Try multiple regression models (Linear, Ridge, Random Forest, XGBoost)
+- [x] Hyperparameter tuning
 
 ### 5.2.8 Model Evaluation
-- [ ] Calculate MAE, RMSE, R²
-- [ ] Compare models
+- [x] Calculate MAE, RMSE, R²
+- [x] Compare models
 
 ### 5.2.9 Interpretability (Optional)
-- [ ] Feature importance analysis
+- [x] Feature importance analysis
 - [ ] SHAP values if time permits
 
 ### 5.2.10 Model Packaging
-- [ ] Save final trained model (pickle/joblib)
+- [x] Save final trained model (pickle/joblib)
 - [ ] Create inference function
 
 ### Sprint 2 Deliverables
-- [ ] Customer-level dataset with features
-- [ ] Trained and saved final model
-- [ ] Comparison of baseline vs final model
-- [ ] Short write-up of key insights
+- [x] Customer-level dataset with features
+- [x] Trained and saved final model
+- [x] Comparison of baseline vs final model
+- [x] Short write-up of key insights
 - [ ] Callable inference interface
 
 ---
