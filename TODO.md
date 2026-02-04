@@ -21,16 +21,16 @@ Build a regression model to predict how much a customer will spend in the next 3
 - [x] Choose final dataset with justification
 
 ### 5.1.3 High-Level Architecture
-- [ ] Define tech stack (Python, libraries: pandas, scikit-learn, etc.)
-- [ ] Design how UI will call the model (local API/function call)
-- [ ] Create high-level system diagram
-- [ ] Define cutoff date logic for train/test split
+- [x] Define tech stack (Python, libraries: pandas, scikit-learn, etc.)
+- [x] Design how UI will call the model (local API/function call)
+- [x] Create high-level system diagram
+- [x] Define cutoff date logic for train/test split
 
 ### Sprint 1 Deliverables
-- [ ] Written problem summary (business + ML)
-- [ ] Chosen dataset + justification
-- [ ] Defined horizon (30 days) and cutoff date logic
-- [ ] High-level system diagram
+- [x] Written problem summary (business + ML)
+- [x] Chosen dataset + justification
+- [x] Defined horizon (30 days) and cutoff date logic
+- [x] High-level system diagram
 
 ---
 
